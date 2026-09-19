@@ -16,7 +16,7 @@ export function ArtifactMap({selected,onSelect}:{selected:string;onSelect:(id:st
  const left=center[0]-width/2,top=center[1]-height/2;
  const place=places.find(p=>p.id===selected);
  return <section className="discovery-map" aria-label="Find artifacts by location">
- <div className="map-toolbar"><div><h3>Explore by place</h3><p>Select a marker to see its artifacts.</p></div><div className="filter-row"><button aria-pressed={!museum} onClick={()=>{setMuseum(false);setZoom(1);onSelect('');}}>Found near</button><button aria-pressed={museum} onClick={()=>{setMuseum(true);setZoom(1);onSelect('');}}>Museum</button></div></div>
+ <div className="map-toolbar"><div><h3>Explore by place</h3><p>Select a marker to see its artifacts. Marker counts show all associated objects, before your search filters.</p></div><div className="filter-row"><button aria-pressed={!museum} onClick={()=>{setMuseum(false);setZoom(1);onSelect('');}}>Found near</button><button aria-pressed={museum} onClick={()=>{setMuseum(true);setZoom(1);onSelect('');}}>Museum</button></div></div>
  <div className="map-canvas">
  <svg viewBox={`${left} ${top} ${width} ${height}`} preserveAspectRatio="none" aria-hidden="true"><image href="/map-land.svg" width="360" height="180"/></svg>
  <span className="map-region">{museum?'NORTH AMERICA':'EGYPT · MESOPOTAMIA'}</span>
