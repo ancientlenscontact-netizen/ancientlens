@@ -1,0 +1,40 @@
+{
+  "id": "cma-97364",
+  "title": "Stater: Head of Athena (obverse); Nike (reverse)",
+  "accession": "1916.979",
+  "date": "c. 325–275 BCE",
+  "culture": [
+    "Greek, Macedonian, minted at Salamis (Cyprus)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.979",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97364",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "b539335a0a5d59677138b016076f81a310b5ffa78159c8c1e9bdd29d6c2ce5d1",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97364.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_web.jpg",
+  "image_sha256": "3bceb52ad7dbe2711637d2064c7e3da20b41a671197aa024288b9bf6a4030aa9",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97364-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of Alexander",
+      "source_text": "ΑΛΕΞΑΝΔΡΟΥ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97364.json",
+  "record_url": "/curated/cma-97364.json",
+  "note": "",
+  "description": ""
+}

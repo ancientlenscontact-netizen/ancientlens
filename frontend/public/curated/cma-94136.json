@@ -1,0 +1,40 @@
+{
+  "id": "cma-94136",
+  "title": "Paint Box of Vizier Amenemope",
+  "accession": "1914.680",
+  "date": "c. 1427–1401 BCE",
+  "culture": [
+    "Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep II (1425–1400 BCE)"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1914.680",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/94136",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "3ba7ade7fb20a55b2186b363010e43a355305dab545e747799ff6844d2ddf102",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-94136.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1914.680/1914.680_web.jpg",
+  "image_sha256": "ae1039d101c105806bf728e125901f9aa75d32a4676d5f577d13b9305861e251",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-94136-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Blue on Front: The overseer of the city and vizier Amenemope.  \nMaster of secrets of the west bank [of Thebes].\nRed on Back: Amen-Ra, Lord of the Thrones of the Two Lands....",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-94136.json",
+  "record_url": "/curated/cma-94136.json",
+  "note": "",
+  "description": ""
+}

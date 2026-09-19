@@ -1,0 +1,40 @@
+{
+  "id": "cma-153630",
+  "title": "Ostracon: Ramesses II Suckled by a Goddess",
+  "accession": "1987.156",
+  "date": "c. 1279–1213 BCE",
+  "culture": [
+    "Egypt, New Kingdom (1540–1069 BCE), Dynasty 19, reign of Ramesses II (1279–1213 BCE)"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1987.156",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/153630",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "4114a2f29ca02e3c55a29342d410781d6075f6043d23307ef06c5747745ef636",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-153630.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1987.156/1987.156_web.jpg",
+  "image_sha256": "02253f1ee7d80a048bf2bf18dc1643915bae6e94134fa35f4b7efcb3329bd5f2",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-153630-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Ramesses II",
+      "source_text": "",
+      "remark": "Cartouche Behind Him"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-153630.json",
+  "record_url": "/curated/cma-153630.json",
+  "note": "",
+  "description": ""
+}

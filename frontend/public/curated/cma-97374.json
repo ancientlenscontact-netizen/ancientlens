@@ -1,0 +1,40 @@
+{
+  "id": "cma-97374",
+  "title": "Stater: Head of Nymph (Obverse); Nike (Reverse)",
+  "accession": "1916.982",
+  "date": "c. 420–400 BCE",
+  "culture": [
+    "Greek, minted at Terina (South Italy)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.982",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97374",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "328b2edd7558bd3cd11bd84fa56f1c35be6827eee2d061d5fef27bdb0aee9744",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97374.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.982/1916.982_web.jpg",
+  "image_sha256": "d87c41246f352eb15c4c9fa7cc96baf83f51783173d196a9c1a2070d79af7e66",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97374-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of the people of Terina",
+      "source_text": "ΤΕΡΙΝΑΟΝ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97374.json",
+  "record_url": "/curated/cma-97374.json",
+  "note": "",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cma-97343",
+  "title": "Drachm: Female Head (obverse); Eagle (reverse)",
+  "accession": "1916.972",
+  "date": "337–308 BCE",
+  "culture": [
+    "Greek, minted at Chalkis (Euboia)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.972",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97343",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "f474d1b60562133f58abee0afa92d0f8f853c36942b5e428b213c66d969d5dad",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97343.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.972/1916.972_web.jpg",
+  "image_sha256": "eca8f439a7e799e908e62ec857440694835155ff89086c16d46dd118c66d9c19",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97343-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "CHAL, indicates that this coin is from Chalkis",
+      "source_text": "ΧΑΛ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97343.json",
+  "record_url": "/curated/cma-97343.json",
+  "note": "",
+  "description": ""
+}

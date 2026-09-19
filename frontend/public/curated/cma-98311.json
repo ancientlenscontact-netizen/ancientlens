@@ -1,0 +1,40 @@
+{
+  "id": "cma-98311",
+  "title": "Hemidrachm: Zeus (obverse); Head of Despoina (reverse)",
+  "accession": "1917.981",
+  "date": "c. 460 BCE",
+  "culture": [
+    "Greek, minted at Tegea (Arkadia)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.981",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98311",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "39391f5143b6c56a614446d064b77973bdce60923484e720751b688d7350e6c8",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98311.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.981/1917.981_web.jpg",
+  "image_sha256": "3dd28bc518625877e8061095074d603f1dc189a6740deb105c26688a17bc34df",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98311-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of the Arkadians",
+      "source_text": "ΑRKΑ | ΔΙΚ[ΟΝ]",
+      "remark": "Reverse; Inscription retrograde"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98311.json",
+  "record_url": "/curated/cma-98311.json",
+  "note": "",
+  "description": ""
+}

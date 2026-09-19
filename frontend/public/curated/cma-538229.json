@@ -1,0 +1,45 @@
+{
+  "id": "cma-538229",
+  "title": "Red-Figure Stamnos (Mixing/Storage Vessel): Komos (Musicians and Revelers)",
+  "accession": "2023.3",
+  "date": "c. 435–425 BCE",
+  "culture": [],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/2023.3",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/538229",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "b89fcc241f7e737371b0611d5357cc9ba649b6f5172f65c3d2d775a35dce5041",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-538229.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_web.jpg",
+  "image_sha256": "6df25c78a351637e8ed4dac06c4ef957a2a93b793e85583121b468e477884c76",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-538229-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "(“beautiful” [lambda and sigma partially lost])",
+      "source_text": "Κ Α Λ Ο Σ",
+      "remark": "ancient inscriptions on side A: above second figure"
+    },
+    {
+      "id": "cma-538229-1",
+      "field": "inscriptions[1].inscription_translation",
+      "text": "“beautiful,” sigma lost",
+      "source_text": "Κ Α Λ Ο [Σ]",
+      "remark": "Side A above fourth figure"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-538229.json",
+  "record_url": "/curated/cma-538229.json",
+  "note": "",
+  "description": ""
+}

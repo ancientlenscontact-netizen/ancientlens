@@ -1,0 +1,161 @@
+{
+  "id": 159077,
+  "accession_number": "1995.275",
+  "share_license_status": "CC0",
+  "tombstone": "Mirror with a Square Band and Four Nipples (方格四乳鏡), late 200s–early 100s BCE. China, Western Han dynasty (206 BCE–8 CE). Bronze; diameter: 8.4 cm (3 5/16 in.); overall: 0.7 cm (1/4 in.); rim: 0.4 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.275",
+  "current_location": null,
+  "title": "Mirror with a Square Band and Four Nipples",
+  "title_in_original_language": "方格四乳鏡",
+  "creation_date": "late 200s–early 100s BCE",
+  "creation_date_earliest": -225,
+  "creation_date_latest": -175,
+  "artists_tags": [],
+  "culture": [
+    "China, Western Han dynasty (206 BCE–8 CE)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Han Dynasty",
+  "type": "Metalwork",
+  "measurements": "Diameter: 8.4 cm (3 5/16 in.); Overall: 0.7 cm (1/4 in.); Rim: 0.4 cm (3/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.084,
+      "width_inch": 3,
+      "width_inch_fraction": 0.3125
+    },
+    "overall": {
+      "height": 0.007,
+      "height_inch": 0,
+      "height_inch_fraction": 0.25
+    },
+    "rim": {
+      "height": 0.004,
+      "height_inch": 0,
+      "height_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "May you see the light of the sun, and live in endless joy!",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    },
+    {
+      "inscription": "見日之光，長樂未央",
+      "inscription_translation": "May you see the light of the sun, and live in endless joy!",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 193152,
+        "title": "Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors",
+        "description": "<i>Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000); China Institute in America, New York, NY (February 6-June 2, 2002); Elvehjem Museum of Art, Madison, WI (December 20, 2003-February 29, 2004).",
+        "opening_date": "2000-09-17T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Cleveland, Ohio:  The Cleveland Museum of Art; September 17-November 26, 2000.  \"Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors\" exh. cat. no. 10, p. 32; p. 105, 112; repr. p. 32.",
+        "opening_date": "2000-09-17T00:00:00"
+      },
+      {
+        "description": "New York, New York:  China Institute Gallery; February 6, 2002-June 2, 2002.  \"Circles of Reflection: The Carter Collection of Chinese Bronze Mirrors\".",
+        "opening_date": "2002-02-06T00:00:00"
+      },
+      {
+        "description": "Madison, Wisconsin: Elvehjem Museum of Art, University of Wisconsin-Madison; December 20, 2003-February 29, 2004.  \"Circles of Reflection: The Carter Collection of Chinese Bronze Mirrors\".",
+        "opening_date": "2003-12-20T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Thomas and Martha Carter, Madison, WI; (purchased in Hong Kong, 1991)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Inscription: May you see the light of the sun, And live in endless joy!",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79978113"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.275-mirror-with-a-square"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chou, Ju-hsi. <em>Circles of reflection: the Carter collection of Chinese bronze mirrors</em>. Cleveland, Ohio: Cleveland Museum of Art, 2000.",
+      "page_number": "Reproduced: p. 32, cat. no. 10",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.275",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.275/1995.275_web.jpg",
+      "width": "931",
+      "height": "893",
+      "filesize": "597614",
+      "filename": "1995.275_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.275/1995.275_print.jpg",
+      "width": "1602",
+      "height": "1536",
+      "filesize": "1804944",
+      "filename": "1995.275_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.275/1995.275_full.tif",
+      "width": "1602",
+      "height": "1536",
+      "filesize": "7384660",
+      "filename": "1995.275_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159077,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1996-06-03T00:00:00",
+  "sortable_date": -225,
+  "date_added_to_oa": null,
+  "date_text": "late 200s–early 100s BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:14:05.867000"
+}

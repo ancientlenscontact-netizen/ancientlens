@@ -1,0 +1,40 @@
+{
+  "id": "cma-101482",
+  "title": "Tetradrachm: Head of Athena (obverse); Owl (reverse)",
+  "accession": "1920.267",
+  "date": "480–449 BCE",
+  "culture": [
+    "Greek, minted at Athens (Attica)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1920.267",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/101482",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "88379240fb8ffbac0faad8bab329827d3320901d870f8c3f0125c7c5ada37fd0",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-101482.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1920.267/1920.267_web.jpg",
+  "image_sha256": "68287440ee663b2ea11579daa0b56483c2af0fe9807656208f3791566a5979fd",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-101482-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "ATHE, indicates that this coin is from Athens",
+      "source_text": "ΑΘΕ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-101482.json",
+  "record_url": "/curated/cma-101482.json",
+  "note": "",
+  "description": ""
+}

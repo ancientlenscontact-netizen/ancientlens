@@ -1,0 +1,168 @@
+{
+  "id": 150993,
+  "accession_number": "1982.44",
+  "share_license_status": "CC0",
+  "tombstone": "Double-Faced Crossbar from a Railing, c. 150 BCE. India, Madhya Pradesh, Bharhut, Shunga period. Plum-colored sandstone; overall: 55.9 x 66 cm (22 x 26 in.). The Cleveland Museum of Art, The Severance and Greta Millikin Purchase Fund, 1982.44",
+  "current_location": "242A Ancient India",
+  "title": "Double-Faced Crossbar from a Railing",
+  "creation_date": "c. 150 BCE",
+  "creation_date_earliest": -200,
+  "creation_date_latest": -100,
+  "artists_tags": [],
+  "culture": [
+    "India, Madhya Pradesh, Bharhut, Shunga period"
+  ],
+  "technique": "plum-colored sandstone",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art - Sunga, Bharhut",
+  "type": "Sculpture",
+  "measurements": "Overall: 55.9 x 66 cm (22 x 26 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.559,
+      "height_inch": 22,
+      "height_inch_fraction": 0.0,
+      "width": 0.66,
+      "width_inch": 26,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Inscribed on recto: \"Mitasa suchi danam\"",
+      "inscription_translation": "This crossbar is the gift of Mitra.",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 309644,
+        "title": "The Year in Review for 1982",
+        "description": "<i>The Year in Review for 1982</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 5-February 6, 1983).",
+        "opening_date": "1983-01-05T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>The Sensuous Immortals</em>. Los Angeles County Museum of Art, Los Angeles, CA (October 25, 1977–January 15, 1978); Seattle Art Museum, Seattle, WA (March 9–April  1978); Denver Art Museum, Denver, CO (May 26–July 30, 1978); Nelson Atkins Gallery, Kansas City, MO (September 15–October 29, 1978).",
+        "opening_date": "1977-10-25T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "The Pan-Asian Collection, New York, NY",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1982",
+      "sortorder": 1
+    },
+    {
+      "description": "(Robert H. Ellsworth [1929–2014], New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1982",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1982–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This lens-shaped section of a crossbar is from one of the the earliest known Buddhist monuments in India to be embellished with stone relief carvings. It is from a circular fence that surrounded a stupa and demarcated the sacred space from the outside world.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60755205"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1982.44-double-faced-crossba"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Pal, Pratapaditya.<em> The Sensuous Immortals: A Selection of Sculptures from the Pan-Asian Collection.</em> Los Angeles: Los Angeles County Museum of Art, 1977.",
+      "page_number": "Mentioned and Reproduced: cat. no. 1",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E. \"Year in Review for 1982.\" <em>The Bulletin of the Cleveland Museum of Art</em> 70, no. 1 (1983): 3-55.",
+      "page_number": "Mentioned: no. 99, pp. 26 and 53; Reproduced: no. 99, p. 27",
+      "url": "https://www.jstor.org/stable/25159799"
+    },
+    {
+      "citation": "Clarke, Victoria. <em>Flower: Exploring the World in Bloom.</em> London; New York : Phaidon Press Limited, 2020.",
+      "page_number": "Mentioned and Reproduced: p. 274",
+      "url": ""
+    },
+    {
+      "citation": "“Exhibitions through November 2022.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>vol. 62, no. 3 (September 2022): 13.",
+      "page_number": "Reproduced: P. 13.",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1982.44",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.44/1982.44_web.jpg",
+      "width": "900",
+      "height": "706",
+      "filesize": "206851",
+      "filename": "1982.44_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.44/1982.44_print.jpg",
+      "width": "3400",
+      "height": "2666",
+      "filesize": "2660125",
+      "filename": "1982.44_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.44/1982.44_full.tif",
+      "width": "7297",
+      "height": "5722",
+      "filesize": "125287888",
+      "filename": "1982.44_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "The Severance and Greta Millikin Purchase Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 150993,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1982-05-13T00:00:00",
+  "sortable_date": -200,
+  "date_added_to_oa": null,
+  "date_text": "c. 150 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:47:46.974000"
+}

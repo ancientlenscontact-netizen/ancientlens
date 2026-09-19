@@ -1,0 +1,40 @@
+{
+  "id": "cma-97399",
+  "title": "Stater: Head of Bearded Herakles (obverse); Horse (reverse)",
+  "accession": "1916.990",
+  "date": "389–369 BCE",
+  "culture": [
+    "Greek, Macedonian, probably minted at Pella (Macedonia), reign of Amyntas III"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.990",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97399",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "79f739bb9e007690aa1c7f665992b20ce47568e4b29a5e80352e8892f4793ef9",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97399.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.990/1916.990_web.jpg",
+  "image_sha256": "c11b7a719a166eb5b80a3c27d7b8cd41ef3f29a65e14beffc7fa76fb6b5be853",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97399-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Amyntas",
+      "source_text": "ΑΜΥΝ | ΤΑ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97399.json",
+  "record_url": "/curated/cma-97399.json",
+  "note": "",
+  "description": ""
+}

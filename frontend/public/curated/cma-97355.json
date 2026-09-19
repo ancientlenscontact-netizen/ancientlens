@@ -1,0 +1,40 @@
+{
+  "id": "cma-97355",
+  "title": "Tetradrachm: Quadriga (obverse); Head of Arethousa (reverse)",
+  "accession": "1916.976",
+  "date": "c. 467–440 BCE",
+  "culture": [
+    "Greek, minted at Syracuse (Sicily)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.976",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97355",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "e491aba0e02bee234b7612842bb49037de3a7919a6a622e0215cdabf408ad85f",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97355.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.976/1916.976_web.jpg",
+  "image_sha256": "0a30e8c6771340978eb317ac9f40fc02c12e448663e2b172f7b661e9c88cf7c7",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97355-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of the Syracusans",
+      "source_text": "ΣΥΡΑΚΟΣΙΟΝ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97355.json",
+  "record_url": "/curated/cma-97355.json",
+  "note": "",
+  "description": ""
+}

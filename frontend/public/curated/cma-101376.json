@@ -1,0 +1,40 @@
+{
+  "id": "cma-101376",
+  "title": "Shawabty of Nectanebo II",
+  "accession": "1920.1989",
+  "date": "360–342 BCE",
+  "culture": [
+    "Egypt, Late period (715–332 BCE), Dynasty 30, reign of Nectanebo II (358–340 BCE)"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1920.1989",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/101376",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "a31755a7d0ba014ac07c7a059bc6f2055e3d0786ba1dacf8f0b167c2dbf86d52",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-101376.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1920.1989/1920.1989_web.jpg",
+  "image_sha256": "1d2df8ecc52201b564f0b1dd49e09b7632a49612df039dd7b34d0d2b1d63f0dd",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-101376-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "The illuminated one, the Osiris, king Nakhthorheb-Meryhathor, vindicated, says, \"O these shabtys, if the Osiris, king Nakhthorheb-Meryhathor, vindicated, is counted off to do any of the work in the necropolis, there being obstacles, placed therin, as a man about his duties, 'Here I am!' you shall say.  If you are counted off at any time therein to cause the fields to grow, to irrigate the river banks, or to ferry the sand from the West to the East and vice-versa, 'Here I am!' you shall say.\"",
+      "source_text": "",
+      "remark": "Eight registers wraps around the lower body, beginning and ending in the rear."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-101376.json",
+  "record_url": "/curated/cma-101376.json",
+  "note": "",
+  "description": ""
+}

@@ -1,0 +1,17 @@
+import {useEffect,useState} from 'react';
+import type {Account} from './Account';
+export type SavedArtifact={artifact_id:string;notes:string;version:number;saved:boolean};
+export async function libraryRequest<T>(url:string,options?:RequestInit):Promise<T>{const r=await fetch(url,options);const d=await r.json();if(!r.ok)throw new Error(typeof d.detail==='string'?d.detail:'Could not update your library.');return d;}
+export function PrivateRecord({artifact,user}:{artifact:string;user:Account|null}){
+ const [record,setRecord]=useState<SavedArtifact|null>(null),[notes,setNotes]=useState(''),[error,setError]=useState(''),[busy,setBusy]=useState(false),[message,setMessage]=useState('');
+ const dirty=record!==null&&notes!==record.notes;
+ useEffect(()=>{let active=true;if(user)libraryRequest<SavedArtifact>('/api/library/'+artifact).then(r=>{if(active){setRecord(r);setNotes(r.notes);}}).catch(e=>{if(active)setError(e.message);});return()=>{active=false;};},[artifact,user?.id]);
+ useEffect(()=>{if(!dirty)return;let allowed=false;const original=window.location.href;
+ const leave=(e:BeforeUnloadEvent)=>{e.preventDefault();};
+ const click=(e:MouseEvent)=>{const target=e.target as HTMLElement;if(target.closest('#private-note-editor'))return;if(target.closest('a,button')){allowed=window.confirm('Leave without saving your private note?');if(!allowed){e.preventDefault();e.stopPropagation();}}};
+ const route=(e:HashChangeEvent)=>{if(!allowed&&!window.confirm('Leave without saving your private note?')){window.history.replaceState(null,'',original);e.stopImmediatePropagation();}allowed=false;};
+ window.addEventListener('beforeunload',leave);window.addEventListener('hashchange',route,true);document.addEventListener('click',click,true);return()=>{window.removeEventListener('beforeunload',leave);window.removeEventListener('hashchange',route,true);document.removeEventListener('click',click,true);};},[dirty]);
+
+ async function save(remove=false){if(!record)return;if(remove&&!window.confirm('Remove this saved artifact and its private note?'))return;setBusy(true);setError('');try{const r=await libraryRequest<SavedArtifact>('/api/library/'+artifact,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({notes,version:record.version,remove})});setRecord(r);setNotes(r.notes);setMessage(remove?'Removed from your library.':'Saved privately.');window.dispatchEvent(new Event('ancientlens:library-updated'));}catch(e){setError((e as Error).message);}finally{setBusy(false);}}
+ return <section id="private-note-editor" className="private-record"><h3>My record</h3>{!user?<button onClick={()=>window.dispatchEvent(new Event('ancientlens:account'))}>Sign in to save</button>:<>{!record&&!error&&<p>Loading your record…</p>}{record&&<><label className="field">Private note<textarea disabled={busy} maxLength={4000} rows={3} value={notes} onChange={e=>setNotes(e.target.value)} placeholder="Your observations, questions or reading notes…"/></label><small>Only your account can access this note in the app. {notes.length}/4000</small><div className="filter-row"><button disabled={busy} onClick={()=>void save()}>{busy?'Saving…':record.saved?'Save note':'Save to My Library'}</button>{record.saved&&<button disabled={busy} onClick={()=>void save(true)}>Remove saved record</button>}</div></>}{error&&<p role="alert">{error} Your typed note is still here. Copy it before reloading.</p>}<p role="status">{message}</p></>}<small>Private records are separate from public contributions.</small></section>;
+}

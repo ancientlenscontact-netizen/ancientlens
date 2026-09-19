@@ -1,0 +1,40 @@
+{
+  "id": "cma-94076",
+  "title": "Canopic Jar with Lid",
+  "accession": "1914.630",
+  "date": "1540–1296 BCE",
+  "culture": [
+    "Egypt, New Kingdom (1540–1069 BCE), Dynasty 18"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1914.630",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/94076",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "29a918b19a5c62f7ca71d51fd331d5c0da5091ad5ac63b30cd805a09da486378",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-94076.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1914.630/1914.630_web.jpg",
+  "image_sha256": "0983a5e7f8b36d662f4a3989b9e32cf7cfa4320a51dfb52aa2b360d72bffc219",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-94076-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Words spoken by Selkis: 'May your arms embrace that which is in you.  May you protect Qebehsenuef, who is in you, and the honored one before Qebehsenuef, the Osiris, the chief royal herald, Geregmennefer.",
+      "source_text": "",
+      "remark": "The name seems to be unique."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-94076.json",
+  "record_url": "/curated/cma-94076.json",
+  "note": "",
+  "description": ""
+}

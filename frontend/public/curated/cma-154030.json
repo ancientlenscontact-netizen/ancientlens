@@ -1,0 +1,40 @@
+{
+  "id": "cma-154030",
+  "title": "Baboon on a Limestone Base",
+  "accession": "1988.154",
+  "date": "380–30 BCE",
+  "culture": [
+    "Egypt, Late period (715–332 BCE), Dynasty 30–Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1988.154",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/154030",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "dac3e1b27f4e13e6f23c557db89ff606f42be4d5febf033b15bfba8c76e12d77",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-154030.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_web.jpg",
+  "image_sha256": "beff113bfcf0ba5a46f3123cedf7df7dabe5d9d5dbaa140ed10caae923985cde",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-154030-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "\"Words spoken by Harpocrates, given life and health, lord of heaven, (on behalf of) Padiuser, the son of Usernakht and [mother's name uncertain].\"",
+      "source_text": "",
+      "remark": "On base, doesn't belong with the statue."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-154030.json",
+  "record_url": "/curated/cma-154030.json",
+  "note": "Translation concerns the separate base, which the museum says does not belong with the statuette.",
+  "description": ""
+}

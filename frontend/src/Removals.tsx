@@ -1,0 +1,7 @@
+import {useEffect,useState} from 'react';
+type Removal={id:number;kind:string;target_id:string;created_on:string;catalog_purged_on:string|null};
+export function RemovalQueue(){
+ const [rows,setRows]=useState<Removal[]>([]),[error,setError]=useState(''),[after,setAfter]=useState(0),[refresh,setRefresh]=useState(0);
+ useEffect(()=>{let active=true;setRows([]);setError('');fetch('/api/removal-requests?after='+after).then(async response=>{if(!response.ok)throw new Error('Could not load removal requests');return response.json() as Promise<Removal[]>;}).then(data=>{if(active)setRows(data);}).catch(e=>{if(active)setError(e.message);});return()=>{active=false;};},[after,refresh]);
+ return <details><summary>Removal requests · operator review</summary><p>Access restrictions have been applied. Catalog purge status is separate from backup deletion. Requests without a purge date still await operator review.</p>{error&&<p role="alert">{error}</p>}{rows.map(row=><p key={row.id}>Request {row.id} · {row.kind} · {row.target_id} · {new Date(row.created_on).toLocaleString()} · {row.catalog_purged_on?'Catalog purged; backup expiry still requires verification':'Pending erasure review'}</p>)}{!rows.length&&!error&&<p>No requests on this page.</p>}<button onClick={()=>{setAfter(0);setRefresh(v=>v+1);}}>Refresh from start</button> <button disabled={rows.length<20} onClick={()=>setAfter(rows[rows.length-1].id)}>Next requests</button></details>;
+}

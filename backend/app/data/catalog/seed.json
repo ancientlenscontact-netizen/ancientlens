@@ -1,0 +1,207 @@
+{
+  "sources": [
+    {
+      "id": "ud-egy",
+      "title": "Universal Dependencies: Egyptian",
+      "url": "https://universaldependencies.org/egy/",
+      "accessed_on": "2026-09-13",
+      "note": "Overview of historical stages and general script associations; not imported linguistic training data."
+    },
+    {
+      "id": "ucl-writing",
+      "title": "UCL Digital Egypt: language and scripts",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/sound/index.html",
+      "accessed_on": "2026-09-13",
+      "note": "Lists principal scripts; no images, audio or translations imported."
+    }
+  ],
+  "languages": [
+    {
+      "id": "egyptian",
+      "name": "Egyptian",
+      "description": "Egyptian language across historical stages; script and stage tracked separately.",
+      "source_id": "ud-egy"
+    }
+  ],
+  "varieties": [
+    {
+      "id": "egy-old",
+      "language_id": "egyptian",
+      "name": "Old Egyptian",
+      "kind": "historical_stage",
+      "parent_id": null,
+      "source_id": "ud-egy",
+      "note": "Historical language stage, not a geographic dialect or an object-date classifier."
+    },
+    {
+      "id": "egy-middle",
+      "language_id": "egyptian",
+      "name": "Middle Egyptian",
+      "kind": "historical_stage",
+      "parent_id": null,
+      "source_id": "ud-egy",
+      "note": "Historical language stage, not a geographic dialect or an object-date classifier."
+    },
+    {
+      "id": "egy-late",
+      "language_id": "egyptian",
+      "name": "Late Egyptian",
+      "kind": "historical_stage",
+      "parent_id": null,
+      "source_id": "ud-egy",
+      "note": "Historical language stage, not a geographic dialect or an object-date classifier."
+    },
+    {
+      "id": "egy-demotic",
+      "language_id": "egyptian",
+      "name": "Demotic Egyptian",
+      "kind": "historical_stage",
+      "parent_id": null,
+      "source_id": "ud-egy",
+      "note": "Historical language stage, not a geographic dialect or an object-date classifier."
+    },
+    {
+      "id": "egy-coptic",
+      "language_id": "egyptian",
+      "name": "Coptic",
+      "kind": "historical_stage",
+      "parent_id": null,
+      "source_id": "ud-egy",
+      "note": "Catalog taxonomy, not classification of any individual inscription. Coptic is represented here as a historical stage within Egyptian; external language identifiers can be mapped later."
+    }
+  ],
+  "scripts": [
+    {
+      "id": "egyptian-hieroglyphic",
+      "name": "Egyptian hieroglyphic",
+      "source_id": "ucl-writing",
+      "note": "Script entry, distinct from a language stage with a similar name."
+    },
+    {
+      "id": "egyptian-hieratic",
+      "name": "Egyptian hieratic",
+      "source_id": "ucl-writing",
+      "note": "Script entry, distinct from a language stage with a similar name."
+    },
+    {
+      "id": "egyptian-demotic",
+      "name": "Egyptian Demotic",
+      "source_id": "ucl-writing",
+      "note": "Script entry, distinct from a language stage with a similar name."
+    },
+    {
+      "id": "coptic",
+      "name": "Coptic script",
+      "source_id": "ucl-writing",
+      "note": "Script entry, distinct from a language stage with a similar name."
+    }
+  ],
+  "writing_systems": [
+    {
+      "id": "old-hieroglyphic",
+      "language_id": "egyptian",
+      "variety_id": "egy-old",
+      "script_id": "egyptian-hieroglyphic",
+      "source_id": "ud-egy",
+      "note": "General attested association; not a restriction on all historical practice."
+    },
+    {
+      "id": "old-hieratic",
+      "language_id": "egyptian",
+      "variety_id": "egy-old",
+      "script_id": "egyptian-hieratic",
+      "source_id": "ud-egy",
+      "note": "General attested association; not a restriction on all historical practice."
+    },
+    {
+      "id": "middle-hieroglyphic",
+      "language_id": "egyptian",
+      "variety_id": "egy-middle",
+      "script_id": "egyptian-hieroglyphic",
+      "source_id": "ud-egy",
+      "note": "General attested association; not a restriction on all historical practice."
+    },
+    {
+      "id": "middle-hieratic",
+      "language_id": "egyptian",
+      "variety_id": "egy-middle",
+      "script_id": "egyptian-hieratic",
+      "source_id": "ud-egy",
+      "note": "General attested association; not a restriction on all historical practice."
+    },
+    {
+      "id": "late-hieroglyphic",
+      "language_id": "egyptian",
+      "variety_id": "egy-late",
+      "script_id": "egyptian-hieroglyphic",
+      "source_id": "ud-egy",
+      "note": "General attested association; not a restriction on all historical practice."
+    },
+    {
+      "id": "late-hieratic",
+      "language_id": "egyptian",
+      "variety_id": "egy-late",
+      "script_id": "egyptian-hieratic",
+      "source_id": "ud-egy",
+      "note": "General attested association; not a restriction on all historical practice."
+    },
+    {
+      "id": "demotic-writing",
+      "language_id": "egyptian",
+      "variety_id": "egy-demotic",
+      "script_id": "egyptian-demotic",
+      "source_id": "ud-egy",
+      "note": "Catalog association; technical support unavailable."
+    },
+    {
+      "id": "coptic-writing",
+      "language_id": "egyptian",
+      "variety_id": "egy-coptic",
+      "script_id": "coptic",
+      "source_id": "ucl-writing",
+      "note": "Catalog association; technical support unavailable."
+    }
+  ],
+  "research_priorities": [
+    {
+      "writing_system_id": "old-hieroglyphic",
+      "priority": "initial",
+      "reason": "Engineering research priority for the owner\u2019s pyramid-inscription focus; no recognition capability implied."
+    },
+    {
+      "writing_system_id": "old-hieratic",
+      "priority": "future",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    },
+    {
+      "writing_system_id": "middle-hieroglyphic",
+      "priority": "secondary",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    },
+    {
+      "writing_system_id": "middle-hieratic",
+      "priority": "future",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    },
+    {
+      "writing_system_id": "late-hieroglyphic",
+      "priority": "future",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    },
+    {
+      "writing_system_id": "late-hieratic",
+      "priority": "future",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    },
+    {
+      "writing_system_id": "demotic-writing",
+      "priority": "future",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    },
+    {
+      "writing_system_id": "coptic-writing",
+      "priority": "future",
+      "reason": "Catalog planning only; order is not a delivery commitment."
+    }
+  ]
+}

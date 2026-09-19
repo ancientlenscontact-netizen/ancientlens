@@ -1,0 +1,40 @@
+{
+  "id": "cma-159133",
+  "title": "Mirror with Auspicious Animals Surrounded by Rings of Squares and Semicircles",
+  "accession": "1995.324",
+  "date": "late 100s CE",
+  "culture": [
+    "China, Eastern Han dynasty (25–220 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.324",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159133",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "4aec9412facf45b34d2f638609eb7a499fb0b9cab5704fb9dac25bd49e0ce014",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159133.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.324/1995.324_web.jpg",
+  "image_sha256": "4c4f6feb1b727bfe2213a409cda5ce3fe0401e36ecab93ac33385c65bd239a84",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159133-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "I made this bright mirror \nBy refining the three metals.\nBoYa is making music; \nThe multitude of gods display their forms.\n[The mirror] is suitable \nfor a man with great wealth and good fortune.\nHe [who has it] will add years to life.\nHis descendants will also prosper.\nEven this master will enjoy longevity.",
+      "source_text": "吾作明鏡，幽凍三商。伯牙作樂，\n眾神風容。宜大富兮，有福安服。\n曾年益壽，子孫番昌，其師命長。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159133.json",
+  "record_url": "/curated/cma-159133.json",
+  "note": "",
+  "description": ""
+}

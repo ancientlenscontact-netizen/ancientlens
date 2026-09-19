@@ -1,0 +1,54 @@
+{
+  "id": "cma-102365",
+  "title": "Stele of Shemai",
+  "accession": "1921.1017",
+  "date": "c. 1960–1916 BCE",
+  "culture": [
+    "Egypt, Aswan, Qubbet el-Hawa, excavations of Lady William Cecil, 1904, \"Cecil Tombs,\" no. 28, Middle Kingdom (2040–1648 BCE), Dynasty 12, probably reign of Senusret I (1971–1926 BCE)"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1921.1017",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/102365",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "1a2115a65f11ae3da0895c0ca395d8ae7cf6bcd0f0a1e8ab06ba6422f049535b",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-102365.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1921.1017/1921.1017_web.jpg",
+  "image_sha256": "1097a1a767cc636a4932bf9351ce03e48822f7093f0d0669f9f4c5431edd02a5",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-102365-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "The one honored before Osiris, lord of Busiris,\nthe great god, lord of Anydos, that he may give invocation-offerings of bread and beer, oxen and fowl,\nlinen and travertine (vessels) to the ka of the chief of police, Shermai, vindicated.",
+      "source_text": "",
+      "remark": "Center"
+    },
+    {
+      "id": "cma-102365-1",
+      "field": "inscriptions[1].inscription_translation",
+      "text": "An offering that the king gives to Anubis, he who is on his mountain, he who is in the place of embalming, lord of the cemetery, that he (Anubis) may give a thosand of bread and beer, oxen and gowl, linen adn travertine (vessels), of [ferings, and provisions?...]",
+      "source_text": "",
+      "remark": "Beginning in the center and continuing down the jamb on the right."
+    },
+    {
+      "id": "cma-102365-2",
+      "field": "inscriptions[2].inscription_translation",
+      "text": "An offering that the king gives to Osiris, lord of Busiris, the great god, lord of abydos [that he (Osiris) may give...]",
+      "source_text": "",
+      "remark": "Beginning in the center and continuing down the jamb on the left."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-102365.json",
+  "record_url": "/curated/cma-102365.json",
+  "note": "",
+  "description": "Two techniques of relief carving are employed here: the scene of the deceased seated before a table of offerings and its accompanying inscriptions are in raised relief, while the border inscriptions are in sunk relief. The three columns of hieroglyphs in the center read: \"The one honored before Osiris, lord of Busiris, the great god, lord of Abydos, that he [the god] may give invocation-offerings of bread and beer, oxen and fowl, travertine [vases] and clothing to the ka [vital spirit] of the chief of police, Shemai, vindicated.\""
+}

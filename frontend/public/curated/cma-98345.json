@@ -1,0 +1,47 @@
+{
+  "id": "cma-98345",
+  "title": "Drachm: Head of Apollo (obverse); Lyre (reverse)",
+  "accession": "1917.992",
+  "date": "c. 389–350 BCE",
+  "culture": [
+    "Greek, minted at Kolophon (Ionia)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.992",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98345",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "3b61d295e2e4584c00b8315be9a58b7e2782fa1467c22d44f7c841375c511ac1",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98345.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.992/1917.992_web.jpg",
+  "image_sha256": "1884d30ebf180686b20332ae46fa627e854849e5a9d1e9263ef376597eb31909",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98345-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Ienes",
+      "source_text": "ΙΗΝΗΣ",
+      "remark": "Reverse; Magistrate name"
+    },
+    {
+      "id": "cma-98345-1",
+      "field": "inscriptions[1].inscription_translation",
+      "text": "Kolophon",
+      "source_text": "ΚΟΛΟΦΩ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98345.json",
+  "record_url": "/curated/cma-98345.json",
+  "note": "",
+  "description": ""
+}

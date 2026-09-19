@@ -1,0 +1,40 @@
+{
+  "id": "cma-159099",
+  "title": "TLV Mirror with Multiple Nipples",
+  "accession": "1995.295",
+  "date": "9–23 CE",
+  "culture": [
+    "China, Xin dynasty (9–23 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.295",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159099",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "121dcdc6dcbf369ecbd51848cb8881588c7001ddc7eff025cd1417bd2726248f",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159099.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.295/1995.295_web.jpg",
+  "image_sha256": "57527bcbaf2c5f8cbf204635899b5465a6bae88d3baba33aea43cbfeae88b7eb",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159099-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Inscription:\na) Inner band:\nb) Outer band:  \n\"During this Xin dynasty, good copper is being mined at Danyang.\nMixed with silver and tin, the alloy is clear and bright. \nThe dragon at left and tiger at right: \nThey govern the four directions. \nYour eight sons [and nine grandsons will take the center].",
+      "source_text": "新有善銅出丹陽，\n和以銀錫青且明。\n左龍右虎主四澎（旁）\n八子。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159099.json",
+  "record_url": "/curated/cma-159099.json",
+  "note": "",
+  "description": ""
+}

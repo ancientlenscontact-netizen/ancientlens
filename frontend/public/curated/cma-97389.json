@@ -1,0 +1,40 @@
+{
+  "id": "cma-97389",
+  "title": "Stater: Nude Warrior on Horseback (obverse); Taras (reverse)",
+  "accession": "1916.987",
+  "date": "334–302 BCE",
+  "culture": [
+    "Greek, minted at Taras (South Italy)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.987",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97389",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "831d85903458ba43b9fd9e31b46b32eb567ef042f7f2c5af2200231876f9a20c",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97389.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.987/1916.987_web.jpg",
+  "image_sha256": "290356b47c85d2c20e75ca8331725e0224feee476c831f78cbfc86d30576ee8a",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97389-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Taras",
+      "source_text": "ΤΑΡΑΣ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97389.json",
+  "record_url": "/curated/cma-97389.json",
+  "note": "",
+  "description": ""
+}

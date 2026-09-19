@@ -1,0 +1,162 @@
+{
+  "id": 98357,
+  "accession_number": "1917.996",
+  "share_license_status": "CC0",
+  "tombstone": "Stater: Head of Athena (obverse); Lion (reverse), c. 340–334 BC. Greek, minted at Hyele (South Italy). Silver; diameter: 1.9 cm (3/4 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1917.996",
+  "current_location": null,
+  "title": "Stater: Head of Athena (obverse); Lion (reverse)",
+  "creation_date": "c. 340–334 BC",
+  "creation_date_earliest": -345,
+  "creation_date_latest": -329,
+  "artists_tags": [],
+  "culture": [
+    "Greek, minted at Hyele (South Italy)"
+  ],
+  "technique": "silver",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Coins",
+  "measurements": "Diameter: 1.9 cm (3/4 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.019,
+      "width_inch": 0,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "ΥΕΛΗΤ[ΟΝ]",
+      "inscription_translation": "Of the people of Hyele",
+      "inscription_remark": "Reverse",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 383281,
+        "title": "Stories from Storage",
+        "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+        "opening_date": "2021-02-06T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Charles T. Seltman, England, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1917",
+      "sortorder": null
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1917-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Nearly worn away above the lion are the remains of a flying owl.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The lion, king of the beasts and an animal associated with regal and heroic power, featured prominently on the coinage of many ancient Greek city-states. Artists placed the lion in a variety of poses, sometimes including the whole body, at other times the foreparts or just the head. Although it may once have roamed nearby, for many Greeks the lion was a monster nearly as exotic as the Chimaera, of which it formed a part, together with a goat head and snake-headed tail.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79483943"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1917.996-stater-athena-obvers",
+      "https://archive.org/details/clevelandart-1917.996-stater-head-of-athen"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"Accessions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 4 (1917): 64-67.",
+      "page_number": "Mentioned: p. 64",
+      "url": "http://www.jstor.org/stable/25136092"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1917.996",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_web.jpg",
+      "width": "900",
+      "height": "455",
+      "filesize": "205000",
+      "filename": "1917.996_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_print.jpg",
+      "width": "3400",
+      "height": "1717",
+      "filesize": "1705285",
+      "filename": "1917.996_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_full.tif",
+      "width": "3898",
+      "height": "1968",
+      "filesize": "23038932",
+      "filename": "1917.996_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_alt0_web.jpg",
+        "width": "900",
+        "height": "883",
+        "filesize": "217199"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_alt0_print.jpg",
+        "width": "2006",
+        "height": "1968",
+        "filesize": "965272"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_alt0_full.tif",
+        "width": "2006",
+        "height": "1968",
+        "filesize": "11869596"
+      },
+      "date_created": "2009-12-09T02:41:58",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 98357,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1917-01-11T00:00:00",
+  "sortable_date": -345,
+  "date_added_to_oa": null,
+  "date_text": "c. 340–334 BC",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:18:34.862000"
+}

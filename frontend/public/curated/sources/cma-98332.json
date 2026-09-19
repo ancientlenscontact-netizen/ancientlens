@@ -1,0 +1,155 @@
+{
+  "id": 98332,
+  "accession_number": "1917.988",
+  "share_license_status": "CC0",
+  "tombstone": "Tetradrachm: Head of Apollo (obverse); Head of Lion (reverse), 466–422 BCE. Greek, minted at Leontinoi (Sicily). Silver; diameter: 2.5 cm (1 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1917.988",
+  "current_location": null,
+  "title": "Tetradrachm: Head of Apollo (obverse); Head of Lion (reverse)",
+  "creation_date": "466–422 BCE",
+  "creation_date_earliest": -466,
+  "creation_date_latest": -422,
+  "artists_tags": [],
+  "culture": [
+    "Greek, minted at Leontinoi (Sicily)"
+  ],
+  "technique": "silver",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Coins",
+  "measurements": "Diameter: 2.5 cm (1 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.025,
+      "width_inch": 1,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "[ΛΕ]Ο[ΝΤ]ΙΝΟΝ",
+      "inscription_translation": "Of the people of Leontinoi",
+      "inscription_remark": "Reverse",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 383281,
+        "title": "Stories from Storage",
+        "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+        "opening_date": "2021-02-06T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Charles T. Seltman, Berkhamsted, England, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1917",
+      "sortorder": 1
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The lion on coins of Leontini marks a pun on the city name.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The lion, king of the beasts and an animal associated with regal and heroic power, featured prominently on the coinage of many ancient Greek city-states. Artists placed the lion in a variety of poses, sometimes including the whole body, at other times the foreparts or just the head. Although it may once have roamed nearby, for many Greeks the lion was a monster nearly as exotic as the Chimaera, of which it formed a part, together with a goat head and snake-headed tail.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79483798"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1917.988-tetradrachm-apollo-o",
+      "https://archive.org/details/clevelandart-1917.988-tetradrachm-head-of"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"Accessions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 4 (1917): 64-67.",
+      "page_number": "Mentioned: p. 64",
+      "url": "http://www.jstor.org/stable/25136092"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1917.988",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.988/1917.988_web.jpg",
+      "width": "900",
+      "height": "413",
+      "filesize": "223155",
+      "filename": "1917.988_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.988/1917.988_print.jpg",
+      "width": "3400",
+      "height": "1560",
+      "filesize": "1838663",
+      "filename": "1917.988_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.988/1917.988_full.tif",
+      "width": "4859",
+      "height": "2230",
+      "filesize": "32532268",
+      "filename": "1917.988_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.988/1917.988_alt0_web.jpg",
+        "width": "900",
+        "height": "868",
+        "filesize": "243168"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.988/1917.988_alt0_print.jpg",
+        "width": "2597",
+        "height": "2504",
+        "filesize": "1705777"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.988/1917.988_alt0_full.tif",
+        "width": "2597",
+        "height": "2504",
+        "filesize": "19535324"
+      },
+      "date_created": "2009-12-09T02:40:06",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 98332,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1917-01-11T00:00:00",
+  "sortable_date": -466,
+  "date_added_to_oa": null,
+  "date_text": "466–422 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:18:29.731000"
+}

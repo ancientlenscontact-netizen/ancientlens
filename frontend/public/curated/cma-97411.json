@@ -1,0 +1,40 @@
+{
+  "id": "cma-97411",
+  "title": "Tetradrachm: Head of Alexander III [The Great] (obverse); Athena (reverse)",
+  "accession": "1916.994",
+  "date": "306 BCE",
+  "culture": [
+    "Egypt, Greco-Roman period (332 BCE–395 CE), reign of Ptolemy I (303–282 BCE),  minted at Alexandria"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.994",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97411",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "89ebaba9f6b21613f790101d8153a7dae7131796b7a10ec09989873fd648d4cf",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97411.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.994/1916.994_web.jpg",
+  "image_sha256": "3e45583c6b040dc5dc2bcf71b973260cd2a4bb007267c3396911012bcb1a7b21",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97411-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of Alexander",
+      "source_text": "ΑΛΕΞΑΝΔΡΟΥ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97411.json",
+  "record_url": "/curated/cma-97411.json",
+  "note": "",
+  "description": ""
+}

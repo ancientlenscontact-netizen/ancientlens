@@ -1,0 +1,40 @@
+{
+  "id": "cma-98317",
+  "title": "Stater: Head of Demeter (obverse); Barley (reverse)",
+  "accession": "1917.983",
+  "date": "330–300 BCE",
+  "culture": [
+    "Greek, minted at Metapontion (South Italy)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.983",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98317",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "68315d024c8c7b04407b62b1558fea533436c5921b79395b2beb9890fb34f8d9",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98317.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.983/1917.983_web.jpg",
+  "image_sha256": "8cfc125d547c113584b31757f083b921195f6f5c96a2a719638be21d2685ffee",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98317-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "META, indicates that this coin is from Metapontion",
+      "source_text": "ΜΕΤΑ",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98317.json",
+  "record_url": "/curated/cma-98317.json",
+  "note": "",
+  "description": ""
+}

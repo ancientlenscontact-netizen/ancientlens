@@ -1,0 +1,52 @@
+import {ArtifactMap,atPlace} from './ArtifactMap';
+import {PrivateRecord,libraryRequest,type SavedArtifact} from './Library';
+import type {Account} from './Account';
+import {useEffect,useState} from 'react';
+import {collection} from './collection';
+const activeId=()=>window.location.hash==='#artifact-shemai'?'cma-102365':window.location.hash.replace('#artifact-','');
+// Editorial card labels only; exact museum titles remain in the reading view and downloads.
+const displayTitle=(title:string)=>title.split(';')[0].replace(/\s*\([^)]*\)/g,'').trim();
+export function CuratedCollection({user,onContribute}:{user:Account|null;onContribute:(id:string)=>void}){
+ const [id,setId]=useState(activeId),[query,setQuery]=useState(''),[filter,setFilter]=useState('All');
+ const [savedIds,setSavedIds]=useState<string[]>([]),[libraryError,setLibraryError]=useState('');
+ useEffect(()=>{let active=true;const refresh=()=>{if(!user){setSavedIds([]);return;}libraryRequest<{artifact_id:string}[]>('/api/library').then(rows=>{if(active){setSavedIds(rows.map(r=>r.artifact_id));setLibraryError('');}}).catch(e=>{if(active)setLibraryError(e.message);});};refresh();window.addEventListener('ancientlens:library-updated',refresh);return()=>{active=false;window.removeEventListener('ancientlens:library-updated',refresh);};},[user?.id]);
+ useEffect(()=>{if(id==='#library'){setQuery('');setFilter('All');}},[id]);
+ const [place,setPlace]=useState('');
+ const [saving,setSaving]=useState<string[]>([]);
+ async function saveArtifact(artifact:string){
+  if(!user){window.dispatchEvent(new Event('ancientlens:account'));return;}
+  if(savedIds.includes(artifact)){window.location.hash='artifact-'+artifact;return;}
+  setSaving(ids=>[...ids,artifact]);setLibraryError('');
+  try{const current=await libraryRequest<SavedArtifact>('/api/library/'+artifact);
+   if(!current.saved)await libraryRequest('/api/library/'+artifact,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({notes:current.notes,version:current.version,remove:false})});
+   setSavedIds(ids=>[...new Set([...ids,artifact])]);window.dispatchEvent(new Event('ancientlens:library-updated'));
+  }catch(e){setLibraryError((e as Error).message);}finally{setSaving(ids=>ids.filter(id=>id!==artifact));}
+ }
+ const featured=collection[0];
+ const map=id==='#map';
+ const library=id==='#library';
+ const item=collection.find(r=>r.id===id);
+ useEffect(()=>{const sync=()=>setId(activeId());window.addEventListener('hashchange',sync);return()=>window.removeEventListener('hashchange',sync);},[]);
+ useEffect(()=>{if(item)document.getElementById('artifact-title')?.focus();},[item]);
+ if(!item){const visible=collection.filter(r=>(!library||savedIds.includes(r.id))&&(!map||atPlace(r.id,place))&&(filter==='All'||r.collection===filter)&&[r.title,r.accession,r.source_language,...r.culture,...r.passages.map(p=>p.text)].join(' ').toLowerCase().includes(query.toLowerCase()));return <section className="translated-collection" aria-labelledby="collection-title">
+ {!library&&!map&&<section className="discovery-hero" aria-labelledby="discovery-title"><div className="hero-copy"><p className="eyebrow">THE OPEN INSCRIPTION COLLECTION</p><h1 id="discovery-title">Discover what<br/>ancient objects <em>say.</em></h1><p className="hero-description">Explore sourced translations. Save your discoveries.</p><form className="hero-search" role="search" onSubmit={e=>{e.preventDefault();document.getElementById('translated-search')?.focus();document.getElementById('collection-title')?.scrollIntoView({block:'start'});}}><label htmlFor="hero-query">Explore the collection</label><div><input id="hero-query" type="search" placeholder="Search names, objects, inscriptions…" value={query} onChange={e=>setQuery(e.target.value)}/><button type="submit" aria-label="Show matching artifacts">↗</button></div></form><p className="hero-stats">{collection.length} artifacts <span>·</span> {new Set(collection.map(r=>r.collection)).size} collections <span>·</span> Free</p></div><a className="hero-object" href={'#artifact-'+featured.id}><img src={featured.image} alt={featured.title} fetchPriority="high"/><div><span>IN FOCUS · EGYPT</span><strong>{featured.title} <span aria-hidden="true">↗</span></strong><small>{featured.date} · Cleveland Museum of Art · CC0</small></div></a></section>}
+ <div className="collection-heading"><h2 id="collection-title">{library?'My Library':map?'Explore by place':'Find your next discovery'}</h2><span>{library?`${savedIds.length} saved artifacts`:`${collection.length} artifacts · English translations`}</span></div>
+ {library&&<><p>Your saved artifacts. Private to your account.</p>{!user&&<button onClick={()=>window.dispatchEvent(new Event('ancientlens:account'))}>Sign in to view your library</button>}{libraryError&&<p role="alert">{libraryError}</p>}{user&&<button onClick={async()=>{try{const rows=await libraryRequest<unknown[]>('/api/library');const url=URL.createObjectURL(new Blob([JSON.stringify(rows,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='ancientlens-my-library.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}catch(e){setLibraryError((e as Error).message);}}}>Export my records</button>}</>}
+ {!library&&<div className="filter-row"><a href="#explore" aria-current={!map?'page':undefined}>Grid</a><a href="#map" aria-current={map?'page':undefined}>Map</a></div>}
+ <div className="collection-search"><label htmlFor="translated-search">Find an artifact</label><input id="translated-search" type="search" placeholder="Search artifacts, names or inscriptions…" value={query} onChange={e=>setQuery(e.target.value)}/></div>
+ <div className="filter-row culture-filters" aria-label="Artifact collection">{['All',...new Set(collection.map(r=>r.collection))].map(f=><button key={f} aria-pressed={filter===f} onClick={()=>setFilter(f)}>{f!=='All'&&<img src={collection.find(r=>r.collection===f)!.image} alt="" loading="lazy"/>}{f}</button>)}</div>
+ <p className="collection-caption">Museum translations · Includes short inscriptions and coin legends · Scholarly review: unreviewed</p>{!library&&libraryError&&<p role="alert">{libraryError}</p>}
+ <div className={map?"map-discovery-layout":"collection-results"}>{map&&<ArtifactMap selected={place} onSelect={setPlace}/>}<div><p role="status" className="collection-count">{visible.length} artifact{visible.length===1?'':'s'}</p>
+ <div className="artifact-grid">{visible.map(r=><article className="artifact-card" key={r.id}><div className="artifact-media"><a href={'#artifact-'+r.id} className="artifact-photo"><img src={r.image} loading="lazy" alt={r.title}/><span>{r.collection}</span></a><button className="card-save" aria-label={savedIds.includes(r.id)?'Open saved record: '+displayTitle(r.title):'Save '+displayTitle(r.title)} disabled={saving.includes(r.id)} onClick={()=>void saveArtifact(r.id)} title={savedIds.includes(r.id)?'Open saved record':'Save to My Library'}><svg viewBox="0 0 24 24" aria-hidden="true" fill={savedIds.includes(r.id)?'currentColor':'none'}><path d="M6 3h12v18l-6-4-6 4Z"/></svg></button></div><div className="artifact-card-body"><small>{r.date}</small><h3><a href={'#artifact-'+r.id}>{displayTitle(r.title)}</a></h3><a className="artifact-read" href={'#artifact-'+r.id}>Read {r.passages.length===1?'translation':r.passages.length+' inscriptions'} <span aria-hidden="true">↗</span></a></div></article>)}</div>
+ {!visible.length&&<p>{library?'Save an artifact to start your library.':'No matching artifacts. Try another search or collection.'}</p>}</div></div><p className="collection-caption">Images and text: The Cleveland Museum of Art · CC0</p></section>;}
+ return <section className="curated-collection" aria-labelledby="artifact-title"><a className="back-link" href="#explore">← All artifacts</a>
+ <article className="curated-artifact"><figure><a href={item.image} target="_blank" rel="noreferrer"><img src={item.image} alt={item.title}/></a><figcaption>{item.institution} · {item.accession} · CC0. <a href={item.source_url} target="_blank" rel="noreferrer">View museum record ↗</a></figcaption></figure>
+ <div><p className="eyebrow">{item.collection} COLLECTION{item.source_language!=='Not independently classified'&&<> · {item.source_language} TEXT</>}</p><h2 id="artifact-title" tabIndex={-1}>{item.title}</h2><p>{item.date}</p><span className="badge">AncientLens review: unreviewed</span><p className="source-line">Museum translation · English · Original wording</p>
+ {item.note&&<p className="notice">{item.note}</p>}
+ <details className="reader-library"><summary>Save &amp; private notes</summary><PrivateRecord key={item.id+"-"+(user?.id??"guest")} artifact={item.id} user={user}/></details>
+ <details><summary>Reading notes</summary><p>Published museum translations may cover only part of the object or a short name. Original typos, uncertainty and gaps are preserved. The object photograph may not show every inscribed side; exact image alignment is unverified.</p></details>
+ {item.passages.map((p,i)=><section className="curated-passage" key={p.id}><h3>Inscription {i+1}</h3><blockquote lang="en">{p.text}</blockquote><button onClick={()=>onContribute(p.id)}>Contribute / community translations ↗</button>{p.remark&&<details><summary>Museum inscription note</summary><p>{p.remark}</p></details>}{p.source_text&&<details><summary>Source transcription</summary><p lang={item.source_language==='Greek'?'grc':item.source_language==='Chinese'?'zh':item.source_language==='Latin'?'la':'und'}>{p.source_text}</p></details>}</section>)}
+ {item.description&&<details><summary>Museum description and alternative wording</summary><p>{item.description}</p></details>}
+ <details><summary>Source, rights and provenance</summary><p><a href={item.source_url} target="_blank" rel="noreferrer">Museum object record ↗</a> · <a href={item.metadata_url} target="_blank" rel="noreferrer">Source API ↗</a></p><p>Snapshot: {item.retrieved_at.slice(0,10)}. Text: <a href={item.text_rights_url}>CC0 dataset</a>. Photograph: <a href={item.image_rights_url}>CC0 image</a>. Individual translator not identified in the imported fields.</p><p>{item.culture.join('; ')}</p><p>No independent AncientLens scholarly review. Language and collection labels are editorial classifications.</p><a href={item.record_url} download>Download record</a> · <a href={item.source_snapshot} download>Original museum metadata</a></details>
+ </div></article></section>;
+}

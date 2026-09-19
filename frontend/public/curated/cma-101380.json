@@ -1,0 +1,40 @@
+{
+  "id": "cma-101380",
+  "title": "Lintel of Enseperi",
+  "accession": "1920.1993",
+  "date": "2454–2311 BCE",
+  "culture": [
+    "Egypt, Giza, western cemetery, excavations of Montague Ballard, 1901–2, Old Kingdom (2647–2124 BCE), Dynasty 5"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1920.1993",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/101380",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "a23157c2148475a06579f920d640f3c916859f61b623b9eb312071d2adb3ecd3",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-101380.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1920.1993/1920.1993_web.jpg",
+  "image_sha256": "7ce381e62c012ab44b306f3677da8a67c10cccfa127763e443b26de1c4589d81",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-101380-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "An offering that the king gives, and (an offering that) Anubis (gives), foremost (of the diving booth)\n(namely), a burial in the western necropolis\n(for) the lord of honor, the one honored\nbefore the great god, and that offerings of bread and beer go forth\non the festival of Thoth, the wag-festival, \nthe sadj-festival, the coming forth of Min,\nthe monthly festival, the half-monthly festival,\nthe opening of the year, the first of the year\nand the rekeh-festival of setting up the brazier(?)\n(for) the king's acquaintance, the overseer of the storehouse, Ensperi.",
+      "source_text": "",
+      "remark": "The layout, form, and arrangement of the signs exhibit numerous peculiarities, such as the group of wp rnpt tp  tnpt with second year-sign reversed (column 8), and the strange determinative that appears twice in column 9, after rkh and again after the phrase that I have , no doubt, incorrectly translated as \"setting up the brazier.\" In both cases it appears to take the place of the usual offering-table sign that appears after festivals (as here in column 5, after wag) and resembles an offering table seen from above."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-101380.json",
+  "record_url": "/curated/cma-101380.json",
+  "note": "",
+  "description": ""
+}

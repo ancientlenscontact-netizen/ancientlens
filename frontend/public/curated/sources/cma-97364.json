@@ -1,0 +1,140 @@
+{
+  "id": 97364,
+  "accession_number": "1916.979",
+  "share_license_status": "CC0",
+  "tombstone": "Stater: Head of Athena (obverse); Nike (reverse), c. 325–275 BCE. Greek, Macedonian, minted at Salamis (Cyprus). Gold; diameter: 1.9 cm (3/4 in.). The Cleveland Museum of Art, Gift of J. H. Wade, 1916.979",
+  "current_location": null,
+  "title": "Stater: Head of Athena (obverse); Nike (reverse)",
+  "creation_date": "c. 325–275 BCE",
+  "creation_date_earliest": -325,
+  "creation_date_latest": -312,
+  "artists_tags": [],
+  "culture": [
+    "Greek, Macedonian, minted at Salamis (Cyprus)"
+  ],
+  "technique": "gold",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Coins",
+  "measurements": "Diameter: 1.9 cm (3/4 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.019,
+      "width_inch": 0,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "ΑΛΕΞΑΝΔΡΟΥ",
+      "inscription_translation": "Of Alexander",
+      "inscription_remark": "Reverse",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 309838,
+        "title": "Mirrors: Art and Symbol",
+        "description": "<i>Mirrors: Art and Symbol</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 3-November 18, 1984).",
+        "opening_date": "1984-07-03T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Athena appears off-center on this coin’s obverse due to an error in the minting process.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "As the forces of Alexander III [the Great] advanced into Asia, the city-state of Salamis, on the island of Cyprus, voluntarily surrendered itself and its mint. Salamis began producing Macedonian-style coinage, adopting a helmeted Athena on the obverse and a winged Nike offering a laurel wreath on the reverse. The rudder in the left field is the distinguishing symbol of Salamis, a nod to the city’s longstanding maritime prominence.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79481631"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1916.979-stater-head-of-athen"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1916.979",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_web.jpg",
+      "width": "900",
+      "height": "451",
+      "filesize": "265263",
+      "filename": "1916.979_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_print.jpg",
+      "width": "3400",
+      "height": "1703",
+      "filesize": "2344000",
+      "filename": "1916.979_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_full.tif",
+      "width": "3996",
+      "height": "2001",
+      "filesize": "24014104",
+      "filename": "1916.979_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_alt0_web.jpg",
+        "width": "889",
+        "height": "900",
+        "filesize": "291317"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_alt0_print.jpg",
+        "width": "1977",
+        "height": "2001",
+        "filesize": "1258350"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.979/1916.979_alt0_full.tif",
+        "width": "1977",
+        "height": "2001",
+        "filesize": "11896412"
+      },
+      "date_created": "2009-12-09T02:14:30",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of J. H. Wade",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 97364,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1916-10-02T00:00:00",
+  "sortable_date": -325,
+  "date_added_to_oa": null,
+  "date_text": "c. 325–275 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:14:53.436000"
+}

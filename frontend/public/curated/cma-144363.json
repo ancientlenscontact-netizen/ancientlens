@@ -1,0 +1,40 @@
+{
+  "id": "cma-144363",
+  "title": "Aureus: Bust of Claudius I (obverse); Triumphal Arch with Equestrian Statue and Trophies (reverse)",
+  "accession": "1969.158",
+  "date": "47–48 CE",
+  "culture": [
+    "England, Roman, Claudius I (41–54 CE)"
+  ],
+  "collection": "Roman",
+  "source_language": "Latin",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1969.158",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/144363",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "3b3c6d1452c389ecadaa3e4ef8798be98d3caf5d15aa6448b0dc5d40e7c84951",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-144363.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1969.158/1969.158_web.jpg",
+  "image_sha256": "ef83c05b0e45fd4a23acf2118f28a4fff63a41edb4004d424a4b7ab3efd5a4ff",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-144363-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Tiberius Claudius Caesar Augustus, Pontifex Maximus, Tribunicia Potestate Sexta, Imperator Undecimus.\n(Tiberius Claudius Caesar, emperor (Augustus), high priest, holder of tribunician power for the fourth time, supreme commander (Imperator) for the eleventh time.)",
+      "source_text": "TI. CLAVD. CAESAR. AVG. P. M. TR. P.. VI. IMP. XI.",
+      "remark": "obverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-144363.json",
+  "record_url": "/curated/cma-144363.json",
+  "note": "The museum field contains a Latin expansion followed by English. Its ordinal wording is internally inconsistent; it is preserved without correction.",
+  "description": ""
+}

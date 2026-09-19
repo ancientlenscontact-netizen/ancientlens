@@ -1,0 +1,47 @@
+{
+  "id": "cma-163555",
+  "title": "Provincial Coin: Head of Antoninus Pius (obverse); Apollo Sauroktonos (reverse)",
+  "accession": "2004.93",
+  "date": "138–161 CE",
+  "culture": [
+    "Roman, minted at Nicopolis ad Istrum (Moesia Inferior)"
+  ],
+  "collection": "Roman",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/2004.93",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/163555",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "409ab29c4c232424f097ba2452f76f66eef2f091dfdcb5c23248a7b89ec5a902",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-163555.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_web.jpg",
+  "image_sha256": "c5b7ec1e93e4435865182d25d316d87487f837b3e2d9fa3fe37cfb7523130b82",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-163555-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Emperor Titus Aelius Hadrianus Antoninus",
+      "source_text": "ΑV Τ ΑΙ ΑΔΡΙΑ ΑΝΤ[ΩΕΙΝΟΣ]",
+      "remark": "Obverse"
+    },
+    {
+      "id": "cma-163555-1",
+      "field": "inscriptions[1].inscription_translation",
+      "text": "Of the people of Nikopolis",
+      "source_text": "ΝΕΙΚΟΠΟ - ΛΕΙΤΩΝ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-163555.json",
+  "record_url": "/curated/cma-163555.json",
+  "note": "",
+  "description": ""
+}

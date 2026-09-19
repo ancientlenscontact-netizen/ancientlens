@@ -1,0 +1,40 @@
+{
+  "id": "cma-117465",
+  "title": "Wine Vessel (Fu Wu Zun)",
+  "accession": "1938.13",
+  "date": "c. 1000–900 BCE",
+  "culture": [
+    "China, Western Zhou dynasty (c. 1046–771 BCE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1938.13",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/117465",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "4daa9e40b57cb306b8ea7b8f54cc4c7f66a5b7297263c19c5055b0368b1d29cd",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-117465.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1938.13/1938.13_web.jpg",
+  "image_sha256": "989f90b442c6a4f06bf7c62997627f0d5299c41370d2cf9c64b49657579436c2",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-117465-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Inscription inside reading \"made this precious sacrificial vessel for Father Wu.\"",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-117465.json",
+  "record_url": "/curated/cma-117465.json",
+  "note": "",
+  "description": ""
+}

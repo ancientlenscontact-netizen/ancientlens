@@ -1,0 +1,40 @@
+{
+  "id": "cma-151373",
+  "title": "Mirror with Xiwangmu",
+  "accession": "1983.213",
+  "date": "c. 317–400 CE",
+  "culture": [
+    "China, Six Dynasties period (220–589 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1983.213",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/151373",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "865fb984dafc1de9906b70a31703bbe08964a985e236fe5af16b3d9b06078aff",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-151373.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1983.213/1983.213_web.jpg",
+  "image_sha256": "822ffdb5540fe51ca9f3f7e61b65d8debdffcb18147d531d20bf6f13dda01b72",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-151373-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "‘I have made this bright mirror,/\nSecluded, I have refined the three shang (metals)./\nI have matched and depicted the myriad limits,/ \nI have followed proper precedents and the Dao./ \nI respectfully present it to the worthy and virtuous,/  \nI have engraved and carved without end./ \nIn all affairs, may the Yang force dominate,/\nMay your happiness and prosperity be extended and bright./ \nMay you have wealth, nobility, peace, and happiness,/\nMay your sons and grandsons be numerous and prosperous …/\nMay the worthy one be lofty and illustrious./\nMay the lord become a duke or a minister,/\nMay the master’s destiny be long.’",
+      "source_text": "",
+      "remark": "Inscription in a band of fourteen squares each with four characters."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-151373.json",
+  "record_url": "/curated/cma-151373.json",
+  "note": "",
+  "description": ""
+}

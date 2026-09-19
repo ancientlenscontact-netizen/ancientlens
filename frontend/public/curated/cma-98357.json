@@ -1,0 +1,40 @@
+{
+  "id": "cma-98357",
+  "title": "Stater: Head of Athena (obverse); Lion (reverse)",
+  "accession": "1917.996",
+  "date": "c. 340–334 BC",
+  "culture": [
+    "Greek, minted at Hyele (South Italy)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.996",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98357",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "3e2617e2beed9956ceed0144cd479fb2f733aa9ceb2773883e4f7f7b0944e365",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98357.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.996/1917.996_web.jpg",
+  "image_sha256": "086fd33a9199756bbd2b9605c8c937bb28cacb011eb1f5822924365bd6f0622a",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98357-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of the people of Hyele",
+      "source_text": "ΥΕΛΗΤ[ΟΝ]",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98357.json",
+  "record_url": "/curated/cma-98357.json",
+  "note": "",
+  "description": ""
+}

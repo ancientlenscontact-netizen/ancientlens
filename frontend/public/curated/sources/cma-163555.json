@@ -1,0 +1,168 @@
+{
+  "id": 163555,
+  "accession_number": "2004.93",
+  "share_license_status": "CC0",
+  "tombstone": "Provincial Coin: Head of Antoninus Pius (obverse); Apollo Sauroktonos (reverse), 138–161 CE. Roman, minted at Nicopolis ad Istrum (Moesia Inferior). Bronze; diameter: 2 cm (13/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2004.93",
+  "current_location": null,
+  "title": "Provincial Coin: Head of Antoninus Pius (obverse); Apollo Sauroktonos (reverse)",
+  "creation_date": "138–161 CE",
+  "creation_date_earliest": 138,
+  "creation_date_latest": 161,
+  "artists_tags": [],
+  "culture": [
+    "Roman, minted at Nicopolis ad Istrum (Moesia Inferior)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Roman",
+  "type": "Coins",
+  "measurements": "Diameter: 2 cm (13/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.02,
+      "width_inch": 0,
+      "width_inch_fraction": 0.8125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "ΑV Τ ΑΙ ΑΔΡΙΑ ΑΝΤ[ΩΕΙΝΟΣ]",
+      "inscription_translation": "Emperor Titus Aelius Hadrianus Antoninus",
+      "inscription_remark": "Obverse",
+      "sortorder": null
+    },
+    {
+      "inscription": "ΝΕΙΚΟΠΟ - ΛΕΙΤΩΝ",
+      "inscription_translation": "Of the people of Nikopolis",
+      "inscription_remark": "Reverse",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Antonius Pius, shown on this coin, was Roman emperor from 138 to 161 CE. He was one of the Five Good Emperors in the Nerva–Antonine dynasty and the Aurelii.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79989820"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2004.93-profile-head-of-anto",
+      "https://archive.org/details/clevelandart-2004.93-as-head-of-antoninus"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Neils, Jennifer. “Praxiteles to Caravaggio: The <em>Apollo Sauroktonos</em> Redefined.” <em>Art Bulletin </em>99, no. 4 (December 2017): 10-30.",
+      "page_number": "Mentioned and reproduced: P. 13, fig. 5",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/2004.93",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_web.jpg",
+      "width": "900",
+      "height": "536",
+      "filesize": "161683",
+      "filename": "2004.93_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_print.jpg",
+      "width": "3400",
+      "height": "2025",
+      "filesize": "2001425",
+      "filename": "2004.93_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_full.tif",
+      "width": "9122",
+      "height": "5432",
+      "filesize": "148680156",
+      "filename": "2004.93_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_alt0_web.jpg",
+        "width": "900",
+        "height": "771",
+        "filesize": "185122"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_alt0_print.jpg",
+        "width": "2808",
+        "height": "2405",
+        "filesize": "1103559"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_alt0_full.tif",
+        "width": "2808",
+        "height": "2405",
+        "filesize": "20284028"
+      },
+      "date_created": "2005-02-22T16:43:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_alt1_web.jpg",
+        "width": "900",
+        "height": "407",
+        "filesize": "197753"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_alt1_print.jpg",
+        "width": "3400",
+        "height": "1536",
+        "filesize": "1295295"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.93/2004.93_alt1_full.tif",
+        "width": "5216",
+        "height": "2357",
+        "filesize": "36906148"
+      },
+      "date_created": "2005-02-22T16:50:29",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": "1420eb6264ae414cb50b013467f9aab8",
+  "sketchfab_url": "https://sketchfab.com/models/1420eb6264ae414cb50b013467f9aab8",
+  "gallery_donor_text": null,
+  "athena_id": 163555,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2004-12-06T00:00:00",
+  "sortable_date": 138,
+  "date_added_to_oa": null,
+  "date_text": "138–161 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-09-18 21:50:13.419000"
+}

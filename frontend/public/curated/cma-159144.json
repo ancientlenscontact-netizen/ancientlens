@@ -1,0 +1,40 @@
+{
+  "id": "cma-159144",
+  "title": "Mirror with Four Nipples and Eight Animals",
+  "accession": "1995.334",
+  "date": "300 CE",
+  "culture": [
+    "China, Western Jin dynasty (265-316 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.334",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159144",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "32c73187ac0d8a4d64ea6e083756fc97eae0d444ee198418e27ee0d1315619ee",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159144.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.334/1995.334_web.jpg",
+  "image_sha256": "3d1bed91969927beb366f885d6630c13a815b46b2d4a66dca3ec4863516196e3",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159144-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "On the day of wu, the first month, the first year of Yongkang, I made the bright mirror at the first of dawn by refining the yellow and the white [metals].  Great fortune and wealth will come as a result.  May you live a long life. Up above are the King Father [of the East] and the Queen Mother of \nthe West.",
+      "source_text": "永康元年正月午日，由（幽）【涑】黃日（白）。\n早作明鏡，大吉大宮（富）。\n延長壽命，上有王父西王母。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159144.json",
+  "record_url": "/curated/cma-159144.json",
+  "note": "",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cma-150993",
+  "title": "Double-Faced Crossbar from a Railing",
+  "accession": "1982.44",
+  "date": "c. 150 BCE",
+  "culture": [
+    "India, Madhya Pradesh, Bharhut, Shunga period"
+  ],
+  "collection": "Indian",
+  "source_language": "Not independently classified",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1982.44",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/150993",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "6e61767b7739a6a86d4cfa073a57a8e32abe91beded612b4995e3b6618145bb5",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-150993.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1982.44/1982.44_web.jpg",
+  "image_sha256": "757494099023f45a42c73f04f38d111b145a4e0e325fed3be9c2a3a861c5b21d",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-150993-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "This crossbar is the gift of Mitra.",
+      "source_text": "Inscribed on recto: \"Mitasa suchi danam\"",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-150993.json",
+  "record_url": "/curated/cma-150993.json",
+  "note": "",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cma-159088",
+  "title": "Mirror with a Square Band, Four Nipples, and Grass Leaf Motifs",
+  "accession": "1995.285",
+  "date": "100s BCE",
+  "culture": [
+    "China, Western Han dynasty (206 BCE–8 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.285",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159088",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "aa63f9130c342ccb1de0dbe1d26465076ea0ba744f25e8c560238310e6cebe31",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159088.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.285/1995.285_web.jpg",
+  "image_sha256": "f96629003141143de79f53901b93d92dd5f763ba9ede6be8e1506d6c6bcfcfd0",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159088-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "May you enjoy lasting fortune.  \nMay you enjoy wine and food.  \nMay you enjoy freedom from worry.  \nMay your days be replete with happiness.",
+      "source_text": "長貴富，宜酒食，樂母事，日有熹。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159088.json",
+  "record_url": "/curated/cma-159088.json",
+  "note": "",
+  "description": ""
+}

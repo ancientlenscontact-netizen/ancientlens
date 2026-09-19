@@ -1,0 +1,40 @@
+{
+  "id": "cma-122979",
+  "title": "Saluting Protective Spirit",
+  "accession": "1943.246",
+  "date": "883–859 BCE",
+  "culture": [
+    "Neo-Assyrian (911–609 BCE), Iraq, Nimrud, Northwest Palace, reign of Ashurnasirpal II (883–859 BCE)"
+  ],
+  "collection": "Assyrian",
+  "source_language": "Not independently classified",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1943.246",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/122979",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "656cb58517a6ee7c99a9c11ec13f0c6c67c21480934e16eb8919219382aa1d96",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-122979.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1943.246/1943.246_web.jpg",
+  "image_sha256": "ce103bc69b815ad2f60347584e50f71916a47e7d01336b10b5f85a554992906b",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-122979-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "(Property of) the palace of Assurnasirpal (II), vice-regent of Assur, chosen of Enlil and Ninurta, beloved of Anu and Dagan, destructive weapon of the great gods, strong king, king of the universe, king of Assyria, son of Tukulti-Ninurta (II), great king, strong king, king of the universe,  king of Assyria, son of Adad-nerari (II), great king, strong king, king of the universe, king of Assyria, valiant man who acts with the support of Assur, his lord, and has no rival among the princes of the four quarters, marvelous shepherd, fearless in battle, mighty flood-tide which has no opponent, the king who subdues those insubordinate to him, he who rules all peoples, strong male who treads upon the necks of his foes, trampler of all enemies, he who breaks up the forces of the rebellious, the king who acts with the support of the great gods, his lords, and has conquered all lands, over all the highlands has gained dominion and received their tribute, capturer of hostages, he who is victorious over all countries. When Assur, the lord who called me by name (and) made my sovereignty supreme, placed his merciless weapon in my lordly arms, the extensive troops of the Lullumu I felled in battle. With the help of the Šamaš and Adad, the gods my supporters, the troops of the lands Nairi, the land Ḫabḫu, the land Šubaru, and the land Nibur, like Adad the devastator, I thundered over them. The king who subdued (the territory stretching) from the opposite bank of the Tigris to Mount Lebanon and the Great Sea, the entire land Laqu (and) the land Suḫu including the city Rapiqu. He conquered from the source of the river Subnat to the land Urartu. (The territory stretching) from the passes of mount Kirruri to the land Gilzanu, from the opposite bank of the Lower Zab  to the city Til Bari which is upstream from the land Zaban, from the city Til-ša-Abtāni to the city Til-ša-Zabdāni, the cities of Ḫirimu, Ḫarutu, (which are) fortresses of Karduniaš, I brought (those lands) within the boundaries of my land. I accounted (the people) from the passes of Mount Babitu to Mount Ḫaszmar as people of my land. In the lands over which I gained dominion I always appointed my governors. They entered servitude. Assurnasirpal (II), attentive prince, worshipper of the great gods, ferocious dragon, conqueror of cities and the entire highlands, king of lords, encircle  of the obstinate, crowned with splendor, fearless in battle, merciless hero, he who stirs up strife, praiseworthy king, shepherd, protection of the (four) quarters, the king whose command disintegrates mountains and seas, the one who by his lordly conflict has brought under one authority ferocious (and) merciless kings from east to west: The city of Kalḫu of old, which Shalmaneser, king of Assyria, a prince who preceded me, had built—this city had become dilapidated, it lay dormant. I took people which I had conquered from the lands over which I gained dominion, from the land Suḫu, (from) the entire land of Laqu, (from) the city Sirqu which is at the crossing of the Euphrates, (from) the entire land of Zamua, from Bit-Adini, and the land Ḫatti and from Lubarna, the Patinu. I settled them therein. I cleared away the old ruin hill (and) dug down to water level. Down to a depth of 120 layers of brick I sank (the foundation pit). A palace of cedar, cypress, daprānu-juniper, boxwood, meskannu-wood, terebinth, and tamarisk, as my royal residence (and) for my lordly leisure for eternity, I founded (it) therein. Beasts of mountains and seas in white limestone and parutu (-alabaster), I made (replicas of them) (and) stationed (them) at their doors. I decorated it in a splendid fashion; I surrounded it with knobbed nails of bronze. Doors of cedar, cypress, daprāni-juniper, (and) meskannu-wood, I hung in its doorways. Silver, gold, tin, bronze, iron, booty from the lands over which I gained dominion, I took in great quantities and put therein.",
+      "source_text": "",
+      "remark": "The translation is of the full standard inscription, which continues beyond the CMA relief."
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-122979.json",
+  "record_url": "/curated/cma-122979.json",
+  "note": "The museum translation is the full standard inscription, which continues beyond this relief; it is not a transcription of only the photographed panel.",
+  "description": ""
+}

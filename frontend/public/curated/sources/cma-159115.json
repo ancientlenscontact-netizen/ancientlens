@@ -1,0 +1,155 @@
+{
+  "id": 159115,
+  "accession_number": "1995.306",
+  "share_license_status": "CC0",
+  "tombstone": "Mirror with Concentric Circles and Linked Arcs (重圈連弧鏡), 100–1 BCE. China, Western Han dynasty (206 BCE–8 CE). Bronze; diameter: 14.9 cm (5 7/8 in.); overall: 1.1 cm (7/16 in.); rim: 0.7 cm (1/4 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.306",
+  "current_location": null,
+  "title": "Mirror with Concentric Circles and Linked Arcs",
+  "title_in_original_language": "重圈連弧鏡",
+  "creation_date": "100–1 BCE",
+  "creation_date_earliest": -99,
+  "creation_date_latest": -1,
+  "artists_tags": [],
+  "culture": [
+    "China, Western Han dynasty (206 BCE–8 CE)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Han Dynasty",
+  "type": "Metalwork",
+  "measurements": "Diameter: 14.9 cm (5 7/8 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.7 cm (1/4 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.149,
+      "width_inch": 5,
+      "width_inch_fraction": 0.875
+    },
+    "overall": {
+      "height": 0.011,
+      "height_inch": 0,
+      "height_inch_fraction": 0.4375
+    },
+    "rim": {
+      "height": 0.007,
+      "height_inch": 0,
+      "height_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "涑治銅華清而明。\n以之為鏡宜文章。\n延年益壽而辟不產（祥）。\n與天毋極。",
+      "inscription_translation": "Refine the copper to be pure and bright. Make it into a mirror to receive rightful decor. May it extend your life and remove misfortunes! [You are] coeval with the heaven above.",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 193152,
+        "title": "Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors",
+        "description": "<i>Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000); China Institute in America, New York, NY (February 6-June 2, 2002); Elvehjem Museum of Art, Madison, WI (December 20, 2003-February 29, 2004).",
+        "opening_date": "2000-09-17T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Cleveland, Ohio:  The Cleveland Museum of Art; September 17-November 26, 2000.  \"Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors\"  exh. cat. no. 16, p. 37; pp. 106, 116; repr. p. 37.",
+        "opening_date": "2000-09-17T00:00:00"
+      },
+      {
+        "description": "New York, New York:  China Institute Gallery; February 6, 2002-June 2, 2002.  \"Circles of Reflection: The Carter Collection of Chinese Bronze Mirrors\".",
+        "opening_date": "2002-02-06T00:00:00"
+      },
+      {
+        "description": "Madison, Wisconsin: Elvehjem Museum of Art, University of Wisconsin-Madison; December 20, 2003-February 29, 2004.  \"Circles of Reflection: The Carter Collection of Chinese Bronze Mirrors\".",
+        "opening_date": "2003-12-20T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Thomas and Martha Carter, Madison, WI",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Inscription: Refine the copper to be pure and bright. Make it into a mirror to receive rightful decor. May it extend your life and remove misfortunes! [You are] coeval with the heaven above.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79978222"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.306-mirror-with-concentr"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chou, Ju-hsi. <em>Circles of reflection: the Carter collection of Chinese bronze mirrors</em>. Cleveland, Ohio: Cleveland Museum of Art, 2000.",
+      "page_number": "Reproduced: p. 37, cat. no. 16",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.306",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.306/1995.306_web.jpg",
+      "width": "873",
+      "height": "893",
+      "filesize": "543912",
+      "filename": "1995.306_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.306/1995.306_print.jpg",
+      "width": "1536",
+      "height": "1571",
+      "filesize": "1690639",
+      "filename": "1995.306_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.306/1995.306_full.tif",
+      "width": "1536",
+      "height": "1571",
+      "filesize": "7241868",
+      "filename": "1995.306_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159115,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1996-06-03T00:00:00",
+  "sortable_date": -99,
+  "date_added_to_oa": null,
+  "date_text": "100–1 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:14:19.194000"
+}

@@ -1,0 +1,228 @@
+{
+  "id": 154030,
+  "accession_number": "1988.154",
+  "share_license_status": "CC0",
+  "tombstone": "Baboon on a Limestone Base, 380–30 BCE. Egypt, Late period (715–332 BCE), Dynasty 30–Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE). Pale turquoise faience; overall: 10 x 4.5 x 7.5 cm (3 15/16 x 1 3/4 x 2 15/16 in.). The Cleveland Museum of Art, Gift of Mrs. Noah L. Butkin, 1988.154",
+  "current_location": "107 Egyptian",
+  "title": "Baboon on a Limestone Base",
+  "creation_date": "380–30 BCE",
+  "creation_date_earliest": -380,
+  "creation_date_latest": -30,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Late period (715–332 BCE), Dynasty 30–Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+  ],
+  "technique": "pale turquoise faience",
+  "support_materials": [],
+  "department": "Egyptian and Ancient Near Eastern Art",
+  "collection": "Egypt - Late Period",
+  "type": "Sculpture",
+  "measurements": "Overall: 10 x 4.5 x 7.5 cm (3 15/16 x 1 3/4 x 2 15/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.1,
+      "height_inch": 3,
+      "height_inch_fraction": 0.9375,
+      "width": 0.045,
+      "width_inch": 1,
+      "width_inch_fraction": 0.75,
+      "depth": 0.075,
+      "depth_inch": 2,
+      "depth_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": null,
+      "inscription_translation": "\"Words spoken by Harpocrates, given life and health, lord of heaven, (on behalf of) Padiuser, the son of Usernakht and [mother's name uncertain].\"",
+      "inscription_remark": "On base, doesn't belong with the statue.",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 310246,
+        "title": "The Year in Review for 1988",
+        "description": "<i>The Year in Review for 1988</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 1-May 14, 1989).",
+        "opening_date": "1989-03-01T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Collection of Mrs. Noah L. Butkin [Muriel Spiro] (1915-2008), Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1971-1988",
+      "sortorder": null
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1988-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The statuette is made from Egyptian faience and is glazed with a pale, semigloss turquoise.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This finely carved <em>Papio hamadrayas</em> baboon squats low on a base, hands on knees in a traditional pose, copied from nature. Mane and mantle are incised with a scalloped pattern to imitate tufts of fur, and the sides of the face are stippled or dotted. The separate limestone base is ancient; judging by the inscription it does not belong with the statuette, which has been glued onto it in modern times. It reads, \"Words spoken by Harpocrates, given life and health, lord of heaven, (on behalf of) Padiuser, the son of Usernakht and [mother's name uncertain].\"<br>The baboon is the sacred animal of Thoth, god of the moon and of writing, and guide of the deceased in the underworld. Thoth's cult reached immense popularity in the Late and Ptolemaic periods (the Greeks identified him with Hermes). Statuettes of Thoth as a baboon are common, although not nearly as numerous as presentations of Thoth's other animal manifestation, the sacred Ibis.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60761495"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1988.154-baboon-on-a-limeston"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Kozloff, Arielle P. <em>Animals in Ancient Art from the Leo Mildenberg Collection</em>. 1981.",
+      "page_number": "p. 67, no. 55",
+      "url": ""
+    },
+    {
+      "citation": "“The Year in Review for 1988.” <em>The Bulletin of the Cleveland Museum of Art</em> 76, no. 2 (1989).",
+      "page_number": "no. 5",
+      "url": "https://www.jstor.org/stable/25160061"
+    },
+    {
+      "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+      "page_number": "Reproduced: p. 440; Mentioned: p. 440-1",
+      "url": null
+    },
+    {
+      "citation": "Fortenberry, Diane, ed. <em>The Art Museum</em>. London; New York: Phaidon Press, 2017.",
+      "page_number": "Reproduced: P. 20, no. 2",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1988.154",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_web.jpg",
+      "width": "714",
+      "height": "893",
+      "filesize": "375390",
+      "filename": "1988.154_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_print.jpg",
+      "width": "2288",
+      "height": "2860",
+      "filesize": "3540784",
+      "filename": "1988.154_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_full.tif",
+      "width": "2288",
+      "height": "2860",
+      "filesize": "19663376",
+      "filename": "1988.154_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt0_web.jpg",
+        "width": "714",
+        "height": "893",
+        "filesize": "363663"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt0_print.jpg",
+        "width": "2341",
+        "height": "2926",
+        "filesize": "3638467"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt0_full.tif",
+        "width": "2341",
+        "height": "2926",
+        "filesize": "20581400"
+      },
+      "date_created": "2007-06-19T15:13:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt1_web.jpg",
+        "width": "714",
+        "height": "893",
+        "filesize": "367863"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt1_print.jpg",
+        "width": "2324",
+        "height": "2905",
+        "filesize": "3606608"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt1_full.tif",
+        "width": "2324",
+        "height": "2905",
+        "filesize": "20285920"
+      },
+      "date_created": "2007-06-19T15:17:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt2_web.jpg",
+        "width": "714",
+        "height": "893",
+        "filesize": "354441"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt2_print.jpg",
+        "width": "2360",
+        "height": "2950",
+        "filesize": "3497329"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.154/1988.154_alt2_full.tif",
+        "width": "2360",
+        "height": "2950",
+        "filesize": "20917636"
+      },
+      "date_created": "2007-06-19T15:24:28",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Mrs. Noah L. Butkin",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 154030,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1989-02-24T00:00:00",
+  "sortable_date": -380,
+  "date_added_to_oa": null,
+  "date_text": "380–30 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Thoth, God of Writing as a Baboon"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:57:56.611000"
+}

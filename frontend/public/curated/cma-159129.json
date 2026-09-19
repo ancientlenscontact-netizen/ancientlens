@@ -1,0 +1,40 @@
+{
+  "id": "cma-159129",
+  "title": "Mirror with Linked Arcs and Kui Dragons",
+  "accession": "1995.320",
+  "date": "100s CE",
+  "culture": [
+    "China, Eastern Han dynasty (25–220 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.320",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159129",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "7e37d68be9ceec04eded2b740b4e63337b74e7c8f6aea717d22a0babc88f4c7b",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159129.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.320/1995.320_web.jpg",
+  "image_sha256": "fc903f334bbe90b5643472b250f271aa6ac5b1c4622663f10ce0fefe5ba04231",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159129-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Master  Pan's mirror is rare in this world.\nHe who owns it would attain the rank of marquis...\nIt should be cherished by your descendants.\nMay your joy be endless.",
+      "source_text": "潘氏作鏡世少有，服者男分封候 ...宜孫子，樂無己。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159129.json",
+  "record_url": "/curated/cma-159129.json",
+  "note": "",
+  "description": ""
+}

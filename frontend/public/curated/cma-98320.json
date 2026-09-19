@@ -1,0 +1,40 @@
+{
+  "id": "cma-98320",
+  "title": "Tetradrachm: Head of Alexander (obverse); Athena (reverse)",
+  "accession": "1917.984",
+  "date": "297–281 BCE",
+  "culture": [
+    "Greek, Macedonian, minted at Lysimachia (Thrake), reign of Lysimachos"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.984",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98320",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "6a4fa983d63a3a895f3f6e8d1fa2a370b418d23216486e321a3f08a36920001f",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98320.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.984/1917.984_web.jpg",
+  "image_sha256": "06591650ae5042ef1d24346b1ac5acf0c15d11c15bb48e8f4ebb422ccc310aea",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98320-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of the king Lysimachos",
+      "source_text": "ΒΑΣΙΛΕΩΣ | ΛΥΣΙΜΑΧΟΥ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98320.json",
+  "record_url": "/curated/cma-98320.json",
+  "note": "",
+  "description": ""
+}

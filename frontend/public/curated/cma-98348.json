@@ -1,0 +1,47 @@
+{
+  "id": "cma-98348",
+  "title": "Drachm: Head of Herakles (obverse); Club, Bow Case (reverse)",
+  "accession": "1917.993",
+  "date": "387–300 BCE",
+  "culture": [
+    "Greek, minted at Erythrai (Ionia)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.993",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98348",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "c9dda971bf6a014cd5e85a90f57d3df2f7dbdc920758bb1c0e19af9b74e67b98",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98348.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.993/1917.993_web.jpg",
+  "image_sha256": "0bdbe1361a4c0567e4eee98cbf8a1649d8c7922be8d9de693f4bc45d777f4602",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98348-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "ERY, indicates that this coin is from Erythrai",
+      "source_text": "ΕΡΥ",
+      "remark": "Reverse"
+    },
+    {
+      "id": "cma-98348-1",
+      "field": "inscriptions[1].inscription_translation",
+      "text": "Dionysios",
+      "source_text": "ΔΙΟΝΥΣΙΟΣ",
+      "remark": "Reverse; Magistrate name"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98348.json",
+  "record_url": "/curated/cma-98348.json",
+  "note": "",
+  "description": ""
+}

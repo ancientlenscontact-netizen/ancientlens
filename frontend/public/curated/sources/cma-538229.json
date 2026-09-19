@@ -1,0 +1,570 @@
+{
+  "id": 538229,
+  "accession_number": "2023.3",
+  "share_license_status": "CC0",
+  "tombstone": "Red-Figure Stamnos (Mixing/Storage Vessel): Komos (Musicians and Revelers), c. 435–425 BCE. Attributed to Kleophon Painter (Greek, Attic, active c. 440–410 BCE). Ceramic; height: 40.4 cm (15 7/8 in.); diameter of foot: 13.8 cm (5 7/16 in.); diameter of mouth: 23.5 cm (9 1/4 in.); width with handles: 39 cm (15 3/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 2023.3",
+  "current_location": "102C Greek",
+  "title": "Red-Figure Stamnos (Mixing/Storage Vessel): Komos (Musicians and Revelers)",
+  "creation_date": "c. 435–425 BCE",
+  "creation_date_earliest": -440,
+  "creation_date_latest": -420,
+  "artists_tags": [
+    "gender unknown"
+  ],
+  "culture": [],
+  "technique": "Ceramic",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Ceramic",
+  "measurements": "height: 40.4 cm (15 7/8 in.); Diameter of foot: 13.8 cm (5 7/16 in.); Diameter of mouth: 23.5 cm (9 1/4 in.); width with handles: 39 cm (15 3/8 in.)",
+  "dimensions": {
+    "height": {
+      "height": 0.404,
+      "height_inch": 15,
+      "height_inch_fraction": 0.875
+    },
+    "diameter of foot": {
+      "width": 0.138,
+      "width_inch": 5,
+      "width_inch_fraction": 0.4375
+    },
+    "diameter of mouth": {
+      "width": 0.235,
+      "width_inch": 9,
+      "width_inch_fraction": 0.25
+    },
+    "width with handles": {
+      "width": 0.39,
+      "width_inch": 15,
+      "width_inch_fraction": 0.375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Κ Α Λ Ο Σ",
+      "inscription_translation": "(“beautiful” [lambda and sigma partially lost])",
+      "inscription_remark": "ancient inscriptions on side A: above second figure",
+      "sortorder": null
+    },
+    {
+      "inscription": "Κ Α Λ Ο [Σ]",
+      "inscription_translation": "“beautiful,” sigma lost",
+      "inscription_remark": "Side A above fourth figure",
+      "sortorder": null
+    },
+    {
+      "inscription": "black '080'",
+      "inscription_translation": null,
+      "inscription_remark": "Under foot, 1909 (De Morgan sale cat. no.) or 680 (Walker Art Gallery old inv. no.)",
+      "sortorder": null
+    },
+    {
+      "inscription": "black 'WF2'",
+      "inscription_translation": null,
+      "inscription_remark": "under foot, Walker Foundation 2",
+      "sortorder": null
+    },
+    {
+      "inscription": "black '0.19'",
+      "inscription_translation": null,
+      "inscription_remark": "Under foot, ?",
+      "sortorder": null
+    },
+    {
+      "inscription": "red '09.6'",
+      "inscription_translation": null,
+      "inscription_remark": "Under foot, Walker Art Center acc. no",
+      "sortorder": null
+    },
+    {
+      "inscription": "partially removed red and white sticker, with number blacked out",
+      "inscription_translation": null,
+      "inscription_remark": "under foot",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [],
+    "legacy": [
+      {
+        "description": "<em>Greek Vases</em>, University Gallery, University of Minnesota, Minneapolis, (9 February – 31 March 1981).",
+        "opening_date": "1981-03-01T00:00:00"
+      },
+      {
+        "description": "On loan to the Walker Art Gallery, subsequently the Walker Art Center, Minneapolis, acc. no. 09.6, old inv. no. 680.",
+        "opening_date": null
+      },
+      {
+        "description": "On loan to the University Gallery, University of Minnesota, inv. no. L1972.1.2.",
+        "opening_date": "1972-01-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Henri De Morgan (1854-1909), New York, NY",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Sale: Fifth Avenue Art Galleries, New York, Catalogue of Greek Vases and Antique Iridescent Glass Cameos, Intaglios, and Silver Coins Selected and Catalogued by H. De Morgan, January 16th, 1909, no. 80",
+      "citations": [],
+      "footnotes": null,
+      "date": "January 16, 1909",
+      "sortorder": 2
+    },
+    {
+      "description": "Thomas Barlow Walker (1840-1928), Minneapolis, Minnesota",
+      "citations": [],
+      "footnotes": null,
+      "date": "1909-",
+      "sortorder": 3
+    },
+    {
+      "description": "The T.B. Walker Foundation (founded 1925), Minneapolis, inv. no. WF2",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 4
+    },
+    {
+      "description": "Sale: Sotheby's New York, December 15, 2016, Lot 66",
+      "citations": [],
+      "footnotes": null,
+      "date": "December 15, 2016",
+      "sortorder": 5
+    },
+    {
+      "description": "Ariadne Demirjian LLC, Connecticut, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "2016-2023",
+      "sortorder": 6
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "2023-",
+      "sortorder": 7
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The Athenian stamnos, a shape favored by the Etruscans, was made primarily for export.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Four lively figures move to the right across the front side of this stamnos, a vase used for storing and mixing wine. First comes a finely dressed woman playing the pipes, followed by three male figures, all nearly nude. The bearded one holds a drinking cup and reaches back, perhaps dancing, while the last in line concentrates on the music of his lyre.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q117260847"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2023.3-red-figure-stamnos-m"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "<em>Beazley Archive Pottery Database (BAPD), </em>University of Oxford Classical Art Research Centre.",
+      "page_number": "no. 215150",
+      "url": "https://www.carc.ox.ac.uk/XDB/ASP/recordDetails.asp?id={0B8DC936-1541-465F-8A91-8D310B8E0170}&noResults=1&recordCount=1&databaseID={12FC52A7-0E32-4A81-9FFA-C8C6CF430677}&search=%20{AND}%20215150"
+    },
+    {
+      "citation": "Fifth Avenue Art Galleries (New York, N.Y.), and Henri de Morgan. <em>Catalogue of [His Selection of] Greek Vases: Also Antique Iridescent Glass Cameos Intaglios and Silver Coins</em>. New York: Fifth Avenue Art Galleries, 1909.",
+      "page_number": "no. 80 (illustrated pl. 4, following no. 125)",
+      "url": ""
+    },
+    {
+      "citation": "Beazley, J. D.<em> Attic Red-Figure Vase-Painters</em>. Oxford: Clarendon Press, 1963.",
+      "page_number": "p. 1144, no. 10, and 1684",
+      "url": ""
+    },
+    {
+      "citation": "Philippaki, Barbara.<em> The Attic Stamnos</em>. Oxford: Clarendon P., 1967.",
+      "page_number": "p. 135, no. 6, pl. 59.1 (side A)",
+      "url": ""
+    },
+    {
+      "citation": "Brijder, H. A. G. “The Six Donation in the Allard Pierson Museum: A Stamnos by the Kleophon Painter,” <em>BABESCH Annual Papers on Mediterranean Archaeology</em> 45 (1970).",
+      "page_number": "pp. 50-67 (see pp. 63 [fig. 26 (side B)], 67 [Appendix])",
+      "url": ""
+    },
+    {
+      "citation": "Felten, Florens. <em>Thanatos- und Kleophonmaler; weissgrundige und rotfigurige Vasenmalerei der Parthenonzeit</em>. [München]: W. Fink, 1971.",
+      "page_number": "p. 46.",
+      "url": ""
+    },
+    {
+      "citation": "Isler-Kerenyi, C. 1973. “Chronologie und ‘Synchronologie’ attischer Vasenmaler der Parthenonzeit,” <em>Antike Kunst</em> Beiheft 9.",
+      "page_number": "pp. 23-33 (mentioned p. 29)",
+      "url": ""
+    },
+    {
+      "citation": "University of Minnesota. <em>Greek Vases.</em> [Minneapolis]: University Gallery, University of Minnesota, 1981.",
+      "page_number": "p. 16, no. 14",
+      "url": ""
+    },
+    {
+      "citation": "Matheson, Susan B. <em>Polygnotos and Vase Painting in Classical Athens</em>. Madison, Wis: University of Wisconsin Press, 1995.",
+      "page_number": "p. 408, cat. no. KL 11",
+      "url": ""
+    },
+    {
+      "citation": "Sotheby's (Firm). <em>Ancient Egyptian Sculpture &amp; Works of Art: And a Selection of Greek Vases Sold to Benefit the Walker Art Center.</em> 2016.",
+      "page_number": "pp. 76-77, lot 66 (sides A, B, B-A)",
+      "url": ""
+    },
+    {
+      "citation": "Pevnick, Seth. \"A Newly Acquired Ancient Greek Vase,\" <em>CMA Thinker Blog</em>, May 26, 2023.",
+      "page_number": "",
+      "url": "https://medium.com/cma-thinker/a-newly-acquired-ancient-greek-vase-8ac4361a3b43"
+    },
+    {
+      "citation": "Litt, Steven. \"Newly Purchased Greek Vase Shows Cleveland Museum of Art Still Committed to Buying Antiquities with Clear Provenance,\" <em>The Plain Dealer </em>and cleveland.com, September 24, 2023.",
+      "page_number": "",
+      "url": "https://www.cleveland.com/news/2023/09/newly-purchased-greek-vase-shows-cleveland-museum-of-art-still-committed-to-buying-antiquities-with-clear-provenance.html"
+    },
+    {
+      "citation": "Lemonedes Brown, Heather. \"Noteworthy and New: Three highlights from the year's acquisitions.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>63, no. 4 (2023): 14-15.",
+      "page_number": "Reproduced and Mentioned: P. 14",
+      "url": "https://archive.org/details/CMAMM2023-04/page/14/mode/2up"
+    }
+  ],
+  "url": "https://clevelandart.org/art/2023.3",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_web.jpg",
+      "width": "900",
+      "height": "834",
+      "filesize": "215564",
+      "filename": "2023.3_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_print.jpg",
+      "width": "3400",
+      "height": "3152",
+      "filesize": "1502362",
+      "filename": "2023.3_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_full.tif",
+      "width": "11125",
+      "height": "10313",
+      "filesize": "344226040",
+      "filename": "2023.3_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt0_web.jpg",
+        "width": "900",
+        "height": "820",
+        "filesize": "212733"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt0_print.jpg",
+        "width": "3400",
+        "height": "3099",
+        "filesize": "1495361"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt0_full.tif",
+        "width": "11399",
+        "height": "10389",
+        "filesize": "355301768"
+      },
+      "date_created": "2023-02-16T15:31:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt1_web.jpg",
+        "width": "900",
+        "height": "833",
+        "filesize": "209407"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt1_print.jpg",
+        "width": "3400",
+        "height": "3148",
+        "filesize": "1408367"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt1_full.tif",
+        "width": "11125",
+        "height": "10300",
+        "filesize": "343791696"
+      },
+      "date_created": "2023-02-16T17:44:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt2_web.jpg",
+        "width": "900",
+        "height": "834",
+        "filesize": "210787"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt2_print.jpg",
+        "width": "3400",
+        "height": "3149",
+        "filesize": "1371162"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt2_full.tif",
+        "width": "11125",
+        "height": "10305",
+        "filesize": "343958536"
+      },
+      "date_created": "2023-02-16T18:18:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt3_web.jpg",
+        "width": "900",
+        "height": "831",
+        "filesize": "208731"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt3_print.jpg",
+        "width": "3400",
+        "height": "3140",
+        "filesize": "1377740"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt3_full.tif",
+        "width": "11125",
+        "height": "10274",
+        "filesize": "342924012"
+      },
+      "date_created": "2023-02-16T19:07:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt4_web.jpg",
+        "width": "900",
+        "height": "831",
+        "filesize": "198095"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt4_print.jpg",
+        "width": "3400",
+        "height": "3138",
+        "filesize": "1277913"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt4_full.tif",
+        "width": "11125",
+        "height": "10268",
+        "filesize": "342723592"
+      },
+      "date_created": "2023-02-16T19:22:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt5_web.jpg",
+        "width": "900",
+        "height": "831",
+        "filesize": "208003"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt5_print.jpg",
+        "width": "3400",
+        "height": "3141",
+        "filesize": "1375848"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt5_full.tif",
+        "width": "11125",
+        "height": "10277",
+        "filesize": "343024124"
+      },
+      "date_created": "2023-02-16T19:49:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt6_web.jpg",
+        "width": "900",
+        "height": "827",
+        "filesize": "213011"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt6_print.jpg",
+        "width": "3400",
+        "height": "3125",
+        "filesize": "1416949"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt6_full.tif",
+        "width": "11125",
+        "height": "10225",
+        "filesize": "341288700"
+      },
+      "date_created": "2023-02-16T20:59:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt7_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "349252"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt7_print.jpg",
+        "width": "3400",
+        "height": "2549",
+        "filesize": "2905010"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt7_full.tif",
+        "width": "14204",
+        "height": "10650",
+        "filesize": "453849640"
+      },
+      "date_created": "2023-02-16T22:06:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt8_web.jpg",
+        "width": "900",
+        "height": "512",
+        "filesize": "269426"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt8_print.jpg",
+        "width": "3400",
+        "height": "1935",
+        "filesize": "2217246"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt8_full.tif",
+        "width": "14204",
+        "height": "8083",
+        "filesize": "344462636"
+      },
+      "date_created": "2023-02-16T21:56:34",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt9_web.jpg",
+        "width": "900",
+        "height": "830",
+        "filesize": "234554"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt9_print.jpg",
+        "width": "3400",
+        "height": "3136",
+        "filesize": "1758629"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt9_full.tif",
+        "width": "11125",
+        "height": "10260",
+        "filesize": "342457588"
+      },
+      "date_created": "2023-02-16T22:36:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt10_web.jpg",
+        "width": "900",
+        "height": "832",
+        "filesize": "226142"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt10_print.jpg",
+        "width": "3400",
+        "height": "3142",
+        "filesize": "1721540"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt10_full.tif",
+        "width": "11125",
+        "height": "10281",
+        "filesize": "343157940"
+      },
+      "date_created": "2023-02-16T22:48:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt11_web.jpg",
+        "width": "900",
+        "height": "819",
+        "filesize": "209794"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt11_print.jpg",
+        "width": "3400",
+        "height": "3095",
+        "filesize": "1491773"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_alt11_full.tif",
+        "width": "11399",
+        "height": "10376",
+        "filesize": "354857276"
+      },
+      "date_created": "2023-02-15T21:41:01",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "Dr. John and Helen Collis Family Gallery",
+  "athena_id": 538229,
+  "creators": [
+    {
+      "id": 538227,
+      "description": "Kleophon Painter (Greek, Attic, active c. 440–410 BCE)",
+      "extent": "execution",
+      "qualifier": "attributed to",
+      "role": "painter",
+      "biography": "Attic vase painter, active ca. 420-390 BCE",
+      "name_in_original_language": null,
+      "birth_year": "-460",
+      "death_year": "-360",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "2023-03-06T05:00:00Z",
+  "sortable_date": -440,
+  "date_added_to_oa": null,
+  "date_text": "c. 435–425 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": true,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": true,
+  "updated_at": "2026-05-29 09:09:44.287000"
+}

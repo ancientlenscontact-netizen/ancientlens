@@ -1,0 +1,40 @@
+{
+  "id": "cma-97408",
+  "title": "Tetradrachm: Head of Apollo (obverse); Lion (reverse)",
+  "accession": "1916.993",
+  "date": "c. 334–323 BCE",
+  "culture": [
+    "Greek, minted at Miletos (Ionia)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1916.993",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/97408",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "9af72f052833c079574f6bd631c3723d81a92219869026f6ecee096c62b9366b",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-97408.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_web.jpg",
+  "image_sha256": "565e09bfa3e596142444c6de3600e31760b61542ad39183f5f09d3419cbb2de5",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-97408-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Artemis",
+      "source_text": "ΑΡΤΕΜΩ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-97408.json",
+  "record_url": "/curated/cma-97408.json",
+  "note": "",
+  "description": ""
+}

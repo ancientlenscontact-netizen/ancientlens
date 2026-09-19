@@ -1,0 +1,40 @@
+{
+  "id": "cma-169343",
+  "title": "Tetradrachm Coin of Herognetos, Magistrate of Magnesia",
+  "accession": "2011.209",
+  "date": "155–145 BCE",
+  "culture": [
+    "Turkey, Ionia, Magnesia on the Maeander, Hellenistic Period"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/2011.209",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/169343",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "7c1355ba18fc5042783b07e3ccf0b58b27f7dc0712a91800769327e14c8d7e15",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-169343.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_web.jpg",
+  "image_sha256": "78e5539ad9e54715e18a5c3fb624308ff1afc0d793506f99d9d8f3e429af37e6",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-169343-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Erognetos [Son] of Zopyrion of Magnesia",
+      "source_text": "MAGNETON EROGNETOS ZOPURIONOS",
+      "remark": "Coin legend on the revers"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-169343.json",
+  "record_url": "/curated/cma-169343.json",
+  "note": "",
+  "description": ""
+}

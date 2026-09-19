@@ -1,0 +1,40 @@
+{
+  "id": "cma-98342",
+  "title": "Hemidrachm: Gorgoneion (obverse); Bull (reverse)",
+  "accession": "1917.991",
+  "date": "c. 400 BCE",
+  "culture": [
+    "Greek, minted at Parion (Mysia)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.991",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98342",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "5c29ac0d71db107002b6d1f94094ab53c9470cb1e028e58805abd2a22d2dce5b",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98342.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_web.jpg",
+  "image_sha256": "bb3c8868201b7855823cf60ad38cc3e8014e0aa32d2baf05974e1a326fd1af30",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98342-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "PARI, indicates that this coin is from Parion",
+      "source_text": "[ΠΑ]ΡΙ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98342.json",
+  "record_url": "/curated/cma-98342.json",
+  "note": "",
+  "description": ""
+}

@@ -1,0 +1,236 @@
+{
+  "id": 457392,
+  "accession_number": "2022.42",
+  "share_license_status": "CC0",
+  "tombstone": "Black-Figure White-Ground Lekythos (Oil Vessel): Athena between Cocks and Hieropoioi (Officials), 500–485 BCE. Attributed to Athena Painter (Greek, c. 500–475 BCE). Ceramic; diameter: 10.5 cm (4 1/8 in.); height: 29.7 cm (11 11/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2022.42",
+  "current_location": "102B Greek",
+  "title": "Black-Figure White-Ground Lekythos (Oil Vessel): Athena between Cocks and Hieropoioi (Officials)",
+  "creation_date": "500–485 BCE",
+  "creation_date_earliest": -500,
+  "creation_date_latest": -485,
+  "artists_tags": [
+    "gender unknown"
+  ],
+  "culture": [
+    "Greek, Attic"
+  ],
+  "technique": "Ceramic",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Ceramic",
+  "measurements": "Diameter: 10.5 cm (4 1/8 in.); height: 29.7 cm (11 11/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.105,
+      "width_inch": 4,
+      "width_inch_fraction": 0.125
+    },
+    "height": {
+      "height": 0.297,
+      "height_inch": 11,
+      "height_inch_fraction": 0.6875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "IEPOS",
+      "inscription_translation": "for HIEROS",
+      "inscription_remark": "before the lefthand figure",
+      "sortorder": null
+    },
+    {
+      "inscription": "NOLO and UON",
+      "inscription_translation": null,
+      "inscription_remark": "apparent nonsense on either side of Athena",
+      "sortorder": null
+    },
+    {
+      "inscription": "O.EROIPOS",
+      "inscription_translation": "for HIEROPOIOS",
+      "inscription_remark": "before the righthand figure",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Jacob Hirsch Collection, New York, NY",
+      "citations": [],
+      "footnotes": null,
+      "date": "by 1933",
+      "sortorder": 1
+    },
+    {
+      "description": "Albright Knox Gallery, Buffalo, New York, deaccessioned",
+      "citations": [],
+      "footnotes": null,
+      "date": "1933–2007",
+      "sortorder": 2
+    },
+    {
+      "description": "(Sale: Sotheby's, New York, NY, June 7, 2007, lot 34)",
+      "citations": [],
+      "footnotes": null,
+      "date": "June 7, 2007",
+      "sortorder": 3
+    },
+    {
+      "description": "Phoenix Ancient Art, New York, NY, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "2007–2022",
+      "sortorder": 4
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "2022",
+      "sortorder": 5
+    }
+  ],
+  "find_spot": "Reportedly found at Gela in Sicily",
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Athena’s skin, typically painted white on black-figure vases, here remains black atop the white ground.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The helmeted war goddess Athena strides forward on this oil vessel, raising her spear and a round shield emblazoned with a red snake. Flanked by two cocks, her pose recalls that on Panathenaic prize vases, the large black-figure amphorae awarded to athletic and equestrian victors in the Panathenaic Games. Beside the roosters stand two bearded, wreathed men, each holding a forked stick. Inscriptions identify the men as <em>hieropoioi</em> (doers of sacred things), officials charged with administration of sacred ceremonies and contests.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q117247321"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2022.42-black-figure-white-g"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "<em>Beazley Archive Pottery Database</em>",
+      "page_number": "no. 330737",
+      "url": "http://www.beazley.ox.ac.uk/record/5C68D513-3878-46B9-984A-C317F845F762"
+    },
+    {
+      "citation": "Haspels, Caroline Henriette Emilie. <em>Attic Black Figured Lekythoi</em>. Paris, 1936.",
+      "page_number": "p. 256, Appendix XV, No. 34",
+      "url": ""
+    },
+    {
+      "citation": "Buffalo Academy of Fine Arts.<em> Blue Book of the Buffalo Fine Arts Academy, in Which Is Incorporated the Albright Art Gallery and the Albright Art School: 1931-1942</em>. Buffalo: Buffalo Fine Arts Academy, 1943.",
+      "page_number": "pp. 60 and 121, Fig. a",
+      "url": ""
+    },
+    {
+      "citation": "Margarete Bieber, \"Two Attic Black-Figured Lekythoi in Buffalo,\"<em> American Journal of Archaeology</em>, Vol. 48/2, 1944.",
+      "page_number": "pp. 121-129, Fig. 2",
+      "url": ""
+    },
+    {
+      "citation": "Dunman Ure, Anne \"Koes,\" <em>Journal of Hellenic Studies</em>, Vol. 71, 1951.",
+      "page_number": "pl. XLII",
+      "url": ""
+    },
+    {
+      "citation": "Beazley, J. D. <em>Attic Black-Figure Vase-Painters. </em>Oxford: Clarendon Press, 1956.",
+      "page_number": "p. 522, no. 34",
+      "url": ""
+    },
+    {
+      "citation": "Albright-Knox Art Gallery, Steven A. Nash, Katy Kline, Charlotta Kotik, and Emese Wood.<em> Painting and Sculpture from Antiquity to 1942</em>. 1979.",
+      "page_number": "pp. 60-61",
+      "url": ""
+    },
+    {
+      "citation": "Shapiro, H. A. <em>Art and Cult Under the Tyrants in Athens.</em> Mainz am Rhein: Verlag Philipp von Zabern, 1989.",
+      "page_number": "pl.15A (part)",
+      "url": ""
+    },
+    {
+      "citation": "Neils, Jenifer. <em>Goddess and Polis: The Panathenaic Festival in Ancient Athens </em>: [Exhibition catalogue]. Hanover, N.H.: Hood Museum of Art, Dartmouth College, 1992.",
+      "page_number": "pp. 18 and 182, no. 55",
+      "url": ""
+    },
+    {
+      "citation": "Sotheby's (Firm). <em>Antiquities: Including Property of the Albright-Knox Art Gallery, Buffalo, New York.</em> New York: Sotheby's, 2007.",
+      "page_number": "no. 34, pp. 50-51",
+      "url": "https://www.sothebys.com/en/auctions/ecatalogue/2007/egyptian-classical-and-western-asiatic-antiquities-including-property-of-the-albright-knox-art-gallery-n08325/lot.34.html?locale=en"
+    },
+    {
+      "citation": "\"New on View.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>vol. 62, no. 3 (September, 2022): Back cover.",
+      "page_number": "Reproduced and Mentioned: Back cover.",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/2022.42",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2022.42/2022.42_web.jpg",
+      "width": "605",
+      "height": "900",
+      "filesize": "170702",
+      "filename": "2022.42_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2022.42/2022.42_print.jpg",
+      "width": "2286",
+      "height": "3400",
+      "filesize": "993592",
+      "filename": "2022.42_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2022.42/2022.42_full.tif",
+      "width": "6881",
+      "height": "10235",
+      "filesize": "211308712",
+      "filename": "2022.42_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 457392,
+  "creators": [
+    {
+      "id": 457390,
+      "description": "Athena Painter (Greek, c. 500–475 BCE)",
+      "extent": "execution",
+      "qualifier": "attributed to",
+      "role": null,
+      "biography": "Attic vase painter, active ca. 500-ca. 475 BCE",
+      "name_in_original_language": null,
+      "birth_year": "-540",
+      "death_year": "-445",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "2022-06-06T04:00:00Z",
+  "sortable_date": -500,
+  "date_added_to_oa": null,
+  "date_text": "500–485 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 09:04:59.969000"
+}

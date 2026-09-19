@@ -1,0 +1,40 @@
+{
+  "id": "cma-159077",
+  "title": "Mirror with a Square Band and Four Nipples",
+  "accession": "1995.275",
+  "date": "late 200s–early 100s BCE",
+  "culture": [
+    "China, Western Han dynasty (206 BCE–8 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.275",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159077",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "78bcbc4042fb70727c364e594acc6404e776d7970520e324eebf3d0261c5b112",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159077.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.275/1995.275_web.jpg",
+  "image_sha256": "e60c64b74b15e0d4f439c8f239c4a6387020e6611bb1adeb333131656d666916",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159077-1",
+      "field": "inscriptions[1].inscription_translation",
+      "text": "May you see the light of the sun, and live in endless joy!",
+      "source_text": "見日之光，長樂未央",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159077.json",
+  "record_url": "/curated/cma-159077.json",
+  "note": "",
+  "description": ""
+}

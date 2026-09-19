@@ -1,0 +1,40 @@
+{
+  "id": "cma-111420",
+  "title": "Tetradrachm: Dionysos on Donkey (obverse); Grapevine (reverse)",
+  "accession": "1929.912",
+  "date": "c. 430 BCE",
+  "culture": [
+    "Greek, minted at Mende (Chalkidiki)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1929.912",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/111420",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "286b353bc7d87f2774cb1af95ecd5fedceb047314addeea44ffe43db7dcd84e7",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-111420.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1929.912/1929.912_web.jpg",
+  "image_sha256": "b44d566b2a508a20035df56bccb6a03ea6184e372bb5dbdaf2a5a2a0f126f594",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-111420-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Of the people of Mende",
+      "source_text": "ΜΕΝΔΑΙΟΝ",
+      "remark": "Reverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-111420.json",
+  "record_url": "/curated/cma-111420.json",
+  "note": "",
+  "description": ""
+}

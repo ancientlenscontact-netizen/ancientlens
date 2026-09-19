@@ -1,0 +1,40 @@
+{
+  "id": "cma-159131",
+  "title": "Mirror with Two Dragons and a Tiger",
+  "accession": "1995.322",
+  "date": "200s CE",
+  "culture": [
+    "China, Three Kingdoms (221–280 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.322",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159131",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "e4495683c5e622291d1b0853bfe66a92a3ed119d4118c8f131a5233a939f4266",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159131.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.322/1995.322_web.jpg",
+  "image_sha256": "42ac2f2c61c1803ad9456a791d2ccbfaf78af2a72d2aeb03faf3db2caf1f900f",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159131-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "I, Master Zhang, produced this mirror, \nWhen alien tribes in four corners were \nbeing subjugated.\nLet us praise our Lord, for the people are given respite.\nAfter quelling the Hu and Qiang [tribes], he will restore peace on earth. \nMay you reach the high office and receive your \njust reward.\nMay you [gain the power to] protect your parents and descendants from harm. \nMay your joy be endless.",
+      "source_text": "張氏作鏡四夷服，多賀君家人民息。\n胡羌殄減天下復，風雨時節五殼熟。\n官至公卿蒙祿食，長保二親子孫力。\n樂毋極。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159131.json",
+  "record_url": "/curated/cma-159131.json",
+  "note": "",
+  "description": ""
+}

@@ -1,0 +1,147 @@
+{
+  "id": 98342,
+  "accession_number": "1917.991",
+  "share_license_status": "CC0",
+  "tombstone": "Hemidrachm: Gorgoneion (obverse); Bull (reverse), c. 400 BCE. Greek, minted at Parion (Mysia). Silver; diameter: 1.3 cm (1/2 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1917.991",
+  "current_location": null,
+  "title": "Hemidrachm: Gorgoneion (obverse); Bull (reverse)",
+  "creation_date": "c. 400 BCE",
+  "creation_date_earliest": -405,
+  "creation_date_latest": -395,
+  "artists_tags": [],
+  "culture": [
+    "Greek, minted at Parion (Mysia)"
+  ],
+  "technique": "silver",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Coins",
+  "measurements": "Diameter: 1.3 cm (1/2 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.013,
+      "width_inch": 0,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "[ΠΑ]ΡΙ",
+      "inscription_translation": "PARI, indicates that this coin is from Parion",
+      "inscription_remark": "Reverse",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Charles T. Seltman)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Ancient Parion (Latin Parium) lay in the region of Mysia, now northwest Turkey, on the Hellespont.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Like the coins of several other ancient cities, those of Parion feature the gorgoneion, or frontal face of Medusa, surrounded by serpents. On the reverse, a bull looks back across its body, with the letters Ρ Ι between its legs. More centrally struck examples preserve two more letters above—Π Α, to give ΠΑΡΙ (PARI), identifying the mint of Parion. The name recalls that of the Cycladic island Paros, one of Parion’s colonizers (with Miletos and Erythrae).",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79483844"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1917.991-hemidrachm-gorgoneio"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"Accessions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 4 (1917): 64-67.",
+      "page_number": "Mentioned: p. 64",
+      "url": "http://www.jstor.org/stable/25136092"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1917.991",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_web.jpg",
+      "width": "900",
+      "height": "474",
+      "filesize": "207558",
+      "filename": "1917.991_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_print.jpg",
+      "width": "2856",
+      "height": "1504",
+      "filesize": "1509010",
+      "filename": "1917.991_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_full.tif",
+      "width": "2856",
+      "height": "1504",
+      "filesize": "12910672",
+      "filename": "1917.991_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_alt0_web.jpg",
+        "width": "865",
+        "height": "900",
+        "filesize": "199006"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_alt0_print.jpg",
+        "width": "1446",
+        "height": "1504",
+        "filesize": "510211"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.991/1917.991_alt0_full.tif",
+        "width": "1446",
+        "height": "1504",
+        "filesize": "6549548"
+      },
+      "date_created": "2009-11-12T21:29:08",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 98342,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1917-01-11T00:00:00",
+  "sortable_date": -405,
+  "date_added_to_oa": null,
+  "date_text": "c. 400 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:18:31.977000"
+}

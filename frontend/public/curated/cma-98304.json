@@ -1,0 +1,40 @@
+{
+  "id": "cma-98304",
+  "title": "Hemidrachm: Chimaera (obverse); Dove (reverse)",
+  "accession": "1917.979",
+  "date": "400–323 BCE",
+  "culture": [
+    "Greek, minted at Sikyon (Peloponnesos)"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1917.979",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/98304",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "ae7b5967a890e2692a6f66a9614da96dde8724564b8d15a627cd7727abf502ff",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-98304.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1917.979/1917.979_web.jpg",
+  "image_sha256": "5a283b4a23dbd5ef453113f3c68fd2aac359b46a1a0aa9fbba063b74e5e92587",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-98304-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "SI, indicates that this coin is from Sikyon",
+      "source_text": "ΣΙ",
+      "remark": "Obverse"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-98304.json",
+  "record_url": "/curated/cma-98304.json",
+  "note": "",
+  "description": ""
+}

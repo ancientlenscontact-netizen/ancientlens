@@ -1,0 +1,242 @@
+{
+  "batch_id": "unas-public-records-v1",
+  "tables": {
+    "sources": [
+      {
+        "id": "unas-ministry",
+        "title": "Pyramid of Unas \u2014 Egyptian Ministry of Tourism and Antiquities",
+        "url": "https://egymonuments.gov.eg/monuments/pyramid-of-unas/",
+        "accessed_on": "2026-09-14",
+        "note": "Monument/site identification only; no media or text reuse permission inferred."
+      },
+      {
+        "id": "unas-ucl",
+        "title": "Pyramid Texts \u2014 UCL Digital Egypt",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/pyramid.html",
+        "accessed_on": "2026-09-14",
+        "note": "Corpus context and bibliography; references only, not copied editions."
+      },
+      {
+        "id": "unas-commons",
+        "title": "Pyramid Texts in Unas\u2019 Pyramid 2017 \u2014 Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg",
+        "accessed_on": "2026-09-14",
+        "note": "File revision 1147172108; author Aidan McRae Thomson; CC BY-SA 2.0; Commons Flickr license review dated 2025-01-27."
+      },
+      {
+        "id": "unas-flickr",
+        "title": "Pyramid Texts, Pyramid of Unas, Saqqara \u2014 Aidan McRae Thomson",
+        "url": "https://www.flickr.com/photos/amthomson/42802363745/",
+        "accessed_on": "2026-09-14",
+        "note": "Photographer source; capture date 2017-10-13; license link verified as CC BY-SA 2.0."
+      },
+      {
+        "id": "unas-pto-south",
+        "title": "Sarcophagus Chamber South Wall \u2014 Pyramid Texts Online",
+        "url": "https://pyramidtextsonline.com/sarcsouth.html",
+        "accessed_on": "2026-09-14",
+        "note": "Page associates this wall with utterances 213\u2013219; reference metadata only. Translation reuse permission not established."
+      },
+      {
+        "id": "unas-pto-translation",
+        "title": "Unas translation overview \u2014 Pyramid Texts Online",
+        "url": "https://pyramidtextsonline.com/translation.html",
+        "accessed_on": "2026-09-14",
+        "note": "Describes a modernized Piankoff translation. No translation text imported; reuse permission unresolved."
+      },
+      {
+        "id": "unas-language",
+        "title": "A Typology of Non-Projective Patterns in Unas\u2019s and Teti\u2019s Pyramid Texts",
+        "url": "https://aclanthology.org/2025.depling-1.1/",
+        "accessed_on": "2026-09-14",
+        "note": "Research abstract explicitly describes Old Egyptian in Unas and Teti Pyramid Texts. Supports corpus-level candidate classification, not visual decoding."
+      }
+    ],
+    "monuments": [
+      {
+        "id": "unas-pyramid",
+        "name": "Pyramid of Unas",
+        "site": "Saqqara",
+        "country": "Egypt",
+        "source_id": "unas-ministry"
+      }
+    ],
+    "passage_records": [
+      {
+        "id": "unas-pt-213",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 213",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      },
+      {
+        "id": "unas-pt-214",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 214",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      },
+      {
+        "id": "unas-pt-215",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 215",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      },
+      {
+        "id": "unas-pt-216",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 216",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      },
+      {
+        "id": "unas-pt-217",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 217",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      },
+      {
+        "id": "unas-pt-218",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 218",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      },
+      {
+        "id": "unas-pt-219",
+        "monument_id": "unas-pyramid",
+        "designation": "Pyramid Text utterance 219",
+        "locator": "Sarcophagus chamber, south wall (source-reported; edition alignment pending)",
+        "source_id": "unas-pto-south",
+        "candidate_writing_system_id": "old-hieroglyphic",
+        "classification_source_id": "unas-language",
+        "review_status": "unreviewed",
+        "note": "Bibliographic passage reference only, not a transcription or a verified photo alignment. Utterance numbering retained from source; extent and edition concordance need review."
+      }
+    ],
+    "passage_references": [
+      {
+        "passage_id": "unas-pt-213",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      },
+      {
+        "passage_id": "unas-pt-214",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      },
+      {
+        "passage_id": "unas-pt-215",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      },
+      {
+        "passage_id": "unas-pt-216",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      },
+      {
+        "passage_id": "unas-pt-217",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      },
+      {
+        "passage_id": "unas-pt-218",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      },
+      {
+        "passage_id": "unas-pt-219",
+        "source_id": "unas-pto-translation",
+        "role": "translation",
+        "reuse_status": "unknown",
+        "note": "External reference only; no translation content stored or licensed by this record."
+      }
+    ],
+    "media_records": [
+      {
+        "id": "unas-2017",
+        "monument_id": "unas-pyramid",
+        "source_id": "unas-commons",
+        "author": "Aidan McRae Thomson",
+        "license": "CC-BY-SA-2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "attribution": "Pyramid Texts in Unas\u2019 Pyramid 2017 \u2014 Aidan McRae Thomson, via Wikimedia Commons/Flickr, CC BY-SA 2.0. Original JPEG unchanged; normalized derivative uses EXIF orientation correction and RGB PNG conversion only.",
+        "original_path": "originals/unas-2017.jpg",
+        "normalized_path": "images/unas-2017.png",
+        "original_sha256": "d7de00b899214a7fbd570048a895bc10c75c2c99f95b7d9e7cd06e530d22d307",
+        "normalized_sha256": "d96e2f7d80ae9100555bf7c48a75d69a9f24c8c32fb36ce112a124e202be005e",
+        "width": 2560,
+        "height": 1920,
+        "review_status": "unreviewed",
+        "triage": "AI visual triage, unreviewed: dense vertical inscription columns, oblique framing, bright lamp and ceiling at upper left, uneven illumination, soft/faint contours toward right and bottom, abrasion, and text cropped at image edges. Exact wall and utterance range are unidentified. No signs, reading order or translation inferred."
+      }
+    ],
+    "text_units": [
+      {
+        "id": "unas-2017-visible",
+        "corpus_object_id": "unas-pyramid",
+        "corpus_sample_id": "unas-2017",
+        "normalized_sha256": "d96e2f7d80ae9100555bf7c48a75d69a9f24c8c32fb36ce112a124e202be005e",
+        "region_ref": null,
+        "note": "Whole-image visible inscription review unit; incomplete field of view, no region boxes or passage match established."
+      }
+    ],
+    "text_unit_media": [
+      {
+        "text_unit_id": "unas-2017-visible",
+        "media_id": "unas-2017"
+      }
+    ],
+    "classification_assertions": [
+      {
+        "id": "unas-2017-language-candidate",
+        "text_unit_id": "unas-2017-visible",
+        "writing_system_id": "old-hieroglyphic",
+        "status": "unreviewed",
+        "author": "AI technical assistant",
+        "evidence": "Corpus-level inference from photographer/Commons attribution to Unas Pyramid Texts and the language discussion at https://aclanthology.org/2025.depling-1.1/ . Not image-based recognition or individual passage verification.",
+        "reviewer": null,
+        "reviewed_on": null
+      }
+    ]
+  }
+}

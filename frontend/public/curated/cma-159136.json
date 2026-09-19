@@ -1,0 +1,40 @@
+{
+  "id": "cma-159136",
+  "title": "Mirror with Four Bixie",
+  "accession": "1995.327",
+  "date": "early 400s–late 500s CE",
+  "culture": [
+    "China, Southern and Northern Dynasties period (386-589)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.327",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159136",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "13c4f32ef8150b4187d1111b669793c3544fb40f83545b405432091b19bc3de7",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159136.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.327/1995.327_web.jpg",
+  "image_sha256": "8caebbb9c7eaa83b953af0b83ccbfb1d24618c2c7609b9d981390dc12b8f6661",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159136-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "I made the bright mirror, \nHaving melted three metals.\nI have sculpted the classic paradigms \nAnd the virtuous in myriad years.\nThe human spirit is made manifest\nAnd heavenly deities reveal their noble forms.\nAs they are painted with six colors,\nTheir light shines through the heaven and earth.\nWith virtues and the Way in grasp,\nRules and laws sprang into being....",
+      "source_text": "吾作明鏡，幽涑三商。\n雕刻典祚，配德萬疆。\n人氣顯分，天元景容。座事六采，\n光耀玄黃。統德序道，【】有紀綱 ...",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159136.json",
+  "record_url": "/curated/cma-159136.json",
+  "note": "",
+  "description": ""
+}

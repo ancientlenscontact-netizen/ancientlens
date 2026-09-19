@@ -1,0 +1,141 @@
+{
+  "id": 97408,
+  "accession_number": "1916.993",
+  "share_license_status": "CC0",
+  "tombstone": "Tetradrachm: Head of Apollo (obverse); Lion (reverse), c. 334–323 BCE. Greek, minted at Miletos (Ionia). Silver; diameter: 2.4 cm (15/16 in.). The Cleveland Museum of Art, Gift of J. H. Wade, 1916.993",
+  "current_location": null,
+  "title": "Tetradrachm: Head of Apollo (obverse); Lion (reverse)",
+  "creation_date": "c. 334–323 BCE",
+  "creation_date_earliest": -339,
+  "creation_date_latest": -318,
+  "artists_tags": [],
+  "culture": [
+    "Greek, minted at Miletos (Ionia)"
+  ],
+  "technique": "silver",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Coins",
+  "measurements": "Diameter: 2.4 cm (15/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.024,
+      "width_inch": 0,
+      "width_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "ΑΡΤΕΜΩ",
+      "inscription_translation": "Artemis",
+      "inscription_remark": "Reverse",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 383281,
+        "title": "Stories from Storage",
+        "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+        "opening_date": "2021-02-06T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The lion and star on the reverse connect to the sun god, Apollo, on the obverse.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The lion, king of the beasts and an animal associated with regal and heroic power, featured prominently on the coinage of many ancient Greek city-states. Artists placed the lion in a variety of poses, sometimes including the whole body, at other times the foreparts or just the head. Although it may once have roamed nearby, for many Greeks the lion was a monster nearly as exotic as the Chimaera, of which it formed a part, together with a goat head and snake-headed tail.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79481808"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1916.993-tetradrachm-apollo-o",
+      "https://archive.org/details/clevelandart-1916.993-tetradrachm-head-of"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1916.993",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_web.jpg",
+      "width": "900",
+      "height": "448",
+      "filesize": "207443",
+      "filename": "1916.993_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_print.jpg",
+      "width": "3400",
+      "height": "1691",
+      "filesize": "1586206",
+      "filename": "1916.993_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_full.tif",
+      "width": "4374",
+      "height": "2176",
+      "filesize": "28578472",
+      "filename": "1916.993_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_alt0_web.jpg",
+        "width": "879",
+        "height": "900",
+        "filesize": "213281"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_alt0_print.jpg",
+        "width": "2178",
+        "height": "2229",
+        "filesize": "1125345"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.993/1916.993_alt0_full.tif",
+        "width": "2178",
+        "height": "2229",
+        "filesize": "14590244"
+      },
+      "date_created": "2009-12-09T02:17:02",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of J. H. Wade",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 97408,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1916-10-02T00:00:00",
+  "sortable_date": -339,
+  "date_added_to_oa": null,
+  "date_text": "c. 334–323 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:15:01.893000"
+}

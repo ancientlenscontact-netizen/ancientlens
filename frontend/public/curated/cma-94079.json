@@ -1,0 +1,40 @@
+{
+  "id": "cma-94079",
+  "title": "Canopic Jar with Lid",
+  "accession": "1914.631",
+  "date": "1540–1296 BCE",
+  "culture": [
+    "Egypt, New Kingdom (1540–1069 BCE), Dynasty 18"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1914.631",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/94079",
+  "retrieved_at": "2026-09-19T12:04:08.821305+00:00",
+  "metadata_sha256": "19e99fc6fec169e1dac21e46351223125a3b7e909ab1f535f498acdccfc42df1",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-94079.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1914.631/1914.631_web.jpg",
+  "image_sha256": "8e8dcece344596bb13268b53988c92f129f33341422376905399c0a016c51aaa",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-94079-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "May your arms embrace that which is in you.  May you protect Hapy, who is in you, and the honored one before Hapy, the Osiris, the royal herald, Gregmennefer, vindicated.",
+      "source_text": "",
+      "remark": "[Words spoken by Nephathys]"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-94079.json",
+  "record_url": "/curated/cma-94079.json",
+  "note": "",
+  "description": ""
+}

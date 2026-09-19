@@ -1,0 +1,40 @@
+{
+  "id": "cma-159086",
+  "title": "TLV Mirror with Serpentine Interlaces",
+  "accession": "1995.283",
+  "date": "125–1 BCE",
+  "culture": [
+    "China, Western Han dynasty (206 BCE–8 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.283",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159086",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "6e131f87e48a32abf0d3fd73b43c1862a0c6d99da100b63c18b4a17337ca6693",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159086.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.283/1995.283_web.jpg",
+  "image_sha256": "39a144a3649fe272c8c42678b948bfa08c6ec9088695571f4b2d75c3377b7004",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159086-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "In great joy and fortune, May you obtain your heart's desire. Through thousands of autumns and myriad years, May you live a lasting life.",
+      "source_text": "大樂貴富，得所好。千秋萬歲，延年益壽。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159086.json",
+  "record_url": "/curated/cma-159086.json",
+  "note": "",
+  "description": ""
+}

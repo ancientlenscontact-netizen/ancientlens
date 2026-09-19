@@ -1,0 +1,153 @@
+{
+  "id": 169343,
+  "accession_number": "2011.209",
+  "share_license_status": "CC0",
+  "tombstone": "Tetradrachm Coin of Herognetos, Magistrate of Magnesia, 155–145 BCE. Turkey, Ionia, Magnesia on the Maeander, Hellenistic Period. Silver; diameter: 3.2 x 0.5 cm (1 1/4 x 3/16 in.). The Cleveland Museum of Art, Gift of Dr. Norman Zaworski, 2011.209",
+  "current_location": null,
+  "title": "Tetradrachm Coin of Herognetos, Magistrate of Magnesia",
+  "creation_date": "155–145 BCE",
+  "creation_date_earliest": -155,
+  "creation_date_latest": -145,
+  "artists_tags": [],
+  "culture": [
+    "Turkey, Ionia, Magnesia on the Maeander, Hellenistic Period"
+  ],
+  "technique": "silver",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Silver",
+  "measurements": "Diameter: 3.2 x 0.5 cm (1 1/4 x 3/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.032,
+      "width_inch": 1,
+      "width_inch_fraction": 0.25,
+      "depth": 0.005,
+      "depth_inch": 0,
+      "depth_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "MAGNETON EROGNETOS ZOPURIONOS",
+      "inscription_translation": "Erognetos [Son] of Zopyrion of Magnesia",
+      "inscription_remark": "Coin legend on the revers",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Bruce Ferrini, approximately 2000; Dr. Norman Zaworski",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The front has a bust of Artemis, a diadem circling her head and a quiver over her shoulder. On the reverse is Apollo Delphios holding a laurel branch, standing on a meander pattern, and leaning his left elbow on a tripod, all within a laurel wreath. Magnesia is located southeast of Ephesus on a tributary of the Meander River.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60761669"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2011.209-tetradrachm-coin-of"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "https://www.vcoins.com/en/stores/sergey_nechayev_ancient_coins/200/product/ioniamagnesia_ad_maeandrum_155_bc_ar_tetradrachm_artemis_apollo_ngc_ch_au_45_45/622818/Default.aspx",
+      "page_number": null,
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2011.209",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_web.jpg",
+      "width": "900",
+      "height": "398",
+      "filesize": "",
+      "filename": "2011.209_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_print.jpg",
+      "width": "3400",
+      "height": "1504",
+      "filesize": "",
+      "filename": "2011.209_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_full.tif",
+      "width": "5668",
+      "height": "2507",
+      "filesize": "",
+      "filename": "2011.209_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_alt0_web.jpg",
+        "width": "900",
+        "height": "789",
+        "filesize": "142791"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_alt0_print.jpg",
+        "width": "2859",
+        "height": "2507",
+        "filesize": "1467005"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.209/2011.209_alt0_full.tif",
+        "width": "2859",
+        "height": "2507",
+        "filesize": "21531648"
+      },
+      "date_created": "2011-08-04T19:45:37",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Dr. Norman Zaworski",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 169343,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2011-12-05T00:00:00",
+  "sortable_date": -155,
+  "date_added_to_oa": null,
+  "date_text": "155–145 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Silver Coin",
+    "Indo-Greek Coin"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:42:19.505000"
+}

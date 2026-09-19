@@ -1,0 +1,47 @@
+{
+  "id": "cma-457392",
+  "title": "Black-Figure White-Ground Lekythos (Oil Vessel): Athena between Cocks and Hieropoioi (Officials)",
+  "accession": "2022.42",
+  "date": "500–485 BCE",
+  "culture": [
+    "Greek, Attic"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/2022.42",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/457392",
+  "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
+  "metadata_sha256": "6b6c183bb350b5303119ce5ba2c370ec0f3388ef06ad4050689e3a9ee105c7c3",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-457392.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/2022.42/2022.42_web.jpg",
+  "image_sha256": "58c2f76a8391e10c4b8d163ce048ff016c9195ac6dd3d072b9065eecc4e391fe",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-457392-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "for HIEROS",
+      "source_text": "IEPOS",
+      "remark": "before the lefthand figure"
+    },
+    {
+      "id": "cma-457392-2",
+      "field": "inscriptions[2].inscription_translation",
+      "text": "for HIEROPOIOS",
+      "source_text": "O.EROIPOS",
+      "remark": "before the righthand figure"
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-457392.json",
+  "record_url": "/curated/cma-457392.json",
+  "note": "",
+  "description": ""
+}
