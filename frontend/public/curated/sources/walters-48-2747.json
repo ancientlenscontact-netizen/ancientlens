@@ -1,0 +1,32 @@
+{
+  "id": "walters-48-2747",
+  "accession": "48.2747",
+  "title": "Kylix with Running Warriors",
+  "source_url": "https://art.thewalters.org/object/48.2747/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Panphaios made (this).",
+  "original_inscription_field": "[Transcription; painted, Greek]: ΠΑΝΦΑΙΟΣ ΕΠΟΙΕΣΕΝ [Transliteration]: PANPHAIOS EPOIESEN. [Translation]: Panphaios made (this).",
+  "alternative_translation": "",
+  "transcription": "ΠΑΝΦΑΙΟΣ ΕΠΟΙΕΣΕΝ",
+  "geography": "Greek, Attic vessel; no exact findspot inferred.",
+  "provenance": "Merrin Gallery, New York [date and mode of acquisition unknown]; Walters Art Museum, 1999, by purchase.",
+  "coverage_evidence": "Museum identifies the potter’s signature on the foot and supplies the complete maker statement; no excerpt marker.",
+  "visual_observation": "Full exterior/underside photographed, with warriors and handles. Maker signature on foot edge is not legible in this view: object illustration rather than inscription facsimile. Glare and repaired cracks visible.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nikosthenes_Painter_-_Red-Figure_Kylix_with_Running_Warriors_-_Walters_482747_-_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nikosthenes_Painter_-_Red-Figure_Kylix_with_Running_Warriors_-_Walters_482747_-_Exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "818378af31e6ed3e40e6f66c4a77203bfd9fb6da8985e1b7a9c21614f8056093",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

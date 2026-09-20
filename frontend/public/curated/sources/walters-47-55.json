@@ -1,0 +1,32 @@
+{
+  "id": "walters-47-55",
+  "accession": "47.55",
+  "title": "Cup with Wreaths",
+  "source_url": "https://art.thewalters.org/object/47.55/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Take the victory",
+  "original_inscription_field": "[Inscription, Greek; mold-made ] ΛΑΒΕ ΤΗΝ ΝΕΙΚΗΝ [Transliteration] Labe ten neiken [Translation] Take the victory",
+  "alternative_translation": "",
+  "transcription": "ΛΑΒΕ ΤΗΝ ΝΕΙΚΗΝ",
+  "geography": "Roman-period glass with Greek inscription; exact findspot not supplied.",
+  "provenance": "Dikran Kelekian, Paris and New York, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum supplies the full short victory formula around the glass. Description notes a reversed N in the mold; the published normalized Greek is retained.",
+  "visual_observation": "One side of amber glass cup photographed. Raised letters in central band visible, but wraparound wording continues beyond this view. Rim chip, crack, surface deposits and translucent glare.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Roman_-_Glass_Cup_with_Wreaths_-_Walters_4755_-_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roman_-_Glass_Cup_with_Wreaths_-_Walters_4755_-_Side_A.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "7f6fa60a0dfbe64ae54591d582d65c617d3dd09e6f3e87735b2c2bdb4d5815b4",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

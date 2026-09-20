@@ -1,5 +1,9 @@
 // Museum-supplied date bounds from pinned source metadata; approximate ranges, not new dating.
 export const sourceDates:Record<string,[number,number]> = {
+  "walters-47-55": [1, 50],
+  "walters-23-2": [-400, -300],
+  "walters-48-2747": [-510, -500],
+  "walters-23-180": [50, 100],
   "walters-42-35": [-1292, -1070],
   "walters-42-72": [-1397, -1388],
   "walters-42-65": [-664, -525],

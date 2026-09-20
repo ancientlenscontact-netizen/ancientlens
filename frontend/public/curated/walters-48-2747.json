@@ -1,0 +1,40 @@
+{
+  "id": "walters-48-2747",
+  "title": "Kylix with Running Warriors",
+  "accession": "48.2747",
+  "date": "late 6th century BCE (Archaic)",
+  "culture": [
+    "Greek"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/48.2747/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "85445f5a4840060fa86d8709c1a7de535cc2d249b7b6d6a074e72f3d5314150b",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Nikosthenes_Painter_-_Red-Figure_Kylix_with_Running_Warriors_-_Walters_482747_-_Exterior.jpg",
+  "image": "/curated/walters-48-2747.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nikosthenes_Painter_-_Red-Figure_Kylix_with_Running_Warriors_-_Walters_482747_-_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "783ff666967e0378f112ef5bae1adb878821bb8d6019b0a6045454f62a20d06d",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Museum translation and inscription fields separated; source wording retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-48-2747-0",
+      "field": "Museum inscription: published translation",
+      "text": "Panphaios made (this).",
+      "source_text": "ΠΑΝΦΑΙΟΣ ΕΠΟΙΕΣΕΝ",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-48-2747.json",
+  "record_url": "/curated/walters-48-2747.json",
+  "note": "Museum identifies the potter’s signature on the foot and supplies the complete maker statement; no excerpt marker. AncientLens scholarly review: unreviewed. Greek, Attic vessel; no exact findspot inferred. Ownership history: Merrin Gallery, New York [date and mode of acquisition unknown]; Walters Art Museum, 1999, by purchase.",
+  "description": ""
+}

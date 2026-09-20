@@ -1,0 +1,32 @@
+{
+  "id": "walters-23-180",
+  "accession": "23.180",
+  "title": "Urn with Lid",
+  "source_url": "https://art.thewalters.org/object/23.180/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Novia Clara, freedwoman of Publius",
+  "original_inscription_field": "[Inscription, Latin] NOVIA P(ublii) L(iberta) CLARA [Translation] Novia Clara, freedwoman of Publius",
+  "alternative_translation": "",
+  "transcription": "NOVIA P(ublii) L(iberta) CLARA",
+  "geography": "Roman object; no precise findspot inferred.",
+  "provenance": "Kalebjian Freres, Paris, [date and mode of acquisition unknown]; Joseph Brummer, New York and Paris, 1925, by purchase [Brummer inv. no. P2187]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum supplies the entire front epitaph: name, freed status and former owner’s name. Expanded Latin and published English are both retained.",
+  "visual_observation": "Full black-and-white three-quarter photograph. Three-line front epitaph visible and mostly distinct, worn center line; lid chips, repairs and restored base/finial identified by museum.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Roman_-_Urn_with_Lid_-_Walters_23180_-_Three_Quarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roman_-_Urn_with_Lid_-_Walters_23180_-_Three_Quarter.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "652a1d48a6670493016e2735c139579a48485652337ff6cd76f62be3b7ed0bd7",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

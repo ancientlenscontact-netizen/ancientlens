@@ -675,6 +675,54 @@
       "source_sha256": "07099fc1d42be9dfca41a2104ee6e72cc2d40004becdf3d9bb7fa37dcab3efce",
       "image_sha256": "442e4c0980807c280f606f6b127138a7ec071865a3e06e50ad227390f698a692",
       "review": "unreviewed"
+    },
+    {
+      "id": "walters-23-180",
+      "area": "Mediterranean",
+      "coverage": "Complete museum-published inscription rendering",
+      "evidence_url": "https://art.thewalters.org/object/23.180/",
+      "coverage_evidence": "Museum supplies the entire front epitaph: name, freed status and former owner’s name. Expanded Latin and published English are both retained.",
+      "visual_observation": "Full black-and-white three-quarter photograph. Three-line front epitaph visible and mostly distinct, worn center line; lid chips, repairs and restored base/finial identified by museum.",
+      "source_snapshot": "/curated/sources/walters-23-180.json",
+      "source_sha256": "ff0701f2b2d956404e2747d528008679883ec43fe03993acf7f91fa0ff76186e",
+      "image_sha256": "7463c5dc39ae5a529d7e6a02f4b55748d9f572f59f8c96b2562e08f3a8b0f9ad",
+      "review": "unreviewed"
+    },
+    {
+      "id": "walters-48-2747",
+      "area": "Mediterranean",
+      "coverage": "Complete museum-published inscription rendering",
+      "evidence_url": "https://art.thewalters.org/object/48.2747/",
+      "coverage_evidence": "Museum identifies the potter’s signature on the foot and supplies the complete maker statement; no excerpt marker.",
+      "visual_observation": "Full exterior/underside photographed, with warriors and handles. Maker signature on foot edge is not legible in this view: object illustration rather than inscription facsimile. Glare and repaired cracks visible.",
+      "source_snapshot": "/curated/sources/walters-48-2747.json",
+      "source_sha256": "85445f5a4840060fa86d8709c1a7de535cc2d249b7b6d6a074e72f3d5314150b",
+      "image_sha256": "783ff666967e0378f112ef5bae1adb878821bb8d6019b0a6045454f62a20d06d",
+      "review": "unreviewed"
+    },
+    {
+      "id": "walters-23-2",
+      "area": "Mediterranean",
+      "coverage": "Complete museum-published inscription rendering",
+      "evidence_url": "https://art.thewalters.org/object/23.2/",
+      "coverage_evidence": "Both figure labels are included: Ada and Mikon with his place-name. Museum identifies no longer inscription.",
+      "visual_observation": "Black-and-white photograph of surviving marble funerary vessel. Labels above figures are faint; weathered surface, central crack and missing neck/base. Source supplies reading, not independently verified from photo.",
+      "source_snapshot": "/curated/sources/walters-23-2.json",
+      "source_sha256": "a55e84bf548b77834337d0eb8375b987d743439a84b385b7c5ee78a2517da2c6",
+      "image_sha256": "000c12d15c92da92b3f52e9b3980a2c624d33843715f004e00002aa2b1d68a71",
+      "review": "unreviewed"
+    },
+    {
+      "id": "walters-47-55",
+      "area": "Mediterranean",
+      "coverage": "Complete museum-published inscription rendering",
+      "evidence_url": "https://art.thewalters.org/object/47.55/",
+      "coverage_evidence": "Museum supplies the full short victory formula around the glass. Description notes a reversed N in the mold; the published normalized Greek is retained.",
+      "visual_observation": "One side of amber glass cup photographed. Raised letters in central band visible, but wraparound wording continues beyond this view. Rim chip, crack, surface deposits and translucent glare.",
+      "source_snapshot": "/curated/sources/walters-47-55.json",
+      "source_sha256": "cb800548cb0d70a12efbfa9925a2d0648f43573cd190446b1b7495be57f453f9",
+      "image_sha256": "8d93d276766fa41d88eabf206e52924f951653c5b65e36f2950ac4e3713826e7",
+      "review": "unreviewed"
     }
   ],
   "selection_note": "Editorial source-coverage checks, not independent linguistic validation. Includes fragmentary published editions; images may not show every text surface. Regional target remains in progress."

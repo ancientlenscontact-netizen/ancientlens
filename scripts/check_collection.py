@@ -3,10 +3,10 @@ import hashlib,json,subprocess,sys
 from pathlib import Path
 root=Path(__file__).resolve().parents[1];out=root/'frontend/public/curated'
 rows=json.loads((out/'collection.json').read_text())
-assert len(rows)==111 and len({r['accession'] for r in rows})==111
-assert len({r['id'] for r in rows})==111
+assert len(rows)==115 and len({r['accession'] for r in rows})==115
+assert len({r['id'] for r in rows})==115
 assert {r['collection'] for r in rows}=={'Egyptian','Greek','Roman','Chinese','Assyrian','Indian','Maya','Mesopotamian'}
-assert sum(len(r['passages']) for r in rows)==119
+assert sum(len(r['passages']) for r in rows)==123
 for r in rows:
  if r['id'].startswith('walters-'):
   source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
@@ -53,4 +53,4 @@ assert json.loads((root/'backend/app/data/catalog/curated.json').read_text())==r
 before=(out/'collection.json').read_bytes()
 subprocess.run([sys.executable,str(root/'scripts/build_collection.py')],check=True)
 assert before==(out/'collection.json').read_bytes()
-print('PASS: 111 identities, 119 source entries, provenance/rights/image hashes, deterministic rebuild')
+print('PASS: 115 identities, 123 source entries, provenance/rights/image hashes, deterministic rebuild')

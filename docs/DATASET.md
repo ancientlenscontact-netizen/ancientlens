@@ -1,6 +1,6 @@
-# AncientLens curated dataset — 2026-09-20.7
+# AncientLens curated dataset — 2026-09-20.8
 
-111 distinct objects/documents,119 English source entries:60 Cleveland objects/67entries,29 Maya research-source records/30entries, and22 Walters objects/22entries. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
+115 distinct objects/documents,123 English source entries:60 Cleveland objects/67entries,29 Maya research-source records/30entries, and26 Walters objects/26entries. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
 
 ## Contents and identifiers
 
@@ -10,7 +10,7 @@ Cleveland records retain exact museum wording and CC0 photographs. New research 
 
 ## Rights and media
 
-text_license and text_rights_url must be read per record. Cleveland materials and Walters inscription metadata are CC0. Four direct Walters photographs are CC0; eighteen Walters photographs via Commons retain CC BY-SA3.0. Read image_license and image_changes separately from the text license. ClassicMayan excerpts are CC BY4.0 with required attribution to the authors/publication in institution and source_url. institution is source credit, not a universal holding-museum field. Preserve text_changes and coverage in note. See LICENSES.md. Do not label this mixed collection wholly CC0. No endorsement or independent scholarly review is implied.
+text_license and text_rights_url must be read per record. Cleveland materials and Walters inscription metadata are CC0. Four direct Walters photographs are CC0; twenty-two Walters photographs via Commons retain CC BY-SA3.0. Read image_license and image_changes separately from the text license. ClassicMayan excerpts are CC BY4.0 with required attribution to the authors/publication in institution and source_url. institution is source credit, not a universal holding-museum field. Preserve text_changes and coverage in note. See LICENSES.md. Do not label this mixed collection wholly CC0. No endorsement or independent scholarly review is implied.
 
 Three Maya research records now include credited scholarly drawings;26 remain text-only. Copan Stela64 now includes both published front/reverse renderings with lacunae retained. The other two illustrated editions are CCIT Vaso8 and PNTF192. All three are fragmentary, not complete recovered ancient documents. curated/pilot-selection.json records this first source-coverage selection toward20perarea; it is not scholarly validation.
 
@@ -31,3 +31,5 @@ Paths beginning /curated resolve relative to the website; remove the leading sla
 2026-09-20.6 adds nine Chinese mirrors and a Mesopotamian foundation tablet, each with a reusable photograph and complete museum-published rendering. Two existing Chinese records also enter the illustrated selection:23 selected (China16,Egypt2,Mesoamerica3,SouthAsia1,Mesopotamia1). Target20each remains unfinished. The tablet photograph shows both inscribed faces; its language is not specified by the museum. All scholarly reviews unreviewed.
 
 2026-09-20.7 adds eighteen Egyptian objects and the Roman Mithras altar with museum translations and photographs. Fifteen existing Mediterranean objects also qualify for the illustrated selection. Selected57: Egypt20, China16, Mediterranean16, Mesoamerica3, SouthAsia1, Mesopotamia1. All source readings remain scholarly unreviewed. Photographs include object illustrations where the complete inscribed surface is not visible. Egyptian image credit: The Walters Art Museum, CC BY-SA3.0 via Commons. Earlier archives unchanged.
+
+2026-09-20.8 adds four Mediterranean vessels: a funerary urn, a signed Greek cup, a marble funerary vessel and a victory glass. Selected61:Egypt20,Mediterranean20,China16,Mesoamerica3,SouthAsia1,Mesopotamia1. Source-coverage selection remains distinct from scholarly review. All four photographs CC BY-SA3.0, museum inscription metadata CC0.

@@ -1,0 +1,32 @@
+{
+  "id": "walters-23-2",
+  "accession": "23.2",
+  "title": "Lekythos with Seated and Standing Figures",
+  "source_url": "https://art.thewalters.org/object/23.2/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Ada. Mikon from Sigeion",
+  "original_inscription_field": "[Inscription; over the figures] ΑΔΑ ΜΙΚΩΝ ΕΞ ΣΙΓΕΙΟΥ [Transliteration] Ἄδα. Μίκων ἐξ Σιγείου [Translation] Ada. Mikon from Sigeion",
+  "alternative_translation": "",
+  "transcription": "ΑΔΑ ΜΙΚΩΝ ΕΞ ΣΙΓΕΙΟΥ",
+  "geography": "Greek funerary vessel; Sigeion is in the personal label, not assumed to be its findspot.",
+  "provenance": "Roussos, Athens, [date and mode of acquisition unknown]; Joseph Brummer, Paris and New York,  1924, by purchase [Brummer inv. no. P1502]; Henry Walters, Baltimore, 1925 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Both figure labels are included: Ada and Mikon with his place-name. Museum identifies no longer inscription.",
+  "visual_observation": "Black-and-white photograph of surviving marble funerary vessel. Labels above figures are faint; weathered surface, central crack and missing neck/base. Source supplies reading, not independently verified from photo.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Greek_-_Marble_Lekythos_with_Seated_and_Standing_Figures_-_Walters_232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Greek_-_Marble_Lekythos_with_Seated_and_Standing_Figures_-_Walters_232.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "216a9bc042ecd9a174dc236715eb1db6fdde08cdf372f3d2dfa964a705e15fe4",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

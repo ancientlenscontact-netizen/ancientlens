@@ -1,0 +1,40 @@
+{
+  "id": "walters-23-2",
+  "title": "Lekythos with Seated and Standing Figures",
+  "accession": "23.2",
+  "date": "4th century BCE (Classical-Hellenistic)",
+  "culture": [
+    "Greek"
+  ],
+  "collection": "Greek",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/23.2/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "a55e84bf548b77834337d0eb8375b987d743439a84b385b7c5ee78a2517da2c6",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Greek_-_Marble_Lekythos_with_Seated_and_Standing_Figures_-_Walters_232.jpg",
+  "image": "/curated/walters-23-2.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Greek_-_Marble_Lekythos_with_Seated_and_Standing_Figures_-_Walters_232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "000c12d15c92da92b3f52e9b3980a2c624d33843715f004e00002aa2b1d68a71",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Museum translation and inscription fields separated; source wording retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-23-2-0",
+      "field": "Museum inscription: published translation",
+      "text": "Ada. Mikon from Sigeion",
+      "source_text": "ΑΔΑ ΜΙΚΩΝ ΕΞ ΣΙΓΕΙΟΥ",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-23-2.json",
+  "record_url": "/curated/walters-23-2.json",
+  "note": "Both figure labels are included: Ada and Mikon with his place-name. Museum identifies no longer inscription. AncientLens scholarly review: unreviewed. Greek funerary vessel; Sigeion is in the personal label, not assumed to be its findspot. Ownership history: Roussos, Athens, [date and mode of acquisition unknown]; Joseph Brummer, Paris and New York,  1924, by purchase [Brummer inv. no. P1502]; Henry Walters, Baltimore, 1925 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

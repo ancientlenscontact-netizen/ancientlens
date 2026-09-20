@@ -1,0 +1,40 @@
+{
+  "id": "walters-47-55",
+  "title": "Cup with Wreaths",
+  "accession": "47.55",
+  "date": "early 1st century (Early Roman Imperial)",
+  "culture": [
+    "Roman"
+  ],
+  "collection": "Roman",
+  "source_language": "Greek",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/47.55/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "cb800548cb0d70a12efbfa9925a2d0648f43573cd190446b1b7495be57f453f9",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Roman_-_Glass_Cup_with_Wreaths_-_Walters_4755_-_Side_A.jpg",
+  "image": "/curated/walters-47-55.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Roman_-_Glass_Cup_with_Wreaths_-_Walters_4755_-_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "8d93d276766fa41d88eabf206e52924f951653c5b65e36f2950ac4e3713826e7",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Museum translation and inscription fields separated; source wording retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-47-55-0",
+      "field": "Museum inscription: published translation",
+      "text": "Take the victory",
+      "source_text": "ΛΑΒΕ ΤΗΝ ΝΕΙΚΗΝ",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-47-55.json",
+  "record_url": "/curated/walters-47-55.json",
+  "note": "Museum supplies the full short victory formula around the glass. Description notes a reversed N in the mold; the published normalized Greek is retained. AncientLens scholarly review: unreviewed. Roman-period glass with Greek inscription; exact findspot not supplied. Ownership history: Dikran Kelekian, Paris and New York, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1925, by purchase; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

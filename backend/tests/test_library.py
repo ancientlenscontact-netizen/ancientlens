@@ -69,7 +69,7 @@ def test_curated_passages_and_moderation_unchanged(clients):
     assert a.get('/api/contributions?passage_id=cma-102365-0').json()[0]['moderation_status']=='pending'
     with connect(path) as db:
         assert db.execute('PRAGMA foreign_key_check').fetchall()==[]
-        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==111
+        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==115
 
 
 def test_maya_licensed_reference_and_private_note_survive_reseed(clients):
@@ -95,6 +95,6 @@ def test_walters_reference_is_not_mesoamerica(clients):
     initialize(path)
     with connect(path) as db:
         rows=db.execute("SELECT * FROM monuments WHERE id LIKE 'walters-%'").fetchall()
-        assert len(rows)==22
+        assert len(rows)==26
         assert all('Walters Art Museum' in str(r) and 'Mesoamerica' not in str(r) for r in rows)
-        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'walters-%' AND review_status='unreviewed'").fetchone()[0]==22
+        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'walters-%' AND review_status='unreviewed'").fetchone()[0]==26
