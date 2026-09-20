@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-35",
+  "title": "Scarab with Wish Formula",
+  "accession": "42.35",
+  "date": "1292-1070 BCE (New Kingdom, Dynasty 19-20)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.35/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "07099fc1d42be9dfca41a2104ee6e72cc2d40004becdf3d9bb7fa37dcab3efce",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4235_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-35.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4235_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "442e4c0980807c280f606f6b127138a7ec071865a3e06e50ad227390f698a692",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-35-0",
+      "field": "Museum inscription: published translation",
+      "text": "May he be beloved by Amun.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-35.json",
+  "record_url": "/curated/walters-42-35.json",
+  "note": "Museum identifies the single horizontally arranged Amun wish formula and provides the complete rendering. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-47",
+  "title": "Scarab with Cartouche of Thutmosis IV (1397-1388 BCE)",
+  "accession": "42.47",
+  "date": "1397-1388 BCE (New Kingdom, Dynasty 18)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.47/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "d0ee17c7d2b95d6de16ba018ee49344eca83a7435f71cbbc4a3b183ecf95fb0e",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Cartouche_of_Thutmosis_IV_(1397-1388_BC)_-_Walters_4247_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-47.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Egyptian_-_Scarab_with_Cartouche_of_Thutmosis_IV_%281397-1388_BC%29_-_Walters_4247_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "b041d71d3b9c03dc618330cb30cff360e068b212dffcca25fdf6a0648906ab05",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-47-0",
+      "field": "Museum inscription: published translation",
+      "text": "Throne name of King Thutmose IV in a cartouche combined with a wish formula: Men-kheperu-Re, / who may live millions of years.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-47.json",
+  "record_url": "/curated/walters-42-47.json",
+  "note": "Museum renders the cartouche name plus the adjoining wish for millions of years. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

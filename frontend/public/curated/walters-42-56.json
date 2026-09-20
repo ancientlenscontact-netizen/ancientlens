@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-56",
+  "title": "Scarab of Neferu-Re",
+  "accession": "42.56",
+  "date": "1479-1458 BCE (New Kingdom, Dynasty 18)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.56/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "6816037be35b950ee93149cc076013fa434d6f154f26a2ee19160b35fb6d9b53",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_of_Neferu-Re_-_Walters_4256_-_Bottom.jpg",
+  "image": "/curated/walters-42-56.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Egyptian_-_Scarab_of_Neferu-Re_-_Walters_4256_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "9bdb96ee92f07eacc2f7336211ebdac9669ce8bb57501f8e9c3ba4cf69925b79",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-56-0",
+      "field": "Museum inscription: published translation",
+      "text": "Name of the crown princess Neferure in a cartouche, combined with the priestess title and a wish formula: Divine consort: / Neferu-Re, / who may live.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-56.json",
+  "record_url": "/curated/walters-42-56.json",
+  "note": "Museum supplies the three-line princess title, name and life formula, matching its stated inscription scope. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

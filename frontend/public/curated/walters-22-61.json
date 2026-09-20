@@ -1,0 +1,40 @@
+{
+  "id": "walters-22-61",
+  "title": "Standing Statuette of Sa-Hathor",
+  "accession": "22.61",
+  "date": "ca. 1780-1720 BCE (Middle Kingdom)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/22.61/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "d4153959399449817c3f4cd4883944ca29010404f1184697d04ca674f30c0e6d",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Statuette_of_Sa-Hathor_-_Walters_2261_-_Back.jpg",
+  "image": "/curated/walters-22-61.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Egyptian_-_Standing_Statuette_of_Sa-Hathor_-_Walters_2261_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "27abc380c027bc2ee7dcdd4b13e9d66257655a6b34cddefee28e1b164c54c265",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-22-61-0",
+      "field": "Museum inscription: published translation",
+      "text": "An offering which the king gives (to) Horus of Behdet (Edfu) for the ka of the senior warden of Nekhen, Sa-Hathor, justified.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-22-61.json",
+  "record_url": "/curated/walters-22-61.json",
+  "note": "Museum identifies the back-pillar offering text, official title and name, all present in its translation. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest. ",
+  "description": ""
+}

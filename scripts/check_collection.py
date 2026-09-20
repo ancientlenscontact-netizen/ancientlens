@@ -3,15 +3,19 @@ import hashlib,json,subprocess,sys
 from pathlib import Path
 root=Path(__file__).resolve().parents[1];out=root/'frontend/public/curated'
 rows=json.loads((out/'collection.json').read_text())
-assert len(rows)==92 and len({r['accession'] for r in rows})==92
-assert len({r['id'] for r in rows})==92
+assert len(rows)==111 and len({r['accession'] for r in rows})==111
+assert len({r['id'] for r in rows})==111
 assert {r['collection'] for r in rows}=={'Egyptian','Greek','Roman','Chinese','Assyrian','Indian','Maya','Mesopotamian'}
-assert sum(len(r['passages']) for r in rows)==100
+assert sum(len(r['passages']) for r in rows)==119
 for r in rows:
  if r['id'].startswith('walters-'):
   source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
   assert hashlib.sha256(source.read_bytes()).hexdigest()==r['metadata_sha256']
-  assert r['text_license']==r['image_license']==d['text_license']==d['image_license']=='CC0'
+  assert r['text_license']==d['text_license']=='CC0'
+  assert r['image_license']==d['image_license'] and r['image_license'] in ('CC0','CC BY-SA 3.0')
+  if r['image_license']=='CC BY-SA 3.0':
+   assert d['image_rights_evidence']['license']=='CC BY-SA 3.0' and 'Walters Art Museum' in r['image_changes']
+   assert d['image_rights_evidence']['source_url']==r['image_rights_url']
   assert r['review']=='unreviewed' and d['accession']==r['accession'] and d['source_url']==r['source_url']
   assert hashlib.sha256((out/f'{r["id"]}.jpg').read_bytes()).hexdigest()==r['image_sha256']
   assert len(r['passages'])==1 and r['passages'][0]['text']==d['text'] and r['passages'][0]['source_text']==d['transcription']
@@ -49,4 +53,4 @@ assert json.loads((root/'backend/app/data/catalog/curated.json').read_text())==r
 before=(out/'collection.json').read_bytes()
 subprocess.run([sys.executable,str(root/'scripts/build_collection.py')],check=True)
 assert before==(out/'collection.json').read_bytes()
-print('PASS: 92 identities, 100 source entries, provenance/rights/image hashes, deterministic rebuild')
+print('PASS: 111 identities, 119 source entries, provenance/rights/image hashes, deterministic rebuild')

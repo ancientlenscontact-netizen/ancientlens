@@ -1,0 +1,40 @@
+{
+  "id": "walters-48-403",
+  "title": "Vase with Names of Amenhotep III and Queen Tiye",
+  "accession": "48.403",
+  "date": "ca. 1370 BCE (New Kingdom, 18th dynasty, reign of Amenhotep III)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/48.403/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "fc84a5aed27d6a856a0fa982e81bb9b6036eb942c9ec0d1319ff2f6271c7abd8",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Vase_with_Names_of_Amenhotep_III_and_Queen_Tiye_-_Walters_48403.jpg",
+  "image": "/curated/walters-48-403.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Egyptian_-_Vase_with_Names_of_Amenhotep_III_and_Queen_Tiye_-_Walters_48403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "0e04857e4bf31ddf888376897d298a12237cb8825ee70675cd46166f91db3aec",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-48-403-0",
+      "field": "Museum inscription: published translation",
+      "text": "Perfect god, Neb-maat-Re, son of Re, Amenhotep-Ruler of Thebes, may he live like Re; Royal wife, Tiye, may she live.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-48-403.json",
+  "record_url": "/curated/walters-48-403.json",
+  "note": "Museum renders both royal names, titles and life wishes on the vase. AncientLens scholarly review: unreviewed. Current museum page identifies Egypt as place of discovery; older Commons metadata says Attica, Greece. Current primary attribution retained; discrepancy unresolved. No precise findspot. Ownership history: Rev. William MacGregor, Tamworth, Staffordshire, by 1922; Sale, Sotheby, Wilkinson & Hodge, London, June 26-29 and July 4-6, 1922, no. 272; Dikran Kelekian, Paris and New York, 1922, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

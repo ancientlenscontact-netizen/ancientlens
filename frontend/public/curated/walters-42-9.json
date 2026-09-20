@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-9",
+  "title": "Scarab with Wish Formula",
+  "accession": "42.9",
+  "date": "ca. 1186-736 BCE (Late New Kingdom-Third Intermediate Period)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.9/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "20a044e1836fc435d384f45970c91910931bb7647a07acfaa51a91afe094513c",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_429_-_Bottom.jpg",
+  "image": "/curated/walters-42-9.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_429_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "58b612780e04e25a45d7dabb8d21626ab42d889a360c079a786159caafd6ae40",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-9-0",
+      "field": "Museum inscription: published translation",
+      "text": "May the recruits of Seth be satisfied.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-9.json",
+  "record_url": "/curated/walters-42-9.json",
+  "note": "Museum describes the underside wish for Seth’s recruits and renders that full formula. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

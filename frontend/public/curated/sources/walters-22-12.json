@@ -1,0 +1,32 @@
+{
+  "id": "walters-22-12",
+  "accession": "22.12",
+  "title": "Statue of Tef-ib",
+  "source_url": "https://art.thewalters.org/object/22.12/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "\"\"The revered before Hepy, the domain-superintendent, Itf-ib, engendered by Itf-ib, the blessed, lord of reverence.\"\"",
+  "original_inscription_field": "[Translation] \"\"The revered before Hepy, the domain-superintendent, Itf-ib, engendered by Itf-ib, the blessed, lord of reverence.\"\"",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest. ",
+  "coverage_evidence": "Museum inscription field supplies the complete personal name, parentage, office and funerary epithet for this individual statue.",
+  "visual_observation": "Full frontal statue; vertical black inscription on white kilt visible with good contrast. Wood damage and paint loss remain.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Egyptian_-_Statue_of_Tef-ib_-_Walters_2212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_Tef-ib_-_Walters_2212.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "2d722ba7fe3879783180a4c272c7f68119937ed763952bbf7f143e2f2a4f565b",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-65",
+  "title": "Scarab with Wish Formula",
+  "accession": "42.65",
+  "date": "664-525 BCE (Early Late Period)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.65/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "576542e202381ae60f0e6c2670995a5f67f8a93eb2b4f0f1d81b88f46147b8fc",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4265_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-65.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4265_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "bf5999053c58204fbdc6cbf091c7ca1edcb94173ec553a22b6e62bc281cac652",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-65-0",
+      "field": "Museum inscription: published translation",
+      "text": "May he be a favorite (in) the temple of Horus.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-65.json",
+  "record_url": "/curated/walters-42-65.json",
+  "note": "Museum renders the underside wish formula. Its description refers both to the royal palace and protection of Horus; no alternative translation invented. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1913 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

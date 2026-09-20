@@ -1,0 +1,32 @@
+{
+  "id": "walters-42-56",
+  "accession": "42.56",
+  "title": "Scarab of Neferu-Re",
+  "source_url": "https://art.thewalters.org/object/42.56/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Name of the crown princess Neferure in a cartouche, combined with the priestess title and a wish formula: Divine consort: / Neferu-Re, / who may live.",
+  "original_inscription_field": "[Translation] Name of the crown princess Neferure in a cartouche, combined with the priestess title and a wish formula: Divine consort: / Neferu-Re, / who may live.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum supplies the three-line princess title, name and life formula, matching its stated inscription scope.",
+  "visual_observation": "Full red carnelian underside photographed; three text zones and central cartouche visible. Glare and surface abrasion reduce contrast.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Egyptian_-_Scarab_of_Neferu-Re_-_Walters_4256_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_of_Neferu-Re_-_Walters_4256_-_Bottom.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "454107f67f4a4045aed5ee89df5dbf1d46414985215bb1703e444b2360c002ce",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

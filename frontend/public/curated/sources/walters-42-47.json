@@ -1,0 +1,32 @@
+{
+  "id": "walters-42-47",
+  "accession": "42.47",
+  "title": "Scarab with Cartouche of Thutmosis IV (1397-1388 BCE)",
+  "source_url": "https://art.thewalters.org/object/42.47/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Throne name of King Thutmose IV in a cartouche combined with a wish formula: Men-kheperu-Re, / who may live millions of years.",
+  "original_inscription_field": "[Translation] Throne name of King Thutmose IV in a cartouche combined with a wish formula: Men-kheperu-Re, / who may live millions of years.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum renders the cartouche name plus the adjoining wish for millions of years.",
+  "visual_observation": "Full underside photograph shows upper cartouche and lower signs. Glaze loss and pale deposits obscure some strokes; incised grooves darkly shaded.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Egyptian_-_Scarab_with_Cartouche_of_Thutmosis_IV_%281397-1388_BC%29_-_Walters_4247_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Cartouche_of_Thutmosis_IV_(1397-1388_BC)_-_Walters_4247_-_Bottom_(2).jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "54c2859cac0d06fb37e26ee3798bbbccc5bcbc8d2b8278e01b1e5f06b8980c7b",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

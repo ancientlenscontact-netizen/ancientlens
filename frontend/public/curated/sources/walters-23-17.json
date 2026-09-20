@@ -1,0 +1,23 @@
+{
+  "id": "walters-23-17",
+  "accession": "23.17",
+  "title": "Votive Altar to Mithras",
+  "source_url": "https://art.thewalters.org/object/23.17/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Official Walters art.csv inscription metadata checked against current rendered museum page; direct museum JPEG. Longer description excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "“To the Unconquerable Sun, Mithras, for the health of our lord Commodus Antoninus Augustus, Marcus Aurelius Stertinius Carpus, together with his father Carpus the procurator castrensis, and his brothers Hermioneus and Balbinus, happily fulfilled the vow.”",
+  "original_inscription_field": "[Inscription, Latin] SOLI INVICTO / MITHRAE / PRO SALVTE COMMOD / ANTONINI. AVG. DOMIN N / M. AVREL. STERTINIVS / CARPVS. VNA. CVM CARPO / PROC. K. PATRE. ET. HER/MIONEO ET BALBINO FRATRIBVS / -V S F- / 7 [CIL VI 727]; [Transliteration] Soli Invicto / Mithrae / pro salute Commodi / Antonini Aug(usti) domini n(ostri) / M(arcus) Aurel(ius) Stertinius / Carpus una cum Carpo / proc(uratore) k(astrensi) patre et Her/mioneo et Balbino / fratribus / v(otum) s(olvit) f(eliciter); [Translation] “To the Unconquerable Sun, Mithras, for the health of our lord Commodus Antoninus Augustus, Marcus Aurelius Stertinius Carpus, together with his father Carpus the procurator castrensis, and his brothers Hermioneus and Balbinus, happily fulfilled the vow.”",
+  "alternative_translation": "",
+  "transcription": "SOLI INVICTO / MITHRAE / PRO SALVTE COMMOD / ANTONINI. AVG. DOMIN N / M. AVREL. STERTINIVS / CARPVS. VNA. CVM CARPO / PROC. K. PATRE. ET. HER/MIONEO ET BALBINO FRATRIBVS / -V S F- / 7 [CIL VI 727]",
+  "geography": "Italy, Roman Empire, Rome (Place of Discovery). First reported near the Ponte Rotto, not an excavated exact findspot.",
+  "provenance": "First reported by Stephanus Pighius (1520-1604) as on the banks of the Tiber River near the Ponte Rotto, Rome. Cardinal Gaspare Carpegna, Rome, by 1699. Don Marcello Massarenti, Rome, by 1894, [mode of acquisition unknown] [marble no. 53]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum supplies the full altar dedication from the invocation to Mithras through the final vow formula; no missing-word excerpt. Catalogue transcription also records a separate numeral-like mark below the final line without interpreting it.",
+  "visual_observation": "Full frontal black-and-white photograph. All dedication lines and bottom mark visible; mottled marble and abrasions reduce contrast, with small chips on edges. No independent epigraphic review.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "rights_scope": "Museum images and inscription metadata CC0; longer GFDL descriptions excluded.",
+  "image_url": "https://art.thewalters.org/images/art/PL7_23.17_Fnt_BW.jpg"
+}

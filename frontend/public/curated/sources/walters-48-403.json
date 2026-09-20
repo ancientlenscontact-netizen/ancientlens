@@ -1,0 +1,32 @@
+{
+  "id": "walters-48-403",
+  "accession": "48.403",
+  "title": "Vase with Names of Amenhotep III and Queen Tiye",
+  "source_url": "https://art.thewalters.org/object/48.403/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Perfect god, Neb-maat-Re, son of Re, Amenhotep-Ruler of Thebes, may he live like Re; Royal wife, Tiye, may she live.",
+  "original_inscription_field": "[Translation] Perfect god, Neb-maat-Re, son of Re, Amenhotep-Ruler of Thebes, may he live like Re; Royal wife, Tiye, may she live.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Current museum page identifies Egypt as place of discovery; older Commons metadata says Attica, Greece. Current primary attribution retained; discrepancy unresolved. No precise findspot.",
+  "provenance": "Rev. William MacGregor, Tamworth, Staffordshire, by 1922; Sale, Sotheby, Wilkinson & Hodge, London, June 26-29 and July 4-6, 1922, no. 272; Dikran Kelekian, Paris and New York, 1922, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum renders both royal names, titles and life wishes on the vase.",
+  "visual_observation": "Full blue faience vase shown; rectangular panel with three cartouches visible. Pale text on blue glaze, glare and chipped glaze; one viewpoint.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Egyptian_-_Vase_with_Names_of_Amenhotep_III_and_Queen_Tiye_-_Walters_48403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Vase_with_Names_of_Amenhotep_III_and_Queen_Tiye_-_Walters_48403.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "2fb7955409729fdf435f045996f93727b85ab4891c5c692b58d36d5e041fa0e2",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

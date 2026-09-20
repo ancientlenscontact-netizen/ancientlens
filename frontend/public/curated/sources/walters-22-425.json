@@ -1,0 +1,32 @@
+{
+  "id": "walters-22-425",
+  "accession": "22.425",
+  "title": "Statue Group of Nen-kheft-ka and His Wife, Nefer-shemes",
+  "source_url": "https://art.thewalters.org/object/22.425/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Inscribed near feet: Royal acquaintance, Nen-kheft-ka; Inscribed near feet: Royal acquaintance, Nefer-shemes",
+  "original_inscription_field": "[Translation] Inscribed near feet:  Royal acquaintance, Nen-kheft-ka; [Translation] Inscribed near feet: Royal acquaintance, Nefer-shemes",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Museum identifies a rock-cut tomb at Deshasheh, Egypt; no precise coordinates inferred.",
+  "provenance": "[Excavated by Sir Flinders Petrie, Deshasheh, Egypt, 1897]; Museum of Fine Arts, Boston, October 1897, by gift [of the Egypt Exploration Fund, no. 97.1092]; Walters Art Museum, 1973, by exchange.",
+  "coverage_evidence": "Both separately labelled names and titles near the figures’ feet are included; the pair remains one accession/artifact.",
+  "visual_observation": "Full frontal photograph of the two figures on shared base. Inscriptions near feet are foreshortened and too small for reading; object illustration only. Paint loss, pitting and base repairs visible.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Egyptian_-_Statue_Group_of_Nen-kheft-ka_and_His_Wife%2C_Nefer-shemes_-_Walters_22425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_Group_of_Nen-kheft-ka_and_His_Wife,_Nefer-shemes_-_Walters_22425.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "0c026dc0e0766fa6e539c71ab92166093c358036bc9b9fa354735ae36afb7a7e",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

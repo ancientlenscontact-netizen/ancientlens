@@ -1,0 +1,32 @@
+{
+  "id": "walters-42-13",
+  "accession": "42.13",
+  "title": "Scarab with the Name of Queen Tiye",
+  "source_url": "https://art.thewalters.org/object/42.13/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Name and title of the royal consort Tiye, wife of King Amenhotep III, without a cartouche: The royal wife Tiye.",
+  "original_inscription_field": "[Translation] Name and title of the royal consort Tiye, wife of King Amenhotep III, without a cartouche: The royal wife Tiye.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum identifies the underside name and royal-wife title and supplies both, without a cartouche.",
+  "visual_observation": "Full beige underside with incised signs; wear, red residue and fine cracks, tightly cropped.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Egyptian_-_Scarab_with_the_Name_of_Queen_Tiye_-_Walters_4213_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_the_Name_of_Queen_Tiye_-_Walters_4213_-_Bottom.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "6ecd73f0e09d8097bdcc52b14f2acb334360a93a8cc754efaf0f3b1ea9454662",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

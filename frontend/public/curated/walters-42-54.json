@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-54",
+  "title": "Scarab with Personal Wish Formula",
+  "accession": "42.54",
+  "date": "664-405 BCE (Late Period)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.54/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "d0e3f7c64506581bf59cf808e52995d1c1d73da62313cab9be7186cd74813596",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4254_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-54.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4254_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "56e67a0eed73084582e8ee2248b0241dba39c1c5d8930719fb76f609f324f33a",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-54-0",
+      "field": "Museum inscription: published translation",
+      "text": "May I be a favorite of Bastet.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-54.json",
+  "record_url": "/curated/walters-42-54.json",
+  "note": "Museum identifies one vertically arranged personal wish formula and provides the complete sentence. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "walters-22-425",
+  "title": "Statue Group of Nen-kheft-ka and His Wife, Nefer-shemes",
+  "accession": "22.425",
+  "date": "ca. 2350 BCE (Old Kingdom, late 5th dynasty)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/22.425/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "2802a7db1d8d38d7ffac315ee190809a77e642b420471ed31c47bfed9095784a",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_Group_of_Nen-kheft-ka_and_His_Wife,_Nefer-shemes_-_Walters_22425.jpg",
+  "image": "/curated/walters-22-425.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Egyptian_-_Statue_Group_of_Nen-kheft-ka_and_His_Wife%2C_Nefer-shemes_-_Walters_22425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "232da7e96433ff084946fd325f3c3f57da792a1f317878698ab6311625d10b17",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-22-425-0",
+      "field": "Museum inscription: published translation",
+      "text": "Inscribed near feet: Royal acquaintance, Nen-kheft-ka; Inscribed near feet: Royal acquaintance, Nefer-shemes",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-22-425.json",
+  "record_url": "/curated/walters-22-425.json",
+  "note": "Both separately labelled names and titles near the figures’ feet are included; the pair remains one accession/artifact. AncientLens scholarly review: unreviewed. Museum identifies a rock-cut tomb at Deshasheh, Egypt; no precise coordinates inferred. Ownership history: [Excavated by Sir Flinders Petrie, Deshasheh, Egypt, 1897]; Museum of Fine Arts, Boston, October 1897, by gift [of the Egypt Exploration Fund, no. 97.1092]; Walters Art Museum, 1973, by exchange.",
+  "description": ""
+}

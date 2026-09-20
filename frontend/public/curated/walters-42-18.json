@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-18",
+  "title": "Scarab with Name of Sa-nebet-Junet",
+  "accession": "42.18",
+  "date": "1794-1648 BCE (Late Middle Kingdom, Dynasty 13)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.18/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "01e2850d7304180b3a1e8dfdc48248a4f0b31c16208a0f351602c5e440f3071a",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Name_of_Sa-nebet-Junet_-_Walters_4218_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-18.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Egyptian_-_Scarab_with_Name_of_Sa-nebet-Junet_-_Walters_4218_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "31973889b6ba5b7af149837d78ca672f460a93831b37d94fb0dac6b357d29bb0",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-18-0",
+      "field": "Museum inscription: published translation",
+      "text": "The great Wab-priest of Khons: Sa-nebet-Junet.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-18.json",
+  "record_url": "/curated/walters-42-18.json",
+  "note": "Museum identifies the private name and priestly status, both supplied in its complete short translation. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

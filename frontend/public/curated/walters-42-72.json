@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-72",
+  "title": "Scarab of Thutmose IV",
+  "accession": "42.72",
+  "date": "1397-1388 BCE (New Kingdom, Dynasty 18)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.72/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "aab0ad4cf047f0ebae00daa78d360055ac50e5d50162f9d7c28f88ad5b1183ed",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_of_Thutmose_IV_-_Walters_4272_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-72.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Egyptian_-_Scarab_of_Thutmose_IV_-_Walters_4272_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "a94b7aa0bb7562b8f171e22ee01ff31ea6fe32a23f2ec47ed1f89be2175fe4f7",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-72-0",
+      "field": "Museum inscription: published translation",
+      "text": "Throne name of King Thutmose IV in a cartouche combined with a wish formula: Men-kheperu-Re, / (whose) monuments are everlasting.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-72.json",
+  "record_url": "/curated/walters-42-72.json",
+  "note": "Museum renders the throne name and accompanying everlasting-monuments formula together. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

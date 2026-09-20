@@ -1,0 +1,32 @@
+{
+  "id": "walters-42-62",
+  "accession": "42.62",
+  "title": "Scarab with Personal Wish Formula",
+  "source_url": "https://art.thewalters.org/object/42.62/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "May the favorite of Horus-son-of-Isis be well and safe.",
+  "original_inscription_field": "[Translation] May the favorite of Horus-son-of-Isis be well and safe.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum identifies a single personal protection formula and supplies its full rendering.",
+  "visual_observation": "Full greenish underside photographed. Broad shallow signs and figure are faint; strong surface wear, soft image and dark purple shadows make fine detail unclear.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4262_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4262_-_Bottom_(2).jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "175a612c7fe3777e1efc9dd11a4107ee0f7a2a965af579c9f33ee15256c95fa1",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

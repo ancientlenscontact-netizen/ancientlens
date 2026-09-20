@@ -1,0 +1,32 @@
+{
+  "id": "walters-22-61",
+  "accession": "22.61",
+  "title": "Standing Statuette of Sa-Hathor",
+  "source_url": "https://art.thewalters.org/object/22.61/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "An offering which the king gives (to) Horus of Behdet (Edfu) for the ka of the senior warden of Nekhen, Sa-Hathor, justified.",
+  "original_inscription_field": "[Translation] An offering which the king gives (to) Horus of Behdet (Edfu) for the ka of the senior warden of Nekhen, Sa-Hathor, justified.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest. ",
+  "coverage_evidence": "Museum identifies the back-pillar offering text, official title and name, all present in its translation.",
+  "visual_observation": "Rear photograph of full statue, long vertical back-pillar inscription visible. Dark low-contrast stone and abrasion affect the grooves.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Egyptian_-_Standing_Statuette_of_Sa-Hathor_-_Walters_2261_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Statuette_of_Sa-Hathor_-_Walters_2261_-_Back.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "5676f36e21e1ecd2e93748dd0cb5d91cdc55e61ec527de84407a8a5b7fd235cc",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

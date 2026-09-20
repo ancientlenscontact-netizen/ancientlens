@@ -1,0 +1,40 @@
+{
+  "id": "walters-22-24",
+  "title": "Imti Standing",
+  "accession": "22.24",
+  "date": "ca. 1900-1800 BCE (Middle Kingdom)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/22.24/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "254fe6644aa2ec7e210d2b209065c3d2f6a9ffee9689407f9cc66d467e5878ed",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Imti_Standing_-_Walters_2224.jpg",
+  "image": "/curated/walters-22-24.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Egyptian_-_Imti_Standing_-_Walters_2224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "383d5ca4f2c9cfd17c3229b5ba456dcde66d1152bfe760267f003c32f2ade358",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-22-24-0",
+      "field": "Museum inscription: published translation",
+      "text": "Revered before Osiris, Imti, the blessed.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-22-24.json",
+  "record_url": "/curated/walters-22-24.json",
+  "note": "Museum identifies the base inscription as Imti’s name and supplies the full funerary epithet and name. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1917, by purchase; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

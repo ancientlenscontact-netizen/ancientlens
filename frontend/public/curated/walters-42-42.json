@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-42",
+  "title": "Scarab with Private Name Seal",
+  "accession": "42.42",
+  "date": "ca. 1648-1539 BCE (Second Intermediate Period; Hyksos)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.42/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "e81847a66999a2fff3c570f79d3b5abec14536b44c4f5f0f24fbb0a1122348a1",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Private_Name_Seal_-_Walters_4242_-_Bottom_(2).jpg",
+  "image": "/curated/walters-42-42.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Egyptian_-_Scarab_with_Private_Name_Seal_-_Walters_4242_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "72be8769a0f02dd9bb75bca2306f4b5ee4020983eb66b31cc36a1f399c7716c4",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-42-0",
+      "field": "Museum inscription: published translation",
+      "text": "Mistress of the house: Iy-jb.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-42.json",
+  "record_url": "/curated/walters-42-42.json",
+  "note": "Museum inscription field supplies the private name and household title together. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "walters-22-23",
+  "title": "Sesostris Standing",
+  "accession": "22.23",
+  "date": "ca. 1550 BCE (New Kingdom)",
+  "culture": [
+    "Egypt"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/22.23/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "c96451ec4a8d13a0d5a76d356e2f7b3b7f921f192d6b8156eeb0446c7502d1c9",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Sesostris_Standing_-_Walters_2223.jpg",
+  "image": "/curated/walters-22-23.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Egyptian_-_Sesostris_Standing_-_Walters_2223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "297d58566b38f32c10d1da0083e7320e5b7c25a3c16d4909d6be4ead2afd3d49",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-22-23-0",
+      "field": "Museum inscription: published translation",
+      "text": "On base: The king may guarantee offerings [to the god] Osiris [that he may give] mortuary offerings of bread, beer, oxen, fowl, and incense to Sesostris.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-22-23.json",
+  "record_url": "/curated/walters-22-23.json",
+  "note": "Museum repeats the same complete base offering formula in both inscription field and description; bracketed supplements retained. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [said to be from Luxor]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

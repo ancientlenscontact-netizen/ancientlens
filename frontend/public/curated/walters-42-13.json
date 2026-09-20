@@ -1,0 +1,40 @@
+{
+  "id": "walters-42-13",
+  "title": "Scarab with the Name of Queen Tiye",
+  "accession": "42.13",
+  "date": "1388-1351 BCE (New Kingdom, Dynasty 18)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/42.13/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "8aeadd255ce7290b656b550115f129edcbdd9373984a61377985fb74f6e01399",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_the_Name_of_Queen_Tiye_-_Walters_4213_-_Bottom.jpg",
+  "image": "/curated/walters-42-13.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Egyptian_-_Scarab_with_the_Name_of_Queen_Tiye_-_Walters_4213_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "54dcc79b78ee8f8aefa191036ab0308c404c2d212cb7a8ccede6b50bf72e4ae3",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-42-13-0",
+      "field": "Museum inscription: published translation",
+      "text": "Name and title of the royal consort Tiye, wife of King Amenhotep III, without a cartouche: The royal wife Tiye.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-42-13.json",
+  "record_url": "/curated/walters-42-13.json",
+  "note": "Museum identifies the underside name and royal-wife title and supplies both, without a cartouche. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

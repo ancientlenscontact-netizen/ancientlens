@@ -1,0 +1,40 @@
+{
+  "id": "walters-48-1382",
+  "title": "Jar",
+  "accession": "48.1382",
+  "date": "ca. 1390-1292 BCE (New Kingdom)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/48.1382/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "540dbbd9ce3820a121b27a59efb4388564d4e0222e8cc24443fa166c1c13503a",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Jar_-_Walters_481382.jpg",
+  "image": "/curated/walters-48-1382.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Egyptian_-_Jar_-_Walters_481382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "b42eed63435480f7220c80cd574d145134feb15f4d00c1949a34a698ad98b98e",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-48-1382-0",
+      "field": "Museum inscription: published translation",
+      "text": "One revered by Anubis, who is in the place of embalming, Osiris, the scribe Amenhotep.",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-48-1382.json",
+  "record_url": "/curated/walters-48-1382.json",
+  "note": "Museum supplies the jar’s funerary identification with Anubis, Osiris and the scribe Amenhotep; no excerpt marker. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, Paris and New York, [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

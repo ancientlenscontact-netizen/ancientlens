@@ -3733,5 +3733,765 @@ export const collection = [
     "record_url": "/curated/walters-41-222.json",
     "note": "The museum explicitly describes an inscription on two faces and publishes labelled obverse and reverse translations, including the final blessing. Both are reproduced together without omission. AncientLens scholarly review: unreviewed. Mesopotamia (Place of Origin); exact findspot not supplied. Ownership history: Henry Walters, Baltimore, [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Joseph Brummer, Paris and New York, 1941, by purchase [Brummer inv. no. N5019]; Walters Art Museum, 1941, by purchase.",
     "description": ""
+  },
+  {
+    "id": "walters-23-17",
+    "title": "Votive Altar to Mithras",
+    "accession": "23.17",
+    "date": "176-192 CE (Roman Imperial)",
+    "culture": [
+      "Roman"
+    ],
+    "collection": "Roman",
+    "source_language": "Latin",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/23.17/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "86afa970e29ed8ff3ba729e77140d898e4735258eaf2dd32ef375205626b98bd",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image": "/curated/walters-23-17.jpg",
+    "image_url": "https://art.thewalters.org/images/art/PL7_23.17_Fnt_BW.jpg",
+    "image_sha256": "70dec7ca9e5c414e324d8972ee01f49e5bc6cd7c03eb020971d64aaa219fdc76",
+    "image_changes": "None; museum JPEG reproduced unchanged. The Walters Art Museum, CC0.",
+    "text_changes": "Museum translation and inscription separated into their labelled fields; wording retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-23-17-0",
+        "field": "Inscription: Translation",
+        "text": "“To the Unconquerable Sun, Mithras, for the health of our lord Commodus Antoninus Augustus, Marcus Aurelius Stertinius Carpus, together with his father Carpus the procurator castrensis, and his brothers Hermioneus and Balbinus, happily fulfilled the vow.”",
+        "source_text": "SOLI INVICTO / MITHRAE / PRO SALVTE COMMOD / ANTONINI. AVG. DOMIN N / M. AVREL. STERTINIVS / CARPVS. VNA. CVM CARPO / PROC. K. PATRE. ET. HER/MIONEO ET BALBINO FRATRIBVS / -V S F- / 7 [CIL VI 727]",
+        "remark": "Museum expanded Latin: Soli Invicto / Mithrae / pro salute Commodi / Antonini Aug(usti) domini n(ostri) / M(arcus) Aurel(ius) Stertinius / Carpus una cum Carpo / proc(uratore) k(astrensi) patre et Her/mioneo et Balbino / fratribus / v(otum) s(olvit) f(eliciter)"
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-23-17.json",
+    "record_url": "/curated/walters-23-17.json",
+    "note": "Museum supplies the full altar dedication from the invocation to Mithras through the final vow formula; no missing-word excerpt. Catalogue transcription also records a separate numeral-like mark below the final line without interpreting it. AncientLens scholarly review: unreviewed. Italy, Roman Empire, Rome (Place of Discovery). First reported near the Ponte Rotto, not an excavated exact findspot. Ownership history: First reported by Stephanus Pighius (1520-1604) as on the banks of the Tiber River near the Ponte Rotto, Rome. Cardinal Gaspare Carpegna, Rome, by 1699. Don Marcello Massarenti, Rome, by 1894, [mode of acquisition unknown] [marble no. 53]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-48-403",
+    "title": "Vase with Names of Amenhotep III and Queen Tiye",
+    "accession": "48.403",
+    "date": "ca. 1370 BCE (New Kingdom, 18th dynasty, reign of Amenhotep III)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/48.403/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "fc84a5aed27d6a856a0fa982e81bb9b6036eb942c9ec0d1319ff2f6271c7abd8",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Vase_with_Names_of_Amenhotep_III_and_Queen_Tiye_-_Walters_48403.jpg",
+    "image": "/curated/walters-48-403.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Egyptian_-_Vase_with_Names_of_Amenhotep_III_and_Queen_Tiye_-_Walters_48403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "0e04857e4bf31ddf888376897d298a12237cb8825ee70675cd46166f91db3aec",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-48-403-0",
+        "field": "Museum inscription: published translation",
+        "text": "Perfect god, Neb-maat-Re, son of Re, Amenhotep-Ruler of Thebes, may he live like Re; Royal wife, Tiye, may she live.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-48-403.json",
+    "record_url": "/curated/walters-48-403.json",
+    "note": "Museum renders both royal names, titles and life wishes on the vase. AncientLens scholarly review: unreviewed. Current museum page identifies Egypt as place of discovery; older Commons metadata says Attica, Greece. Current primary attribution retained; discrepancy unresolved. No precise findspot. Ownership history: Rev. William MacGregor, Tamworth, Staffordshire, by 1922; Sale, Sotheby, Wilkinson & Hodge, London, June 26-29 and July 4-6, 1922, no. 272; Dikran Kelekian, Paris and New York, 1922, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-54",
+    "title": "Scarab with Personal Wish Formula",
+    "accession": "42.54",
+    "date": "664-405 BCE (Late Period)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.54/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "d0e3f7c64506581bf59cf808e52995d1c1d73da62313cab9be7186cd74813596",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4254_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-54.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4254_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "56e67a0eed73084582e8ee2248b0241dba39c1c5d8930719fb76f609f324f33a",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-54-0",
+        "field": "Museum inscription: published translation",
+        "text": "May I be a favorite of Bastet.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-54.json",
+    "record_url": "/curated/walters-42-54.json",
+    "note": "Museum identifies one vertically arranged personal wish formula and provides the complete sentence. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-56",
+    "title": "Scarab of Neferu-Re",
+    "accession": "42.56",
+    "date": "1479-1458 BCE (New Kingdom, Dynasty 18)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.56/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "6816037be35b950ee93149cc076013fa434d6f154f26a2ee19160b35fb6d9b53",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_of_Neferu-Re_-_Walters_4256_-_Bottom.jpg",
+    "image": "/curated/walters-42-56.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Egyptian_-_Scarab_of_Neferu-Re_-_Walters_4256_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "9bdb96ee92f07eacc2f7336211ebdac9669ce8bb57501f8e9c3ba4cf69925b79",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-56-0",
+        "field": "Museum inscription: published translation",
+        "text": "Name of the crown princess Neferure in a cartouche, combined with the priestess title and a wish formula: Divine consort: / Neferu-Re, / who may live.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-56.json",
+    "record_url": "/curated/walters-42-56.json",
+    "note": "Museum supplies the three-line princess title, name and life formula, matching its stated inscription scope. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-42",
+    "title": "Scarab with Private Name Seal",
+    "accession": "42.42",
+    "date": "ca. 1648-1539 BCE (Second Intermediate Period; Hyksos)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.42/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "e81847a66999a2fff3c570f79d3b5abec14536b44c4f5f0f24fbb0a1122348a1",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Private_Name_Seal_-_Walters_4242_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-42.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Egyptian_-_Scarab_with_Private_Name_Seal_-_Walters_4242_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "72be8769a0f02dd9bb75bca2306f4b5ee4020983eb66b31cc36a1f399c7716c4",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-42-0",
+        "field": "Museum inscription: published translation",
+        "text": "Mistress of the house: Iy-jb.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-42.json",
+    "record_url": "/curated/walters-42-42.json",
+    "note": "Museum inscription field supplies the private name and household title together. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-22-24",
+    "title": "Imti Standing",
+    "accession": "22.24",
+    "date": "ca. 1900-1800 BCE (Middle Kingdom)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/22.24/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "254fe6644aa2ec7e210d2b209065c3d2f6a9ffee9689407f9cc66d467e5878ed",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Imti_Standing_-_Walters_2224.jpg",
+    "image": "/curated/walters-22-24.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Egyptian_-_Imti_Standing_-_Walters_2224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "383d5ca4f2c9cfd17c3229b5ba456dcde66d1152bfe760267f003c32f2ade358",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-22-24-0",
+        "field": "Museum inscription: published translation",
+        "text": "Revered before Osiris, Imti, the blessed.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-22-24.json",
+    "record_url": "/curated/walters-22-24.json",
+    "note": "Museum identifies the base inscription as Imti’s name and supplies the full funerary epithet and name. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1917, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-22-23",
+    "title": "Sesostris Standing",
+    "accession": "22.23",
+    "date": "ca. 1550 BCE (New Kingdom)",
+    "culture": [
+      "Egypt"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/22.23/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "c96451ec4a8d13a0d5a76d356e2f7b3b7f921f192d6b8156eeb0446c7502d1c9",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Sesostris_Standing_-_Walters_2223.jpg",
+    "image": "/curated/walters-22-23.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Egyptian_-_Sesostris_Standing_-_Walters_2223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "297d58566b38f32c10d1da0083e7320e5b7c25a3c16d4909d6be4ead2afd3d49",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-22-23-0",
+        "field": "Museum inscription: published translation",
+        "text": "On base: The king may guarantee offerings [to the god] Osiris [that he may give] mortuary offerings of bread, beer, oxen, fowl, and incense to Sesostris.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-22-23.json",
+    "record_url": "/curated/walters-22-23.json",
+    "note": "Museum repeats the same complete base offering formula in both inscription field and description; bracketed supplements retained. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris [date and mode of acquisition unknown] [said to be from Luxor]; Henry Walters, Baltimore, 1912, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-13",
+    "title": "Scarab with the Name of Queen Tiye",
+    "accession": "42.13",
+    "date": "1388-1351 BCE (New Kingdom, Dynasty 18)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.13/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "8aeadd255ce7290b656b550115f129edcbdd9373984a61377985fb74f6e01399",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_the_Name_of_Queen_Tiye_-_Walters_4213_-_Bottom.jpg",
+    "image": "/curated/walters-42-13.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Egyptian_-_Scarab_with_the_Name_of_Queen_Tiye_-_Walters_4213_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "54dcc79b78ee8f8aefa191036ab0308c404c2d212cb7a8ccede6b50bf72e4ae3",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-13-0",
+        "field": "Museum inscription: published translation",
+        "text": "Name and title of the royal consort Tiye, wife of King Amenhotep III, without a cartouche: The royal wife Tiye.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-13.json",
+    "record_url": "/curated/walters-42-13.json",
+    "note": "Museum identifies the underside name and royal-wife title and supplies both, without a cartouche. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-22-12",
+    "title": "Statue of Tef-ib",
+    "accession": "22.12",
+    "date": "ca. 1980 BCE (Middle Kingdom, early 12th dynasty)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/22.12/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "ca52283d32bfcfc4fb3b805214b58bdeb48b98ddf69c6508dbf1a5ec8f478c67",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_Tef-ib_-_Walters_2212.jpg",
+    "image": "/curated/walters-22-12.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Egyptian_-_Statue_of_Tef-ib_-_Walters_2212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "942104dd538ec43d0b600fb785231c0e4e34e300612aa1beb54f93c62b20abc7",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-22-12-0",
+        "field": "Museum inscription: published translation",
+        "text": "\"\"The revered before Hepy, the domain-superintendent, Itf-ib, engendered by Itf-ib, the blessed, lord of reverence.\"\"",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-22-12.json",
+    "record_url": "/curated/walters-22-12.json",
+    "note": "Museum inscription field supplies the complete personal name, parentage, office and funerary epithet for this individual statue. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest. ",
+    "description": ""
+  },
+  {
+    "id": "walters-48-1382",
+    "title": "Jar",
+    "accession": "48.1382",
+    "date": "ca. 1390-1292 BCE (New Kingdom)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/48.1382/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "540dbbd9ce3820a121b27a59efb4388564d4e0222e8cc24443fa166c1c13503a",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Jar_-_Walters_481382.jpg",
+    "image": "/curated/walters-48-1382.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Egyptian_-_Jar_-_Walters_481382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "b42eed63435480f7220c80cd574d145134feb15f4d00c1949a34a698ad98b98e",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-48-1382-0",
+        "field": "Museum inscription: published translation",
+        "text": "One revered by Anubis, who is in the place of embalming, Osiris, the scribe Amenhotep.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-48-1382.json",
+    "record_url": "/curated/walters-48-1382.json",
+    "note": "Museum supplies the jar’s funerary identification with Anubis, Osiris and the scribe Amenhotep; no excerpt marker. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, Paris and New York, [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown], by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-22-61",
+    "title": "Standing Statuette of Sa-Hathor",
+    "accession": "22.61",
+    "date": "ca. 1780-1720 BCE (Middle Kingdom)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/22.61/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "d4153959399449817c3f4cd4883944ca29010404f1184697d04ca674f30c0e6d",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Statuette_of_Sa-Hathor_-_Walters_2261_-_Back.jpg",
+    "image": "/curated/walters-22-61.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Egyptian_-_Standing_Statuette_of_Sa-Hathor_-_Walters_2261_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "27abc380c027bc2ee7dcdd4b13e9d66257655a6b34cddefee28e1b164c54c265",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-22-61-0",
+        "field": "Museum inscription: published translation",
+        "text": "An offering which the king gives (to) Horus of Behdet (Edfu) for the ka of the senior warden of Nekhen, Sa-Hathor, justified.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-22-61.json",
+    "record_url": "/curated/walters-22-61.json",
+    "note": "Museum identifies the back-pillar offering text, official title and name, all present in its translation. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, [date of acquisition unknown] by purchase; Walters Art Museum, 1931, by bequest. ",
+    "description": ""
+  },
+  {
+    "id": "walters-42-18",
+    "title": "Scarab with Name of Sa-nebet-Junet",
+    "accession": "42.18",
+    "date": "1794-1648 BCE (Late Middle Kingdom, Dynasty 13)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.18/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "01e2850d7304180b3a1e8dfdc48248a4f0b31c16208a0f351602c5e440f3071a",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Name_of_Sa-nebet-Junet_-_Walters_4218_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-18.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Egyptian_-_Scarab_with_Name_of_Sa-nebet-Junet_-_Walters_4218_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "31973889b6ba5b7af149837d78ca672f460a93831b37d94fb0dac6b357d29bb0",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-18-0",
+        "field": "Museum inscription: published translation",
+        "text": "The great Wab-priest of Khons: Sa-nebet-Junet.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-18.json",
+    "record_url": "/curated/walters-42-18.json",
+    "note": "Museum identifies the private name and priestly status, both supplied in its complete short translation. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-9",
+    "title": "Scarab with Wish Formula",
+    "accession": "42.9",
+    "date": "ca. 1186-736 BCE (Late New Kingdom-Third Intermediate Period)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.9/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "20a044e1836fc435d384f45970c91910931bb7647a07acfaa51a91afe094513c",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_429_-_Bottom.jpg",
+    "image": "/curated/walters-42-9.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_429_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "58b612780e04e25a45d7dabb8d21626ab42d889a360c079a786159caafd6ae40",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-9-0",
+        "field": "Museum inscription: published translation",
+        "text": "May the recruits of Seth be satisfied.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-9.json",
+    "record_url": "/curated/walters-42-9.json",
+    "note": "Museum describes the underside wish for Seth’s recruits and renders that full formula. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-47",
+    "title": "Scarab with Cartouche of Thutmosis IV (1397-1388 BCE)",
+    "accession": "42.47",
+    "date": "1397-1388 BCE (New Kingdom, Dynasty 18)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.47/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "d0ee17c7d2b95d6de16ba018ee49344eca83a7435f71cbbc4a3b183ecf95fb0e",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Cartouche_of_Thutmosis_IV_(1397-1388_BC)_-_Walters_4247_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-47.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Egyptian_-_Scarab_with_Cartouche_of_Thutmosis_IV_%281397-1388_BC%29_-_Walters_4247_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "b041d71d3b9c03dc618330cb30cff360e068b212dffcca25fdf6a0648906ab05",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-47-0",
+        "field": "Museum inscription: published translation",
+        "text": "Throne name of King Thutmose IV in a cartouche combined with a wish formula: Men-kheperu-Re, / who may live millions of years.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-47.json",
+    "record_url": "/curated/walters-42-47.json",
+    "note": "Museum renders the cartouche name plus the adjoining wish for millions of years. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-62",
+    "title": "Scarab with Personal Wish Formula",
+    "accession": "42.62",
+    "date": "664-525 BCE (Early Late Period)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.62/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "f1bfe52e00bd842181fae12654e5e5a7c2f33885b3cd9cc7f755c7fca31b044f",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4262_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-62.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Egyptian_-_Scarab_with_Personal_Wish_Formula_-_Walters_4262_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "6c2d76534e8dd79f645d40f1ebbf6eccd206221a3ab3e094b3b0d2040282e94d",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-62-0",
+        "field": "Museum inscription: published translation",
+        "text": "May the favorite of Horus-son-of-Isis be well and safe.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-62.json",
+    "record_url": "/curated/walters-42-62.json",
+    "note": "Museum identifies a single personal protection formula and supplies its full rendering. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1929 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-22-425",
+    "title": "Statue Group of Nen-kheft-ka and His Wife, Nefer-shemes",
+    "accession": "22.425",
+    "date": "ca. 2350 BCE (Old Kingdom, late 5th dynasty)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/22.425/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "2802a7db1d8d38d7ffac315ee190809a77e642b420471ed31c47bfed9095784a",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_Group_of_Nen-kheft-ka_and_His_Wife,_Nefer-shemes_-_Walters_22425.jpg",
+    "image": "/curated/walters-22-425.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Egyptian_-_Statue_Group_of_Nen-kheft-ka_and_His_Wife%2C_Nefer-shemes_-_Walters_22425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "232da7e96433ff084946fd325f3c3f57da792a1f317878698ab6311625d10b17",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-22-425-0",
+        "field": "Museum inscription: published translation",
+        "text": "Inscribed near feet: Royal acquaintance, Nen-kheft-ka; Inscribed near feet: Royal acquaintance, Nefer-shemes",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-22-425.json",
+    "record_url": "/curated/walters-22-425.json",
+    "note": "Both separately labelled names and titles near the figures’ feet are included; the pair remains one accession/artifact. AncientLens scholarly review: unreviewed. Museum identifies a rock-cut tomb at Deshasheh, Egypt; no precise coordinates inferred. Ownership history: [Excavated by Sir Flinders Petrie, Deshasheh, Egypt, 1897]; Museum of Fine Arts, Boston, October 1897, by gift [of the Egypt Exploration Fund, no. 97.1092]; Walters Art Museum, 1973, by exchange.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-65",
+    "title": "Scarab with Wish Formula",
+    "accession": "42.65",
+    "date": "664-525 BCE (Early Late Period)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.65/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "576542e202381ae60f0e6c2670995a5f67f8a93eb2b4f0f1d81b88f46147b8fc",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4265_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-65.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4265_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "bf5999053c58204fbdc6cbf091c7ca1edcb94173ec553a22b6e62bc281cac652",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-65-0",
+        "field": "Museum inscription: published translation",
+        "text": "May he be a favorite (in) the temple of Horus.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-65.json",
+    "record_url": "/curated/walters-42-65.json",
+    "note": "Museum renders the underside wish formula. Its description refers both to the royal palace and protection of Horus; no alternative translation invented. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore, 1913 [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-72",
+    "title": "Scarab of Thutmose IV",
+    "accession": "42.72",
+    "date": "1397-1388 BCE (New Kingdom, Dynasty 18)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.72/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "aab0ad4cf047f0ebae00daa78d360055ac50e5d50162f9d7c28f88ad5b1183ed",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_of_Thutmose_IV_-_Walters_4272_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-72.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Egyptian_-_Scarab_of_Thutmose_IV_-_Walters_4272_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "a94b7aa0bb7562b8f171e22ee01ff31ea6fe32a23f2ec47ed1f89be2175fe4f7",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-72-0",
+        "field": "Museum inscription: published translation",
+        "text": "Throne name of King Thutmose IV in a cartouche combined with a wish formula: Men-kheperu-Re, / (whose) monuments are everlasting.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-72.json",
+    "record_url": "/curated/walters-42-72.json",
+    "note": "Museum renders the throne name and accompanying everlasting-monuments formula together. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-42-35",
+    "title": "Scarab with Wish Formula",
+    "accession": "42.35",
+    "date": "1292-1070 BCE (New Kingdom, Dynasty 19-20)",
+    "culture": [
+      "Egyptian"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/42.35/",
+    "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "07099fc1d42be9dfca41a2104ee6e72cc2d40004becdf3d9bb7fa37dcab3efce",
+    "text_license": "CC0",
+    "image_license": "CC BY-SA 3.0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4235_-_Bottom_(2).jpg",
+    "image": "/curated/walters-42-35.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_4235_-_Bottom_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_sha256": "442e4c0980807c280f606f6b127138a7ec071865a3e06e50ad227390f698a692",
+    "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+    "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-42-35-0",
+        "field": "Museum inscription: published translation",
+        "text": "May he be beloved by Amun.",
+        "source_text": "",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-42-35.json",
+    "record_url": "/curated/walters-42-35.json",
+    "note": "Museum identifies the single horizontally arranged Amun wish formula and provides the complete rendering. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+    "description": ""
   }
 ];

@@ -1,4 +1,4 @@
-"""Build the founder-approved bounded CC0 collection from pinned local evidence."""
+"""Build the founder-approved bounded, individually licensed collection from pinned local evidence."""
 import hashlib
 import json
 from pathlib import Path
@@ -43,7 +43,8 @@ def build():
   records.append(record)
  for record in json.loads((ROOT/'scripts/walters_selection.json').read_text()):
   evidence=out/('sources/'+record['id']+'.json');d=json.loads(evidence.read_text())
-  assert record['metadata_sha256']==sha(evidence) and record['text_license']==record['image_license']=='CC0'
+  assert record['metadata_sha256']==sha(evidence) and record['text_license']=='CC0'
+  assert record['image_license']==d['image_license'] and record['image_license'] in ('CC0','CC BY-SA 3.0')
   assert record['passages'][0]['text']==d['text'] and record['passages'][0]['source_text']==d['transcription']
   assert record['review']=='unreviewed' and sha(ROOT/'frontend/public'/record['image'].lstrip('/'))==record['image_sha256']
   (out/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,indent=2)+'\n');records.append(record)

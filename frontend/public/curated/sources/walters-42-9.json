@@ -1,0 +1,32 @@
+{
+  "id": "walters-42-9",
+  "accession": "42.9",
+  "title": "Scarab with Wish Formula",
+  "source_url": "https://art.thewalters.org/object/42.9/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "May the recruits of Seth be satisfied.",
+  "original_inscription_field": "[Translation] May the recruits of Seth be satisfied.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Henry Walters, Baltimore, 1911 (?) [mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum describes the underside wish for Seth’s recruits and renders that full formula.",
+  "visual_observation": "Full underside photographed; shallow-to-deep grooves in pale stone. Dark shadows in signs, worn rim and lower-edge cracks.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Egyptian_-_Scarab_with_Wish_Formula_-_Walters_429_-_Bottom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Scarab_with_Wish_Formula_-_Walters_429_-_Bottom.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "e2cbec275e06d91ff69578b8207e6b32589c55f272b380995c74175fe266f41e",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

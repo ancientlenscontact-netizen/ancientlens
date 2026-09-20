@@ -1,0 +1,32 @@
+{
+  "id": "walters-22-24",
+  "accession": "22.24",
+  "title": "Imti Standing",
+  "source_url": "https://art.thewalters.org/object/22.24/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription metadata from official Walters art.csv export. Image from Walters donation to Wikimedia Commons. Longer artwork descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "Revered before Osiris, Imti, the blessed.",
+  "original_inscription_field": "[Translation] Revered before Osiris, Imti, the blessed.",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Egyptian collection; no exact findspot inferred.",
+  "provenance": "Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1917, by purchase; Walters Art Museum, 1931, by bequest.",
+  "coverage_evidence": "Museum identifies the base inscription as Imti’s name and supplies the full funerary epithet and name.",
+  "visual_observation": "Full frontal wooden statue with paint loss and cracks. Inscribed side of base is not legible in this view: object illustration only.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "rights_scope": "Inscription metadata CC0 under current museum policy; photograph reused under explicit Commons file-page CC BY-SA 3.0 terms. Longer GFDL descriptions excluded.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Egyptian_-_Imti_Standing_-_Walters_2224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_rights_evidence": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Imti_Standing_-_Walters_2224.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "The Walters Art Museum",
+    "retrieved_at": "2026-09-20",
+    "page_sha256": "36c2b658dedda817de0cd60d1ee7912a9852e4546e78a6d9d4a20f5cb006cb97",
+    "scope": "File page distinguishes the public-domain ancient object from its photograph. Photograph section explicitly offers CC BY-SA 3.0 and GFDL; CC BY-SA 3.0 selected."
+  }
+}

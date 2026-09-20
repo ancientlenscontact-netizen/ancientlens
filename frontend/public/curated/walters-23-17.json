@@ -1,0 +1,40 @@
+{
+  "id": "walters-23-17",
+  "title": "Votive Altar to Mithras",
+  "accession": "23.17",
+  "date": "176-192 CE (Roman Imperial)",
+  "culture": [
+    "Roman"
+  ],
+  "collection": "Roman",
+  "source_language": "Latin",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/23.17/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "86afa970e29ed8ff3ba729e77140d898e4735258eaf2dd32ef375205626b98bd",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image": "/curated/walters-23-17.jpg",
+  "image_url": "https://art.thewalters.org/images/art/PL7_23.17_Fnt_BW.jpg",
+  "image_sha256": "70dec7ca9e5c414e324d8972ee01f49e5bc6cd7c03eb020971d64aaa219fdc76",
+  "image_changes": "None; museum JPEG reproduced unchanged. The Walters Art Museum, CC0.",
+  "text_changes": "Museum translation and inscription separated into their labelled fields; wording retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-23-17-0",
+      "field": "Inscription: Translation",
+      "text": "“To the Unconquerable Sun, Mithras, for the health of our lord Commodus Antoninus Augustus, Marcus Aurelius Stertinius Carpus, together with his father Carpus the procurator castrensis, and his brothers Hermioneus and Balbinus, happily fulfilled the vow.”",
+      "source_text": "SOLI INVICTO / MITHRAE / PRO SALVTE COMMOD / ANTONINI. AVG. DOMIN N / M. AVREL. STERTINIVS / CARPVS. VNA. CVM CARPO / PROC. K. PATRE. ET. HER/MIONEO ET BALBINO FRATRIBVS / -V S F- / 7 [CIL VI 727]",
+      "remark": "Museum expanded Latin: Soli Invicto / Mithrae / pro salute Commodi / Antonini Aug(usti) domini n(ostri) / M(arcus) Aurel(ius) Stertinius / Carpus una cum Carpo / proc(uratore) k(astrensi) patre et Her/mioneo et Balbino / fratribus / v(otum) s(olvit) f(eliciter)"
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-23-17.json",
+  "record_url": "/curated/walters-23-17.json",
+  "note": "Museum supplies the full altar dedication from the invocation to Mithras through the final vow formula; no missing-word excerpt. Catalogue transcription also records a separate numeral-like mark below the final line without interpreting it. AncientLens scholarly review: unreviewed. Italy, Roman Empire, Rome (Place of Discovery). First reported near the Ponte Rotto, not an excavated exact findspot. Ownership history: First reported by Stephanus Pighius (1520-1604) as on the banks of the Tiber River near the Ponte Rotto, Rome. Cardinal Gaspare Carpegna, Rome, by 1699. Don Marcello Massarenti, Rome, by 1894, [mode of acquisition unknown] [marble no. 53]; Henry Walters, Baltimore, 1902, by purchase; Walters Art Museum, 1931, by bequest.",
+  "description": ""
+}

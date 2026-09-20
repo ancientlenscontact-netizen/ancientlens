@@ -1,0 +1,40 @@
+{
+  "id": "walters-22-12",
+  "title": "Statue of Tef-ib",
+  "accession": "22.12",
+  "date": "ca. 1980 BCE (Middle Kingdom, early 12th dynasty)",
+  "culture": [
+    "Egyptian"
+  ],
+  "collection": "Egyptian",
+  "source_language": "Egyptian",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Walters Art Museum",
+  "source_url": "https://art.thewalters.org/object/22.12/",
+  "metadata_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "ca52283d32bfcfc4fb3b805214b58bdeb48b98ddf69c6508dbf1a5ec8f478c67",
+  "text_license": "CC0",
+  "image_license": "CC BY-SA 3.0",
+  "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "image_rights_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Statue_of_Tef-ib_-_Walters_2212.jpg",
+  "image": "/curated/walters-22-12.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Egyptian_-_Statue_of_Tef-ib_-_Walters_2212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "image_sha256": "942104dd538ec43d0b600fb785231c0e4e34e300612aa1beb54f93c62b20abc7",
+  "image_changes": "None; photograph reproduced unchanged. The Walters Art Museum, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.",
+  "text_changes": "Translation wrappers removed and whitespace normalized; museum wording, editorial introductions and supplements retained. Longer description excluded.",
+  "passages": [
+    {
+      "id": "walters-22-12-0",
+      "field": "Museum inscription: published translation",
+      "text": "\"\"The revered before Hepy, the domain-superintendent, Itf-ib, engendered by Itf-ib, the blessed, lord of reverence.\"\"",
+      "source_text": "",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/walters-22-12.json",
+  "record_url": "/curated/walters-22-12.json",
+  "note": "Museum inscription field supplies the complete personal name, parentage, office and funerary epithet for this individual statue. AncientLens scholarly review: unreviewed. Egyptian collection; no exact findspot inferred. Ownership history: Dikran Kelekian, New York and Paris, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1924, by purchase; Walters Art Museum, 1931, by bequest. ",
+  "description": ""
+}
