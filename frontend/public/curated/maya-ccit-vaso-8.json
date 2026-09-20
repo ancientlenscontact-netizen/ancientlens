@@ -1,0 +1,40 @@
+{
+  "id": "maya-ccit-vaso-8",
+  "title": "CCIT Vaso #8",
+  "accession": "CCIT Vaso #8",
+  "date": "8th century CE",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/84",
+  "metadata_url": "https://classicmayan.org/portal/doc/84",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "8f8a34b976ec7ce013d9e0ea98ece8d2b67180253c9daafdd55c9219de57c8bc",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-ccit-vaso-8-0",
+      "field": "A cylindrical vessel mentioning Ix Yax We’n Chaak; dedicatory text",
+      "text": "It got sanctified? (it got raised?) the painted drinking cup for fruity cocoa (of) yo?[…] […] Ix Yax We’n Chaak, sovereign of Baax Witz, chief of the land",
+      "source_text": "",
+      "remark": "Damaged dedicatory passage with proposed reconstructions. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-ccit-vaso-8.json",
+  "record_url": "/curated/maya-ccit-vaso-8.json",
+  "note": "Damaged dedicatory passage with proposed reconstructions; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; original findspot unknown. Source places the vessel in CCIT, Tikal. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "maya-naranjo-stela-18",
+  "title": "Naranjo Stela 18",
+  "accession": "Naranjo Stela 18",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/3",
+  "metadata_url": "https://classicmayan.org/portal/doc/3",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "7c7d31a6211eec3d6c3a455b5bf05bdb4db23433add46a817d8e4f30913a3571",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-naranjo-stela-18-0",
+      "field": "Table 3, row 9; YAX-ba-la-ja-CHAN-na-CHAK (Naranjo Stela 18: G1-H1) YAX-ba-ja-CHAN-na-CHAK (Naranjo Stela 46: B10-A11)",
+      "text": "As for the green color, it is (the rain god) Chaahk who is burning in the sky",
+      "source_text": "Yax Bajlaj Chan Chaahk",
+      "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-naranjo-stela-18.json",
+  "record_url": "/curated/maya-naranjo-stela-18.json",
+  "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

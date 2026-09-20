@@ -1,0 +1,40 @@
+{
+  "id": "maya-dresden-codex",
+  "title": "Dresden Codex",
+  "accession": "Dresden Codex",
+  "date": "Postclassic",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Mayan (editorial classification)",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/242",
+  "metadata_url": "https://classicmayan.org/portal/doc/242",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "e7f722f2e533fb403c8bb8630996b6e2be1f8dd0b2ac406d06a20afeb52c7f5d",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-dresden-codex-0",
+      "field": "Figure 11 and discussion; page 18b, SAK IXIK",
+      "text": "white lady",
+      "source_text": "",
+      "remark": "Deity-name excerpt from page 18b only; one record for the entire codex. Attribution: Nikolai Grube, Research Note 32."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-dresden-codex.json",
+  "record_url": "/curated/maya-dresden-codex.json",
+  "note": "Deity-name excerpt from page 18b only; one record for the entire codex; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

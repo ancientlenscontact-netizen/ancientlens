@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "maya-tikal-stela-16",
+    "title": "Tikal Stela 16",
+    "accession": "Tikal Stela 16",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "844667bb8c299bb8edca91ad274fabe3eaeccd5642951526b340bf5240fec1b3",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-tikal-stela-16-0",
+        "field": "Table 2, row 1; ja-sa-wa-CHAN-na-K’AWIL-la (Tikal Stela 16: B3-B4)",
+        "text": "(The rain god) K’awiil pants? in the sky",
+        "source_text": "Jasaw Chan K’awiil",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-tikal-stela-16.json",
+    "record_url": "/curated/maya-tikal-stela-16.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-naranjo-stela-19",
+    "title": "Naranjo Stela 19",
+    "accession": "Naranjo Stela 19",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "f197f52414e4e057b2fcfb19971112469393849bd55d8bfc2d176486d3f6cc68",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-naranjo-stela-19-0",
+        "field": "Table 2, row 2; K’AK‘-KAL-CHAN-na-CHAK (Naranjo Stela 19: B4-A5)",
+        "text": "As for the fire, it is (the rain god) Chaahk who chops? in the sky",
+        "source_text": "K’ahk‘ Kalaan? Chan Chaahk",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-naranjo-stela-19.json",
+    "record_url": "/curated/maya-naranjo-stela-19.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-naranjo-stela-13",
+    "title": "Naranjo Stela 13",
+    "accession": "Naranjo Stela 13",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "61b40ec452ece4f74d91cc0d37b4a3724c6623375e83ea3f6c871357d0f9762d",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-naranjo-stela-13-0",
+        "field": "Table 2, row 3; K’AK‘-ti-li-wi-CHAN-na-CHAK (Naranjo Stela 13: H10-G11) K’AK‘-TIL-wi-CHAN-na-CHAK (Naranjo Stela 23: E15-F15)",
+        "text": "As for the fire, it is (the rain god) Chaahk who demolishes in the sky",
+        "source_text": "K’ahk‘ Tihliw Chan Chaahk",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-naranjo-stela-13.json",
+    "record_url": "/curated/maya-naranjo-stela-13.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-topoxte-bone",
+    "title": "Topoxte inscribed bone",
+    "accession": "Topoxte inscribed bone",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "67339dc38adb24bdfad279cfdc09c54d2d4e8018df5da45cfcfdadfe2828a2c3",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-topoxte-bone-0",
+        "field": "Table 2, row 4; K’AK‘-WEˀ-ne?-CHAN-na-CHAK (Topoxte bone: A2-A3, see Fialko 2000: 150)",
+        "text": "As for the fire, it is (the rain god) Chaahk who devours in the sky",
+        "source_text": "K’ahk‘ Weˀen Chan Chaahk",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-topoxte-bone.json",
+    "record_url": "/curated/maya-topoxte-bone.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-naranjo-altar-22",
+    "title": "Naranjo Altar 22",
+    "accession": "Naranjo Altar 22",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "4c73f753620fabcf6813c2284165ef926b9d76d46922cfc3eae793f1f5948ce1",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-naranjo-altar-22-0",
+        "field": "Table 2, row 5; K’AK‘-xi-CHAN-na-CHAK (Naranjo Altar 22: C5-D5) K’AK‘-xi-wi-CHAN-na-CHAK (Chocolate Museum in Cologne, polychrome vase, Inv.-No. 50058, see Krempel et al. 2017: Fig. 4)",
+        "text": "As for the fire, it is (the rain god) Chaahk who cracks open in the sky",
+        "source_text": "K’ahk‘ Xixiw? Chan Chaahk",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-naranjo-altar-22.json",
+    "record_url": "/curated/maya-naranjo-altar-22.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-naranjo-stela-46",
+    "title": "Naranjo Stela 46",
+    "accession": "Naranjo Stela 46",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "12f198c9d060db72402d9be892bc5a5199f0e90254c73cd4410bd11c5f9347de",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-naranjo-stela-46-0",
+        "field": "Table 2, row 6; MUYAL-ya-la-KAL-ni-CHAN-na-YOP-ˀAT-ti (Naranjo Stela 46: A14-B14) MUYAL-la-KAL-CHAN-na-YOP-ˀAT (Naranjo Stela 13: G9-G10)",
+        "text": "As for the cloud, it is (the rain god) Yopˀaat who chops? in the sky",
+        "source_text": "Muyaal Kalaan Chan Yopˀaat",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-naranjo-stela-46.json",
+    "record_url": "/curated/maya-naranjo-stela-46.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-holmul-plate",
+    "title": "Holmul plate",
+    "accession": "Holmul plate",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "952aa0264ccf463da7a8e819bdb1fdf9403f8cf33c6d2051f0552de3ec46aa5f",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-holmul-plate-0",
+        "field": "Table 2, row 7; ti-wi-CHAN-na-YOPAT (Holmul plate, see Grube and Martin 2004: II-68)",
+        "text": "(The rain god) Yopˀaat shakes? in the sky",
+        "source_text": "Tihtiw? Chan Yopˀaat",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-holmul-plate.json",
+    "record_url": "/curated/maya-holmul-plate.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-vessel-k9271",
+    "title": "Vessel K9271",
+    "accession": "Vessel K9271",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "0e6a0b6df2acde89193bc664367fcb6a2ae43aab6a20626f0612714fa5171445",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-vessel-k9271-0",
+        "field": "Table 2, row 8; YAX-WEˀ-ne-CHAN-na-K’INICH (K9271)",
+        "text": "As for the green color, it is (the sun god) K’ihnich who devours in the sky",
+        "source_text": "Yax Weˀen Chan K’ihnich",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-vessel-k9271.json",
+    "record_url": "/curated/maya-vessel-k9271.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-scepter-k7966",
+    "title": "Naranjo-area scepter K7966",
+    "accession": "Naranjo-area scepter K7966",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "36cca862d1a3d72b3ee02bd2c5770ea4a87ad74198ea50aae953ffc18053e6fe",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-scepter-k7966-0",
+        "field": "Table 3, row 1; ba-ja-CHAN-na-YOPAT (Naranjo-area ‘scepter’, K7966, C4, D5; see Grube 2004: Fig. 10)",
+        "text": "(The rain god) Yopˀaat is hammering in the sky",
+        "source_text": "Bajlaj Chan Yopˀaat",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-scepter-k7966.json",
+    "record_url": "/curated/maya-scepter-k7966.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-dos-pilas-stairway-4",
+    "title": "Dos Pilas Hieroglyphic Stairway 4",
+    "accession": "Dos Pilas Hieroglyphic Stairway 4",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "56da22adb39d3361a29d4c515d3babb3d28fdb6a9f77708bc58b12d4d498b69b",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-dos-pilas-stairway-4-0",
+        "field": "Table 3, row 2; ba-la-ja CHAN-na-K'AWIL (Dos Pilas Hieroglyphic Stairway 4, Step 1: N1-M2) BAJ-CHAN-na-K'AWIL-la (Dos Pilas Panel 7: A5-B5)",
+        "text": "(The rain god) K'awiil is hammering in the sky",
+        "source_text": "Bajlaj Chan K'awiil",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-dos-pilas-stairway-4.json",
+    "record_url": "/curated/maya-dos-pilas-stairway-4.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-vessel-k4669",
+    "title": "Vessel K4669",
+    "accession": "Vessel K4669",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "53feb935d9a8bb3a902ebf389ec4d04d4b891d68019ed8668919c119eb5452ba",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-vessel-k4669-0",
+        "field": "Table 3, row 3; CHAK-HOP-la-ja-CHAN-na-YOPAT-ti (K4669)",
+        "text": "As for the red color, it is (the rain god) Yopˀaat who is burning in the sky",
+        "source_text": "Chak Hoplaj Chan Yopˀaat",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-vessel-k4669.json",
+    "record_url": "/curated/maya-vessel-k4669.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-la-corona-element-56",
+    "title": "La Corona Element 56",
+    "accession": "La Corona Element 56",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "ecdf6711ad91f5d4155a1bec96b4ddb005a6438838ed01e867da55a7867d9c4d",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-la-corona-element-56-0",
+        "field": "Table 3, row 4; CHAK-ho-po-la-ja-KAMIS-si (La Corona Element 56: pE1-pF2) CHAK-HOP-ja-KAMIS-si (La Corona Element 33: D7)",
+        "text": "As for the red color, it is a centipede which is burning",
+        "source_text": "Chak Hoplaj Kamis",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-la-corona-element-56.json",
+    "record_url": "/curated/maya-la-corona-element-56.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-naranjo-stela-14",
+    "title": "Naranjo Stela 14",
+    "accession": "Naranjo Stela 14",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "88c0c93753e42ca8d7ef44ad03a2e542f089ea84392df05986b9af782601d6f1",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-naranjo-stela-14-0",
+        "field": "Table 3, row 5; K'AK'-ho+po-la-CHAN-na-CHAK-ki (Naranjo Stela 14: D11-C12) K'AK'-HOP-la-CHAN-na-CHAK (Naranjo Stela 12: G13-F14)",
+        "text": "As for the fire, it is (the rain god) Chaahk who is burning in the sky",
+        "source_text": "K'ahk' Hoplaj Chan Chaahk",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-naranjo-stela-14.json",
+    "record_url": "/curated/maya-naranjo-stela-14.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-vessel-k4997",
+    "title": "Vessel K4997",
+    "accession": "Vessel K4997",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "acf0432afcf3ce0bec473c3cf9d5c15e9c64cf92d5c5acd9d0c59bc82de624dd",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-vessel-k4997-0",
+        "field": "Table 3, row 6; K'AK'-HOP-la-CHAN-na-K'INICH (K4997)",
+        "text": "As for the fire, it is (the sun god) K'ihnich who is burning in the sky",
+        "source_text": "K'ahk' Hoplaj Chan K'ihnich",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-vessel-k4997.json",
+    "record_url": "/curated/maya-vessel-k4997.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-caracol-stela-19",
+    "title": "Caracol Stela 19",
+    "accession": "Caracol Stela 19",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "9137d39ed8dadc3bcdb75b0079057bdcd06b9e5c782c31ca5b850a8a7c99aaa6",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-caracol-stela-19-0",
+        "field": "Table 3, row 7; K'AK'-HOP-la-CHAN-na-LEM (Caracol Stela 19: H7-G8)",
+        "text": "As for the fire, it is lightning which is burning in the sky",
+        "source_text": "K'ahk' Hoplaj Chan Leˀm",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-caracol-stela-19.json",
+    "record_url": "/curated/maya-caracol-stela-19.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-vessel-k4572",
+    "title": "Vessel K4572",
+    "accession": "Vessel K4572",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "b2ded1341e8df92a401dd795371efce4a2970e251d441b56e6bc197080f7b85e",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-vessel-k4572-0",
+        "field": "Table 3, row 8; K'AK'-HOP-la-CHAN-na-YOP-ˀAT-ti (K4572)",
+        "text": "As for the fire, it is (the rain god) Yopˀaat who is burning in the sky",
+        "source_text": "K'ahk' Hoplaj Chan Yopˀaat",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-vessel-k4572.json",
+    "record_url": "/curated/maya-vessel-k4572.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-naranjo-stela-18",
+    "title": "Naranjo Stela 18",
+    "accession": "Naranjo Stela 18",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "7c7d31a6211eec3d6c3a455b5bf05bdb4db23433add46a817d8e4f30913a3571",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-naranjo-stela-18-0",
+        "field": "Table 3, row 9; YAX-ba-la-ja-CHAN-na-CHAK (Naranjo Stela 18: G1-H1) YAX-ba-ja-CHAN-na-CHAK (Naranjo Stela 46: B10-A11)",
+        "text": "As for the green color, it is (the rain god) Chaahk who is burning in the sky",
+        "source_text": "Yax Bajlaj Chan Chaahk",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-naranjo-stela-18.json",
+    "record_url": "/curated/maya-naranjo-stela-18.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-vessel-k3636",
+    "title": "Vessel K3636",
+    "accession": "Vessel K3636",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/3",
+    "metadata_url": "https://classicmayan.org/portal/doc/3",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "53ff9877983215e24062ed4bc2f569f0fbb8ba6b4d89c2025cf1414acda7dfc8",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-vessel-k3636-0",
+        "field": "Table 3, row 10; yu-ku-la-CHAN-na-K'AWIL-la (K3636)",
+        "text": "(The rain god) K'awiil is shaking in the sky",
+        "source_text": "Yuhklaj Chan K'awiil",
+        "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-vessel-k3636.json",
+    "record_url": "/curated/maya-vessel-k3636.json",
+    "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-copan-stela-64",
+    "title": "Copan Stela 64",
+    "accession": "Copan Stela 64",
+    "date": "Early Classic; proposed event 465 CE",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Christian M. Prager, Elisabeth Wagner and Seiichi Nakamura — Research Note 31, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/241",
+    "metadata_url": "https://classicmayan.org/portal/doc/241",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "1f1415ff292e0b7b7c276d481879d862188c1d47da0284d6301546e35d140ce9",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-copan-stela-64-0",
+        "field": "Table 1, reverse",
+        "text": "[...] *Uh Chan Ahk (Ruler 6), divine(?) king of Copan [...] the Maguey-Stone-Place [...] said it, K'altuunhix (Ruler 4), of the Río Azúl dynasty [...]",
+        "source_text": "",
+        "remark": "Fragmentary passage. Attribution: Christian M. Prager, Elisabeth Wagner and Seiichi Nakamura, Research Note 31."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-copan-stela-64.json",
+    "record_url": "/curated/maya-copan-stela-64.json",
+    "note": "Fragmentary passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Source documents discovery at Copan, Honduras; no exact excavation pin supplied here. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-yaxchilan-lintel-34",
+    "title": "Yaxchilan Lintel 34",
+    "accession": "Yaxchilan Lintel 34",
+    "date": "6th century CE",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Christian M. Prager and Antje Grothe — Research Note 30, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/240",
+    "metadata_url": "https://classicmayan.org/portal/doc/240",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "d0a42c75ebebcbe9f430ad62e0e2be531a6b3a1cd1440f3f0eec504e2dacb873",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-yaxchilan-lintel-34-0",
+        "field": "The Narrative Context of Lintel 34; blocks A1–B1",
+        "text": "he is the god from the red heart of",
+        "source_text": "",
+        "remark": "Kinship phrase excerpt; source calls its interpretation enigmatic. Attribution: Christian M. Prager and Antje Grothe, Research Note 30."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-yaxchilan-lintel-34.json",
+    "record_url": "/curated/maya-yaxchilan-lintel-34.json",
+    "note": "Kinship phrase excerpt; source calls its interpretation enigmatic; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Documented at Yaxchilan, Structure 12; ancient original installation unknown. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-ccit-vaso-8",
+    "title": "CCIT Vaso #8",
+    "accession": "CCIT Vaso #8",
+    "date": "8th century CE",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/84",
+    "metadata_url": "https://classicmayan.org/portal/doc/84",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "8f8a34b976ec7ce013d9e0ea98ece8d2b67180253c9daafdd55c9219de57c8bc",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-ccit-vaso-8-0",
+        "field": "A cylindrical vessel mentioning Ix Yax We’n Chaak; dedicatory text",
+        "text": "It got sanctified? (it got raised?) the painted drinking cup for fruity cocoa (of) yo?[…] […] Ix Yax We’n Chaak, sovereign of Baax Witz, chief of the land",
+        "source_text": "",
+        "remark": "Damaged dedicatory passage with proposed reconstructions. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-ccit-vaso-8.json",
+    "record_url": "/curated/maya-ccit-vaso-8.json",
+    "note": "Damaged dedicatory passage with proposed reconstructions; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; original findspot unknown. Source places the vessel in CCIT, Tikal. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-ccit-pntf-192",
+    "title": "CCIT vessel PNTF-192 (17.1.1.3815)",
+    "accession": "CCIT vessel PNTF-192 (17.1.1.3815)",
+    "date": "8th century CE",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/84",
+    "metadata_url": "https://classicmayan.org/portal/doc/84",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "28685db05394553bd3d9714f0d28d1c6e7f127bdc37bb589f5345c78888c02fb",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-ccit-pntf-192-0",
+        "field": "A fragmented Zacatel Cream-polychrome: Panela Variety vessel; dedicatory text",
+        "text": "Here is presented the decoration of the drinking vessel for atole […], Aj? Tzil, the servant?/auxiliary? of the kaloomte’",
+        "source_text": "",
+        "remark": "Fragmentary dedicatory passage. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-ccit-pntf-192.json",
+    "record_url": "/curated/maya-ccit-pntf-192.json",
+    "note": "Fragmentary dedicatory passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; reported Uaxactun-area looting is not secure findspot evidence. Held at CCIT, Tikal according to source. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-ikil-lintel-1",
+    "title": "Ikil Structure 1, West Room Lintel 1",
+    "accession": "Ikil Structure 1, West Room Lintel 1",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Sven Gronemeyer — Research Note 4, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/69",
+    "metadata_url": "https://classicmayan.org/portal/doc/69",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "35a108fb7e259743e71082dce83a2a767820adbe48830d072805011b3060258b",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-ikil-lintel-1-0",
+        "field": "Opening dedicatory formula, blocks A–C",
+        "text": "here ascended the dormitory of …",
+        "source_text": "",
+        "remark": "Opening phrase excerpt; proposed reading. Attribution: Sven Gronemeyer, Research Note 4."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-ikil-lintel-1.json",
+    "record_url": "/curated/maya-ikil-lintel-1.json",
+    "note": "Opening phrase excerpt; proposed reading; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-palenque-tablet-sun",
+    "title": "Palenque Tablet of the Sun",
+    "accession": "Palenque Tablet of the Sun",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Elisabeth Wagner, Sven Gronemeyer and Christian Prager — Research Note 2, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/60",
+    "metadata_url": "https://classicmayan.org/portal/doc/60",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "3a9910fb3ae777db9e1cb77c107631ab8e7e11814d07a24519eaf113d20d330d",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-palenque-tablet-sun-0",
+        "field": "Sanctuary panel, nominal phrase following birth verb C1",
+        "text": "Radiant Torch Dreamer",
+        "source_text": "",
+        "remark": "Deity-name excerpt. Attribution: Elisabeth Wagner, Sven Gronemeyer and Christian Prager, Research Note 2."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-palenque-tablet-sun.json",
+    "record_url": "/curated/maya-palenque-tablet-sun.json",
+    "note": "Deity-name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-palenque-tablet-cross",
+    "title": "Palenque Tablet of the Cross",
+    "accession": "Palenque Tablet of the Cross",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/242",
+    "metadata_url": "https://classicmayan.org/portal/doc/242",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "9859d23b36f9ec628e580aba3dee8fed63bb53ef536f9683c5b685c2874d3d97",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-palenque-tablet-cross-0",
+        "field": "Figure 7 discussion; C9–C13 house name",
+        "text": "six sky house? of the north, eight ?? house",
+        "source_text": "",
+        "remark": "Building-name excerpt with unresolved signs. Attribution: Nikolai Grube, Research Note 32."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-palenque-tablet-cross.json",
+    "record_url": "/curated/maya-palenque-tablet-cross.json",
+    "note": "Building-name excerpt with unresolved signs; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-la-corona-panel-2b",
+    "title": "La Corona Panel 2b (K4677)",
+    "accession": "La Corona Panel 2b (K4677)",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/242",
+    "metadata_url": "https://classicmayan.org/portal/doc/242",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "5f182d21d0902f0876d0603c748e4ed19a9654ba453569095bdab0c630438369",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-la-corona-panel-2b-0",
+        "field": "Figure 6; pG5–pG6",
+        "text": "and then fire-dedicated is the tomb of",
+        "source_text": "",
+        "remark": "Dedicatory phrase excerpt. Attribution: Nikolai Grube, Research Note 32."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-la-corona-panel-2b.json",
+    "record_url": "/curated/maya-la-corona-panel-2b.json",
+    "note": "Dedicatory phrase excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-vessel-k8777",
+    "title": "Vessel K8777",
+    "accession": "Vessel K8777",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/242",
+    "metadata_url": "https://classicmayan.org/portal/doc/242",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "b0563bcb3a0a012f58a30d971caf6460f92e9674fbd27fca35600f67cb7f1292",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-vessel-k8777-0",
+        "field": "Personified SAK sign; vessel contents phrase",
+        "text": "white stirred blood",
+        "source_text": "",
+        "remark": "Beverage-name excerpt; explicitly hypothetical interpretation. Attribution: Nikolai Grube, Research Note 32."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-vessel-k8777.json",
+    "record_url": "/curated/maya-vessel-k8777.json",
+    "note": "Beverage-name excerpt; explicitly hypothetical interpretation; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Unknown provenance; mention of a Waka’/El Peru lord is not a findspot. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-dresden-codex",
+    "title": "Dresden Codex",
+    "accession": "Dresden Codex",
+    "date": "Postclassic",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Mayan (editorial classification)",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/242",
+    "metadata_url": "https://classicmayan.org/portal/doc/242",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "e7f722f2e533fb403c8bb8630996b6e2be1f8dd0b2ac406d06a20afeb52c7f5d",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-dresden-codex-0",
+        "field": "Figure 11 and discussion; page 18b, SAK IXIK",
+        "text": "white lady",
+        "source_text": "",
+        "remark": "Deity-name excerpt from page 18b only; one record for the entire codex. Attribution: Nikolai Grube, Research Note 32."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-dresden-codex.json",
+    "record_url": "/curated/maya-dresden-codex.json",
+    "note": "Deity-name excerpt from page 18b only; one record for the entire codex; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  },
+  {
+    "id": "maya-palenque-oval-tablet",
+    "title": "Palenque Oval Palace Tablet",
+    "accession": "Palenque Oval Palace Tablet",
+    "date": "Date not catalogued",
+    "culture": [
+      "Maya; Mesoamerica"
+    ],
+    "collection": "Maya",
+    "source_language": "Classic Mayan",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "Elisabeth Wagner — Research Note 8, Text Database and Dictionary of Classic Mayan",
+    "source_url": "https://classicmayan.org/portal/doc/108",
+    "metadata_url": "https://classicmayan.org/portal/doc/108",
+    "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+    "metadata_sha256": "e804c80c989ea507cbf491b8947ac276a9c583b99af9befed5334acf633ebc30",
+    "text_license": "CC BY 4.0",
+    "image_license": "Not included",
+    "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+    "image_rights_url": "",
+    "image": "",
+    "image_url": "",
+    "image_sha256": "",
+    "image_changes": "No image included; illustration reuse rights not established for this record.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "passages": [
+      {
+        "id": "maya-palenque-oval-tablet-0",
+        "field": "Jun Yop Ixiim theonym; initial block D1",
+        "text": "One Leaf Grain Maize",
+        "source_text": "",
+        "remark": "Proposed deity-name excerpt. Attribution: Elisabeth Wagner, Research Note 8."
+      }
+    ],
+    "source_snapshot": "/curated/sources/maya-palenque-oval-tablet.json",
+    "record_url": "/curated/maya-palenque-oval-tablet.json",
+    "note": "Proposed deity-name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+    "description": ""
+  }
+]

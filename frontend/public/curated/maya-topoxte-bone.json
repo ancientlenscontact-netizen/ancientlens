@@ -1,0 +1,40 @@
+{
+  "id": "maya-topoxte-bone",
+  "title": "Topoxte inscribed bone",
+  "accession": "Topoxte inscribed bone",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/3",
+  "metadata_url": "https://classicmayan.org/portal/doc/3",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "67339dc38adb24bdfad279cfdc09c54d2d4e8018df5da45cfcfdadfe2828a2c3",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-topoxte-bone-0",
+      "field": "Table 2, row 4; K’AK‘-WEˀ-ne?-CHAN-na-CHAK (Topoxte bone: A2-A3, see Fialko 2000: 150)",
+      "text": "As for the fire, it is (the rain god) Chaahk who devours in the sky",
+      "source_text": "K’ahk‘ Weˀen Chan Chaahk",
+      "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-topoxte-bone.json",
+  "record_url": "/curated/maya-topoxte-bone.json",
+  "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

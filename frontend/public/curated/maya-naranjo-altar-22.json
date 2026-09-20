@@ -1,0 +1,40 @@
+{
+  "id": "maya-naranjo-altar-22",
+  "title": "Naranjo Altar 22",
+  "accession": "Naranjo Altar 22",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/3",
+  "metadata_url": "https://classicmayan.org/portal/doc/3",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "4c73f753620fabcf6813c2284165ef926b9d76d46922cfc3eae793f1f5948ce1",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-naranjo-altar-22-0",
+      "field": "Table 2, row 5; K’AK‘-xi-CHAN-na-CHAK (Naranjo Altar 22: C5-D5) K’AK‘-xi-wi-CHAN-na-CHAK (Chocolate Museum in Cologne, polychrome vase, Inv.-No. 50058, see Krempel et al. 2017: Fig. 4)",
+      "text": "As for the fire, it is (the rain god) Chaahk who cracks open in the sky",
+      "source_text": "K’ahk‘ Xixiw? Chan Chaahk",
+      "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-naranjo-altar-22.json",
+  "record_url": "/curated/maya-naranjo-altar-22.json",
+  "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

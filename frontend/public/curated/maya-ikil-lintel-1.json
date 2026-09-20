@@ -1,0 +1,40 @@
+{
+  "id": "maya-ikil-lintel-1",
+  "title": "Ikil Structure 1, West Room Lintel 1",
+  "accession": "Ikil Structure 1, West Room Lintel 1",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sven Gronemeyer — Research Note 4, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/69",
+  "metadata_url": "https://classicmayan.org/portal/doc/69",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "35a108fb7e259743e71082dce83a2a767820adbe48830d072805011b3060258b",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-ikil-lintel-1-0",
+      "field": "Opening dedicatory formula, blocks A–C",
+      "text": "here ascended the dormitory of …",
+      "source_text": "",
+      "remark": "Opening phrase excerpt; proposed reading. Attribution: Sven Gronemeyer, Research Note 4."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-ikil-lintel-1.json",
+  "record_url": "/curated/maya-ikil-lintel-1.json",
+  "note": "Opening phrase excerpt; proposed reading; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "maya-yaxchilan-lintel-34",
+  "title": "Yaxchilan Lintel 34",
+  "accession": "Yaxchilan Lintel 34",
+  "date": "6th century CE",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Christian M. Prager and Antje Grothe — Research Note 30, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/240",
+  "metadata_url": "https://classicmayan.org/portal/doc/240",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "d0a42c75ebebcbe9f430ad62e0e2be531a6b3a1cd1440f3f0eec504e2dacb873",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-yaxchilan-lintel-34-0",
+      "field": "The Narrative Context of Lintel 34; blocks A1–B1",
+      "text": "he is the god from the red heart of",
+      "source_text": "",
+      "remark": "Kinship phrase excerpt; source calls its interpretation enigmatic. Attribution: Christian M. Prager and Antje Grothe, Research Note 30."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-yaxchilan-lintel-34.json",
+  "record_url": "/curated/maya-yaxchilan-lintel-34.json",
+  "note": "Kinship phrase excerpt; source calls its interpretation enigmatic; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Documented at Yaxchilan, Structure 12; ancient original installation unknown. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

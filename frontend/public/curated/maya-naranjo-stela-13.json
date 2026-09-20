@@ -1,0 +1,40 @@
+{
+  "id": "maya-naranjo-stela-13",
+  "title": "Naranjo Stela 13",
+  "accession": "Naranjo Stela 13",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/3",
+  "metadata_url": "https://classicmayan.org/portal/doc/3",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "61b40ec452ece4f74d91cc0d37b4a3724c6623375e83ea3f6c871357d0f9762d",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-naranjo-stela-13-0",
+      "field": "Table 2, row 3; K’AK‘-ti-li-wi-CHAN-na-CHAK (Naranjo Stela 13: H10-G11) K’AK‘-TIL-wi-CHAN-na-CHAK (Naranjo Stela 23: E15-F15)",
+      "text": "As for the fire, it is (the rain god) Chaahk who demolishes in the sky",
+      "source_text": "K’ahk‘ Tihliw Chan Chaahk",
+      "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-naranjo-stela-13.json",
+  "record_url": "/curated/maya-naranjo-stela-13.json",
+  "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

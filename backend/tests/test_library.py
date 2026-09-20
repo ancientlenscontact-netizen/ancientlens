@@ -69,4 +69,22 @@ def test_curated_passages_and_moderation_unchanged(clients):
     assert a.get('/api/contributions?passage_id=cma-102365-0').json()[0]['moderation_status']=='pending'
     with connect(path) as db:
         assert db.execute('PRAGMA foreign_key_check').fetchall()==[]
-        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==51
+        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==80
+
+
+def test_maya_licensed_reference_and_private_note_survive_reseed(clients):
+    a,b,path=clients
+    ident='maya-ccit-vaso-8'
+    response=a.put('/api/library/'+ident,json={'notes':'Private Maya reading note','version':0,'remove':False})
+    assert response.status_code==200
+    initialize(path)
+    assert a.get('/api/library/'+ident).json()['notes']=='Private Maya reading note'
+    assert b.get('/api/library/'+ident).json()['notes']==''
+    with connect(path) as db:
+        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'maya-%'").fetchone()[0]==29
+        source=db.execute('SELECT * FROM sources WHERE id=?',(ident+'-source',)).fetchone()
+        assert 'Guido Krempel' in source[1] and 'CC BY 4.0' in source[4]
+        monument=db.execute('SELECT * FROM monuments WHERE id=?',(ident,)).fetchone()
+        assert 'Cleveland' not in str(monument)
+        ref=db.execute('SELECT * FROM passage_references WHERE passage_id=?',(ident+'-0',)).fetchone()
+        assert 'CC BY 4.0' in str(ref) and 'CC0' not in str(ref)

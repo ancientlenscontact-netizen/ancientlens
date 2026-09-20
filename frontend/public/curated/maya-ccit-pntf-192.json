@@ -1,0 +1,40 @@
+{
+  "id": "maya-ccit-pntf-192",
+  "title": "CCIT vessel PNTF-192 (17.1.1.3815)",
+  "accession": "CCIT vessel PNTF-192 (17.1.1.3815)",
+  "date": "8th century CE",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/84",
+  "metadata_url": "https://classicmayan.org/portal/doc/84",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "28685db05394553bd3d9714f0d28d1c6e7f127bdc37bb589f5345c78888c02fb",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-ccit-pntf-192-0",
+      "field": "A fragmented Zacatel Cream-polychrome: Panela Variety vessel; dedicatory text",
+      "text": "Here is presented the decoration of the drinking vessel for atole […], Aj? Tzil, the servant?/auxiliary? of the kaloomte’",
+      "source_text": "",
+      "remark": "Fragmentary dedicatory passage. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-ccit-pntf-192.json",
+  "record_url": "/curated/maya-ccit-pntf-192.json",
+  "note": "Fragmentary dedicatory passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; reported Uaxactun-area looting is not secure findspot evidence. Held at CCIT, Tikal according to source. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "maya-tikal-stela-16",
+  "title": "Tikal Stela 16",
+  "accession": "Tikal Stela 16",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/3",
+  "metadata_url": "https://classicmayan.org/portal/doc/3",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "844667bb8c299bb8edca91ad274fabe3eaeccd5642951526b340bf5240fec1b3",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-tikal-stela-16-0",
+      "field": "Table 2, row 1; ja-sa-wa-CHAN-na-K’AWIL-la (Tikal Stela 16: B3-B4)",
+      "text": "(The rain god) K’awiil pants? in the sky",
+      "source_text": "Jasaw Chan K’awiil",
+      "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-tikal-stela-16.json",
+  "record_url": "/curated/maya-tikal-stela-16.json",
+  "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

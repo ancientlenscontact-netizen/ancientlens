@@ -1,0 +1,40 @@
+{
+  "id": "maya-palenque-tablet-cross",
+  "title": "Palenque Tablet of the Cross",
+  "accession": "Palenque Tablet of the Cross",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/242",
+  "metadata_url": "https://classicmayan.org/portal/doc/242",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "9859d23b36f9ec628e580aba3dee8fed63bb53ef536f9683c5b685c2874d3d97",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-palenque-tablet-cross-0",
+      "field": "Figure 7 discussion; C9–C13 house name",
+      "text": "six sky house? of the north, eight ?? house",
+      "source_text": "",
+      "remark": "Building-name excerpt with unresolved signs. Attribution: Nikolai Grube, Research Note 32."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-palenque-tablet-cross.json",
+  "record_url": "/curated/maya-palenque-tablet-cross.json",
+  "note": "Building-name excerpt with unresolved signs; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

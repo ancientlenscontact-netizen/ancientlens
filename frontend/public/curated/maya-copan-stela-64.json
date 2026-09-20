@@ -1,0 +1,40 @@
+{
+  "id": "maya-copan-stela-64",
+  "title": "Copan Stela 64",
+  "accession": "Copan Stela 64",
+  "date": "Early Classic; proposed event 465 CE",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Christian M. Prager, Elisabeth Wagner and Seiichi Nakamura — Research Note 31, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/241",
+  "metadata_url": "https://classicmayan.org/portal/doc/241",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "1f1415ff292e0b7b7c276d481879d862188c1d47da0284d6301546e35d140ce9",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-copan-stela-64-0",
+      "field": "Table 1, reverse",
+      "text": "[...] *Uh Chan Ahk (Ruler 6), divine(?) king of Copan [...] the Maguey-Stone-Place [...] said it, K'altuunhix (Ruler 4), of the Río Azúl dynasty [...]",
+      "source_text": "",
+      "remark": "Fragmentary passage. Attribution: Christian M. Prager, Elisabeth Wagner and Seiichi Nakamura, Research Note 31."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-copan-stela-64.json",
+  "record_url": "/curated/maya-copan-stela-64.json",
+  "note": "Fragmentary passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Source documents discovery at Copan, Honduras; no exact excavation pin supplied here. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "maya-palenque-oval-tablet",
+  "title": "Palenque Oval Palace Tablet",
+  "accession": "Palenque Oval Palace Tablet",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Elisabeth Wagner — Research Note 8, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/108",
+  "metadata_url": "https://classicmayan.org/portal/doc/108",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "e804c80c989ea507cbf491b8947ac276a9c583b99af9befed5334acf633ebc30",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-palenque-oval-tablet-0",
+      "field": "Jun Yop Ixiim theonym; initial block D1",
+      "text": "One Leaf Grain Maize",
+      "source_text": "",
+      "remark": "Proposed deity-name excerpt. Attribution: Elisabeth Wagner, Research Note 8."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-palenque-oval-tablet.json",
+  "record_url": "/curated/maya-palenque-oval-tablet.json",
+  "note": "Proposed deity-name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

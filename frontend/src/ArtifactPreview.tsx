@@ -1,0 +1,2 @@
+import type {Artifact} from './Discovery';
+export function ArtifactPreview({item}:{item:Artifact}){return item.image?<img src={item.image} alt={item.title} loading="lazy"/>:<div className="text-artifact-preview"><small>TRANSLATED EXCERPT</small><blockquote>{item.passages[0].text}</blockquote><small>{item.institution.split(" — ")[0]} · {item.text_license}<br/>Text-only record · image not included</small></div>;}

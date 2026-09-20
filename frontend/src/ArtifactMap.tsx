@@ -8,14 +8,14 @@ export const discoveryPlaces=[
  {id:'nimrud',name:'Nimrud',lat:36.1,lon:43.3,artifacts:['cma-122979'],evidence:'palace of Ashur-nasirapal II in Calah (Nimrud)'},
 ];
 // Regional overview anchor only: not a claimed findspot or surveyed object coordinate.
-export const attributedRegions=[{id:'usumacinta-region',name:'Guatemala / Mexico · broad region',lat:17,lon:-91,artifacts:['cma-138393'],evidence:'Museum attribution: Guatemala or Mexico, Usumacinta River region, Maya style. Exact findspot unknown; this marker represents a broad region, not an excavation site.'}];
+export const attributedRegions=[{id:'mesoamerica-region',name:'Mesoamerica · published excerpts',lat:20,lon:-88,artifacts:collection.filter(r=>r.id.startsWith('maya-')).map(r=>r.id),evidence:'Broad cultural region only. These research excerpts concern Maya objects and documents; individual discovery histories vary or are unknown. See each source. This overview anchor is not a findspot.'},{id:'usumacinta-region',name:'Guatemala / Mexico · broad region',lat:17,lon:-91,artifacts:['cma-138393'],evidence:'Museum attribution: Guatemala or Mexico, Usumacinta River region, Maya style. Exact findspot unknown; this marker represents a broad region, not an excavation site.'}];
 const mappedCount=new Set(discoveryPlaces.flatMap(p=>p.artifacts)).size;
 const unmappedCount=collection.length-mappedCount;
 type Layer='findspots'|'regions'|'museum';
 type View='locations'|'world'|'americas';
 export function ArtifactMap({selected,onSelect}:{selected:string;onSelect:(id:string)=>void}){
- const [layer,setLayer]=useState<Layer>(selected==='cleveland'?'museum':selected==='usumacinta-region'?'regions':'findspots'),[zoom,setZoom]=useState(1),[view,setView]=useState<View>('locations');
- const places=layer==='museum'?[{id:'cleveland',name:'Cleveland Museum of Art',lat:41.5,lon:-81.6,artifacts:collection.map(r=>r.id),evidence:'Holding collection; display availability is not confirmed.'}]:layer==='regions'?attributedRegions:discoveryPlaces;
+ const [layer,setLayer]=useState<Layer>(selected==='cleveland'?'museum':attributedRegions.some(p=>p.id===selected)?'regions':'findspots'),[zoom,setZoom]=useState(1),[view,setView]=useState<View>('locations');
+ const places=layer==='museum'?[{id:'cleveland',name:'Cleveland Museum of Art',lat:41.5,lon:-81.6,artifacts:collection.filter(r=>r.id.startsWith('cma-')).map(r=>r.id),evidence:'Holding collection; display availability is not confirmed.'}]:layer==='regions'?attributedRegions:discoveryPlaces;
  const bounds=view==='world'?[180,90,360,180]:view==='americas'?[100,85,150,160]:layer==='museum'?[112,53,150,75]:layer==='regions'?[89,73,45,30]:[215,60,40,20];
  const width=bounds[2]/zoom,height=bounds[3]/zoom,left=bounds[0]-width/2,top=bounds[1]-height/2;
  const visible=places.filter(p=>p.lon+180>=left&&p.lon+180<=left+width&&90-p.lat>=top&&90-p.lat<=top+height);
@@ -31,8 +31,8 @@ export function ArtifactMap({selected,onSelect}:{selected:string;onSelect:(id:st
  <div className="map-zoom"><button aria-label="Zoom in" disabled={zoom>=1.5} onClick={()=>setZoom(1.5)}>+</button><button aria-label="Zoom out" disabled={zoom===1} onClick={()=>setZoom(1)}>−</button></div></div>
  {!visible.length&&<p className="collection-caption">No locations in this viewport for the selected layer. Try Attributed regions for the Maya collection.</p>}
  <div className="map-options"><label>Location <select value={selected} onChange={e=>{onSelect(e.target.value);setView('locations');setZoom(1);}}><option value="">All artifacts</option>{places.map(p=><option key={p.id} value={p.id}>{p.name} ({p.artifacts.length})</option>)}{layer==='findspots'&&<option value="unmapped">Findspot not mapped ({unmappedCount})</option>}</select></label>{selected&&<button onClick={()=>onSelect('')}>Clear location</button>}</div>
- {place&&<p role="status"><strong>{place.name}</strong> · {place.evidence} {place.id==='cleveland'?<a href="https://www.clevelandart.org/plan-your-visit">Museum details ↗</a>:<a href={collection.find(r=>r.id===place.artifacts[0])?.source_snapshot}>Museum evidence ↗</a>}</p>}
+ {place&&<p role="status"><strong>{place.name}</strong> · {place.evidence} {place.id==='cleveland'?<a href="https://www.clevelandart.org/plan-your-visit">Museum details ↗</a>:<a href={collection.find(r=>r.id===place.artifacts[0])?.source_snapshot}>Source evidence ↗</a>}</p>}
  <p className="collection-caption">{layer==='museum'?'Collection location, not a findspot.':layer==='regions'?'Dashed markers show broad source-attributed regions. They are not findspots.':`${mappedCount} artifacts have mapped findspots; ${unmappedCount} remain unmapped. Mint locations are not findspots.`} No South American records are included yet. <a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a> basemap · Public domain.</p>
  </section>;
 }
-export function atPlace(artifact:string,place:string){if(!place||place==='cleveland')return true;if(place==='unmapped')return !discoveryPlaces.some(p=>p.artifacts.includes(artifact));return [...discoveryPlaces,...attributedRegions].some(p=>p.id===place&&p.artifacts.includes(artifact));}
+export function atPlace(artifact:string,place:string){if(!place)return true;if(place==='cleveland')return artifact.startsWith('cma-');if(place==='unmapped')return !discoveryPlaces.some(p=>p.artifacts.includes(artifact));return [...discoveryPlaces,...attributedRegions].some(p=>p.id===place&&p.artifacts.includes(artifact));}

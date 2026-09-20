@@ -3,11 +3,20 @@ import hashlib,json,subprocess,sys
 from pathlib import Path
 root=Path(__file__).resolve().parents[1];out=root/'frontend/public/curated'
 rows=json.loads((out/'collection.json').read_text())
-assert len(rows)==51 and len({r['accession'] for r in rows})==51
-assert len({r['id'] for r in rows})==51
+assert len(rows)==80 and len({r['accession'] for r in rows})==80
+assert len({r['id'] for r in rows})==80
 assert {r['collection'] for r in rows}=={'Egyptian','Greek','Roman','Chinese','Assyrian','Indian','Maya'}
-assert sum(len(r['passages']) for r in rows)==58
+assert sum(len(r['passages']) for r in rows)==87
 for r in rows:
+ if r['id'].startswith('maya-'):
+  source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
+  assert hashlib.sha256(source.read_bytes()).hexdigest()==r['metadata_sha256']
+  assert r['text_license']==d['license']=='CC BY 4.0' and r['review']=='unreviewed'
+  assert not r['image'] and r['image_license']=='Not included'
+  assert r['passages'][0]['text']==d['text'] and d['text'] in d['source_context']
+  assert d['authors'] in r['institution'] and d['source_url']==r['source_url']
+  assert json.loads((out/f'{r["id"]}.json').read_text())==r
+  continue
  source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
  assert hashlib.sha256(source.read_bytes()).hexdigest()==r['metadata_sha256']
  assert d['accession_number']==r['accession'] and d['share_license_status']=='CC0'
@@ -25,4 +34,4 @@ assert json.loads((root/'backend/app/data/catalog/curated.json').read_text())==r
 before=(out/'collection.json').read_bytes()
 subprocess.run([sys.executable,str(root/'scripts/build_collection.py')],check=True)
 assert before==(out/'collection.json').read_bytes()
-print('PASS: 51 identities, 58 exact source entries, provenance/rights/image hashes, deterministic rebuild')
+print('PASS: 80 identities, 87 source entries, provenance/rights/image hashes, deterministic rebuild')

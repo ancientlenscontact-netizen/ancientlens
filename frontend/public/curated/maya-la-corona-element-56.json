@@ -1,0 +1,40 @@
+{
+  "id": "maya-la-corona-element-56",
+  "title": "La Corona Element 56",
+  "accession": "La Corona Element 56",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Sergei Vepretskii and Albert Davletshin — Research Note 22, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/3",
+  "metadata_url": "https://classicmayan.org/portal/doc/3",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "ecdf6711ad91f5d4155a1bec96b4ddb005a6438838ed01e867da55a7867d9c4d",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-la-corona-element-56-0",
+      "field": "Table 3, row 4; CHAK-ho-po-la-ja-KAMIS-si (La Corona Element 56: pE1-pF2) CHAK-HOP-ja-KAMIS-si (La Corona Element 33: D7)",
+      "text": "As for the red color, it is a centipede which is burning",
+      "source_text": "Chak Hoplaj Kamis",
+      "remark": "Short name excerpt. Attribution: Sergei Vepretskii and Albert Davletshin, Research Note 22."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-la-corona-element-56.json",
+  "record_url": "/curated/maya-la-corona-element-56.json",
+  "note": "Short name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

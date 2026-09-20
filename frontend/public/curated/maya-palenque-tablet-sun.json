@@ -1,0 +1,40 @@
+{
+  "id": "maya-palenque-tablet-sun",
+  "title": "Palenque Tablet of the Sun",
+  "accession": "Palenque Tablet of the Sun",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Elisabeth Wagner, Sven Gronemeyer and Christian Prager — Research Note 2, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/60",
+  "metadata_url": "https://classicmayan.org/portal/doc/60",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "3a9910fb3ae777db9e1cb77c107631ab8e7e11814d07a24519eaf113d20d330d",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-palenque-tablet-sun-0",
+      "field": "Sanctuary panel, nominal phrase following birth verb C1",
+      "text": "Radiant Torch Dreamer",
+      "source_text": "",
+      "remark": "Deity-name excerpt. Attribution: Elisabeth Wagner, Sven Gronemeyer and Christian Prager, Research Note 2."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-palenque-tablet-sun.json",
+  "record_url": "/curated/maya-palenque-tablet-sun.json",
+  "note": "Deity-name excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}

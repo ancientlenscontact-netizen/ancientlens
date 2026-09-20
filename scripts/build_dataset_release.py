@@ -5,7 +5,7 @@ from pathlib import Path
 import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '2026-09-20.1'
+VERSION = '2026-09-20.2'
 PUBLIC = ROOT / 'frontend/public'
 OUTPUT = PUBLIC / 'releases'
 
@@ -17,10 +17,10 @@ def encoded(data):
 
 def build():
     rows = json.loads((PUBLIC / 'curated/collection.json').read_text())
-    assert len(rows) == 51 and sum(len(r['passages']) for r in rows) == 58
+    assert len(rows) == 80 and sum(len(r['passages']) for r in rows) == 87
     assert len({r['id'] for r in rows}) == len(rows)
     fields = set(rows[0])
-    assert all(set(r) == fields and r['text_license'] == r['image_license'] == 'CC0' and r['review'] == 'unreviewed' for r in rows)
+    assert all(set(r) == fields and r['text_license'] in ('CC0','CC BY 4.0') and (r['image_license']=='CC0' if r['image'] else r['image_license']=='Not included') and r['review'] == 'unreviewed' for r in rows)
     allowed = {'id','title','accession','date','culture','collection','source_language','language','review','institution','source_url','metadata_url','retrieved_at','metadata_sha256','text_license','image_license','text_rights_url','image_rights_url','image','image_url','image_sha256','image_changes','text_changes','passages','source_snapshot','record_url','note','description'}
     assert fields == allowed, 'Explicitly review any schema expansion before publishing'
     properties = {k: {'type':'string'} for k in allowed - {'culture','passages'}}
@@ -31,6 +31,9 @@ def build():
     files = {'collection.json':encoded(rows),'schema.json':encoded(schema),'README.md':(ROOT/'docs/DATASET.md').read_bytes(),'LICENSES.md':(ROOT/'LICENSING.md').read_bytes()}
     for row in rows:
         for key, checksum in [('image','image_sha256'),('source_snapshot','metadata_sha256')]:
+            if key=='image' and not row[key]:
+                assert row['image_license']=='Not included' and not row[checksum]
+                continue
             name=row[key].lstrip('/')
             path=(PUBLIC/name).resolve()
             assert path.is_relative_to((PUBLIC/'curated').resolve()) if hasattr(path,'is_relative_to') else str(path).startswith(str(PUBLIC/'curated')+'/')
@@ -40,7 +43,7 @@ def build():
         name=row['record_url'].lstrip('/')
         assert name==f"curated/{row['id']}.json"
         files[name]=encoded(row)
-    manifest={'version':VERSION,'artifacts':len(rows),'translation_entries':sum(len(r['passages']) for r in rows),'scope':'Cleveland CC0 curated source collection only; no user or community records','files':{name:{'sha256':digest(data),'bytes':len(data)} for name,data in sorted(files.items())}}
+    manifest={'version':VERSION,'artifacts':len(rows),'translation_entries':sum(len(r['passages']) for r in rows),'scope':'Cleveland CC0 records and attributed ClassicMayan CC BY 4.0 excerpts; no user or community records','files':{name:{'sha256':digest(data),'bytes':len(data)} for name,data in sorted(files.items())}}
     files['manifest.json']=encoded(manifest)
     OUTPUT.mkdir(exist_ok=True)
     target=OUTPUT/f'ancientlens-dataset-{VERSION}.zip'

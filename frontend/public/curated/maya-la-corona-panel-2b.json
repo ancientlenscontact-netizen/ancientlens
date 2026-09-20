@@ -1,0 +1,40 @@
+{
+  "id": "maya-la-corona-panel-2b",
+  "title": "La Corona Panel 2b (K4677)",
+  "accession": "La Corona Panel 2b (K4677)",
+  "date": "Date not catalogued",
+  "culture": [
+    "Maya; Mesoamerica"
+  ],
+  "collection": "Maya",
+  "source_language": "Classic Mayan",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "Nikolai Grube — Research Note 32, Text Database and Dictionary of Classic Mayan",
+  "source_url": "https://classicmayan.org/portal/doc/242",
+  "metadata_url": "https://classicmayan.org/portal/doc/242",
+  "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
+  "metadata_sha256": "5f182d21d0902f0876d0603c748e4ed19a9654ba453569095bdab0c630438369",
+  "text_license": "CC BY 4.0",
+  "image_license": "Not included",
+  "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
+  "image_rights_url": "",
+  "image": "",
+  "image_url": "",
+  "image_sha256": "",
+  "image_changes": "No image included; illustration reuse rights not established for this record.",
+  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "passages": [
+    {
+      "id": "maya-la-corona-panel-2b-0",
+      "field": "Figure 6; pG5–pG6",
+      "text": "and then fire-dedicated is the tomb of",
+      "source_text": "",
+      "remark": "Dedicatory phrase excerpt. Attribution: Nikolai Grube, Research Note 32."
+    }
+  ],
+  "source_snapshot": "/curated/sources/maya-la-corona-panel-2b.json",
+  "record_url": "/curated/maya-la-corona-panel-2b.json",
+  "note": "Dedicatory phrase excerpt; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Exact findspot not established in this release. Image-to-text alignment is unavailable; no image included.",
+  "description": ""
+}
