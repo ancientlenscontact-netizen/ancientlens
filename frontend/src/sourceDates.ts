@@ -1,5 +1,6 @@
 // Museum-supplied date bounds from pinned source metadata; approximate ranges, not new dating.
 export const sourceDates:Record<string,[number,number]> = {
+  "cma-138393": [750,850],
   "cma-102365": [
     -1960,
     -1916

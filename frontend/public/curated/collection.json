@@ -2045,5 +2045,45 @@
     "record_url": "/curated/cma-111420.json",
     "note": "",
     "description": ""
+  },
+  {
+    "id": "cma-138393",
+    "title": "Panel with Royal Woman",
+    "accession": "1962.32",
+    "date": "c. 795",
+    "culture": [
+      "Guatemala or Mexico, Usumacinta River region, Maya style"
+    ],
+    "collection": "Maya",
+    "source_language": "Maya",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1962.32",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/138393",
+    "retrieved_at": "2026-09-20T04:11:14.737974+00:00",
+    "metadata_sha256": "0a38248ebcb33276b81355173ce81041e4c7d1f367a63feb46ae15ef162fdc60",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-138393.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1962.32/1962.32_web.jpg",
+    "image_sha256": "0e592962783f00bb9f3969848c08f9a9c8ecafe869bc2d2e574897117215b7a3",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-138393-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "K’in Lakam Chahk and Jun Nat Omootz",
+        "source_text": "",
+        "remark": "Sculptors signature"
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-138393.json",
+    "record_url": "/curated/cma-138393.json",
+    "note": "Mesoamerica. Short name reading only: the museum field identifies two sculptors; it is not a full translation of the panel. Broad attribution to the Usumacinta River region (Guatemala or Mexico); exact findspot is unknown. Image-to-text alignment is unverified.",
+    "description": "In this panel, probably from a palace interior, the woman’s static posture contrasts with the liveliness of the creature she holds, a god of royalty with a serpent leg and a grotesque head with a smoking torch on its brow. (The same deity is shown in the nearby Eccentric Flint.) Other signs of high rank are her jade jewelry and costume, its beauty suggesting that textiles and featherwork were great Maya arts, now lost to a tropical climate. The hieroglyphics refer to an undefined ritual that the woman completed in 795."
   }
 ]

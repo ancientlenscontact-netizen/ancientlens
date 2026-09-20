@@ -3,10 +3,10 @@ import hashlib,json,subprocess,sys
 from pathlib import Path
 root=Path(__file__).resolve().parents[1];out=root/'frontend/public/curated'
 rows=json.loads((out/'collection.json').read_text())
-assert len(rows)==50 and len({r['accession'] for r in rows})==50
-assert len({r['id'] for r in rows})==50
-assert {r['collection'] for r in rows}=={'Egyptian','Greek','Roman','Chinese','Assyrian','Indian'}
-assert sum(len(r['passages']) for r in rows)==57
+assert len(rows)==51 and len({r['accession'] for r in rows})==51
+assert len({r['id'] for r in rows})==51
+assert {r['collection'] for r in rows}=={'Egyptian','Greek','Roman','Chinese','Assyrian','Indian','Maya'}
+assert sum(len(r['passages']) for r in rows)==58
 for r in rows:
  source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
  assert hashlib.sha256(source.read_bytes()).hexdigest()==r['metadata_sha256']
@@ -25,4 +25,4 @@ assert json.loads((root/'backend/app/data/catalog/curated.json').read_text())==r
 before=(out/'collection.json').read_bytes()
 subprocess.run([sys.executable,str(root/'scripts/build_collection.py')],check=True)
 assert before==(out/'collection.json').read_bytes()
-print('PASS: 50 identities, 57 exact translations, provenance/rights/image hashes, deterministic rebuild')
+print('PASS: 51 identities, 58 exact source entries, provenance/rights/image hashes, deterministic rebuild')

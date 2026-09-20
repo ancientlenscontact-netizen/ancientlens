@@ -1,10 +1,10 @@
-# AncientLens curated dataset — 2026-09-19.1
+# AncientLens curated dataset — 2026-09-20.1
 
-50 distinct Cleveland Museum of Art objects;57 English source translation entries. Sources are museum-designated CC0 records/images. This is a curated source collection, not community usage, a complete translation of every photographed surface, or scholarly ground truth. All AncientLens reviews are unreviewed. Some entries are short names or coin legends. No accounts, credentials, private notes, reports or community submissions are included.
+51 distinct Cleveland Museum of Art objects;58 English source translation entries. Sources are museum-designated CC0 records/images. This is a curated source collection, not community usage, a complete translation of every photographed surface, or scholarly ground truth. All AncientLens reviews are unreviewed. Some entries are short names or coin legends. No accounts, credentials, private notes, reports or community submissions are included.
 
 ## Contents
 
-- collection.json: complete array of50 artifact objects
+- collection.json: complete array of51 artifact objects
 - schema.json: JSON Schema2020-12 for that array
 - curated/cma-ID.jpg: original museum web JPEG
 - curated/cma-ID.json: individual object record
@@ -27,3 +27,5 @@ institution, source_url, metadata_url, retrieved_at and metadata_sha256 preserve
 Cleveland source text, metadata and images retain CC0. Credit/provenance are requested for traceability; do not imply museum endorsement. AncientLens-authored documentation/software uses MIT, not a blanket claim of ownership over the collection. Community CC BY-SA translations are a separate scope and excluded here.
 
 Version2026-09-19.1 is the initial downloadable release. Future releases preserve object/passage identities and publish a new immutable version; corrections do not silently replace historical ZIPs. Check the adjacent .sha256 file after downloading. Rebuild with python3 scripts/build_dataset_release.py; validate source fidelity with python3 scripts/check_collection.py.
+
+Version2026-09-20.1 adds one Maya panel with a short sculptor-name source entry; it does not add30 full translations. Prior ZIP2026-09-19.1 remains immutable.

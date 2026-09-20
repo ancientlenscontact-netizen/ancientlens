@@ -348,5 +348,12 @@
     "source_language": "Greek",
     "retrieved_at": "2026-09-19T13:32:25.394565+00:00",
     "note": ""
+  },
+  {
+    "id": 138393,
+    "collection": "Maya",
+    "source_language": "Maya",
+    "retrieved_at": "2026-09-20T04:11:14.737974+00:00",
+    "note": "Mesoamerica. Short name reading only: the museum field identifies two sculptors; it is not a full translation of the panel. Broad attribution to the Usumacinta River region (Guatemala or Mexico); exact findspot is unknown. Image-to-text alignment is unverified."
   }
 ]

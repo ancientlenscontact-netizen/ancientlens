@@ -5,7 +5,7 @@ from pathlib import Path
 import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '2026-09-19.1'
+VERSION = '2026-09-20.1'
 PUBLIC = ROOT / 'frontend/public'
 OUTPUT = PUBLIC / 'releases'
 
@@ -17,7 +17,7 @@ def encoded(data):
 
 def build():
     rows = json.loads((PUBLIC / 'curated/collection.json').read_text())
-    assert len(rows) == 50 and sum(len(r['passages']) for r in rows) == 57
+    assert len(rows) == 51 and sum(len(r['passages']) for r in rows) == 58
     assert len({r['id'] for r in rows}) == len(rows)
     fields = set(rows[0])
     assert all(set(r) == fields and r['text_license'] == r['image_license'] == 'CC0' and r['review'] == 'unreviewed' for r in rows)

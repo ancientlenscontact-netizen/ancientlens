@@ -61,7 +61,7 @@ def test_curated_passages_and_moderation_unchanged(clients):
     a,b,path=clients
     initialize(path)
     passages=a.get('/api/catalog/passages').json()
-    assert len([p for p in passages if p['id'].startswith('cma-')])==57
+    assert len([p for p in passages if p['id'].startswith('cma-')])==58
     data=draft();data['passage_id']='cma-102365-0'
     result=a.post('/api/contributions',json=data)
     assert result.status_code==201 and result.json()['review_status']=='unreviewed'
@@ -69,4 +69,4 @@ def test_curated_passages_and_moderation_unchanged(clients):
     assert a.get('/api/contributions?passage_id=cma-102365-0').json()[0]['moderation_status']=='pending'
     with connect(path) as db:
         assert db.execute('PRAGMA foreign_key_check').fetchall()==[]
-        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==50
+        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==51

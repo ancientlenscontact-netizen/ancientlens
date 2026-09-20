@@ -1,0 +1,11 @@
+# Americas first release — 2026-09-20
+
+Published one new Maya artifact: Panel with Royal Woman, Cleveland 1962.32 (138393), c.795. Museum source: https://www.clevelandart.org/art/1962.32. Exact explicit source reading: “K’in Lakam Chahk and Jun Nat Omootz”; museum remark “Sculptors signature”. This is two names, not a full panel translation. Individual translator unidentified; AncientLens review unreviewed and image alignment unverified. Description remains separate from reading. CC0 snapshot, image and checksums preserved.
+
+The acquired 1033×893 JPEG was inspected at native resolution: frontal limestone panel, central figure and glyph columns, neutral background, missing upper-right corner, worn/pitted glyph areas especially lower left. Suitable for browsing; no glyph identification, alignment, linguistic annotation or accuracy score inferred. Existing research corpus remains unchanged.
+
+Map adds World/Americas views and a separate Attributed regions layer. One dashed regional marker uses the museum's Guatemala/Mexico, Usumacinta attribution. Its 17N/91W coordinate is an editorial overview anchor, never an excavation coordinate. Exact findspot unknown. Four existing findspot associations remain;47 records lack findspots. Museum layer includes51. View selection changes viewport, not filtering; marker/location selection filters results. No South American artifacts included yet. Period filter now includes601–1500CE.
+
+Validation: deterministic source/rights/image checker51 objects/58 exact entries; frontend TypeScript/Vite build;15 targeted library, pilot and contribution tests. Local desktop marker-to-record and390px mobile Americas layout checked without horizontal overflow. Live HTTPS JSON/source text, new bundle and dataset ZIP checksum verified; browser refreshed to the new Maya reader. Additive production seed verified65 reference entries (58 curated+7 Unas), unchanged pre-existing rows and all non-seed table fingerprints, valid foreign keys. No schema migration or production QA submissions.
+
+Dataset release2026-09-20.1 adds one artifact, preserving immutable2026-09-19.1 files. The30-record Americas target remains unfulfilled: see AMERICAS_SOURCE_REVIEW.md for source/access/reuse constraints. No outreach, purchases or bulk acquisition. This release is not independent scholarly review.
