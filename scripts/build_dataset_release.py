@@ -5,7 +5,7 @@ from pathlib import Path
 import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '2026-09-20.3'
+VERSION = '2026-09-20.4'
 PUBLIC = ROOT / 'frontend/public'
 OUTPUT = PUBLIC / 'releases'
 
@@ -30,7 +30,9 @@ def build():
     schema = {'$schema':'https://json-schema.org/draft/2020-12/schema','$id':f'https://ancientlens.org/releases/schema-{VERSION}.json','title':'AncientLens curated collection','type':'array','items':{'type':'object','additionalProperties':False,'required':sorted(allowed),'properties':properties}}
     files = {'collection.json':encoded(rows),'schema.json':encoded(schema),'README.md':(ROOT/'docs/DATASET.md').read_bytes(),'LICENSES.md':(ROOT/'LICENSING.md').read_bytes()}
     selection=json.loads((PUBLIC/'curated/pilot-selection.json').read_text())
-    assert all(any(r['id']==item['id'] and r['image'] for r in rows) for item in selection['selected'])
+    assert len({item['id'] for item in selection['selected']})==len(selection['selected']), 'Duplicate pilot identity'
+    assert all(item['area'] in selection['areas'] for item in selection['selected'])
+    assert all(any(r['id']==item['id'] and r['image'] and r['metadata_sha256']==item.get('source_sha256',r['metadata_sha256']) and r['image_sha256']==item.get('image_sha256',r['image_sha256']) for r in rows) for item in selection['selected']), 'Pilot evidence missing or stale'
     assert all(sum(x['area']==area for x in selection['selected'])<=selection['target_per_area'] for area in selection['areas'])
     files['curated/pilot-selection.json']=encoded(selection)
     for row in rows:

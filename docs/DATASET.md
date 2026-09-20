@@ -1,4 +1,4 @@
-# AncientLens curated dataset — 2026-09-20.3
+# AncientLens curated dataset — 2026-09-20.4
 
 80 distinct objects/documents,88 English source entries:51 Cleveland objects/58entries and29 Maya research-source records. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
 
@@ -23,3 +23,5 @@ Paths beginning /curated resolve relative to the website; remove the leading sla
 2026-09-19.1:50 Cleveland objects/57entries. 2026-09-20.1:51/58, adding the Maya panel. 2026-09-20.2:80/87 with29 attributed research excerpts. Prior ZIPs remain immutable. Community CC BY-SA acceptance is a separate workflow and unchanged.
 
 2026-09-20.3: three drawings, one additional published front passage,88entries. Previous ZIPs immutable.
+
+2026-09-20.4: selection expands to9 existing records (5 China,1 SouthAsia,3 Mesoamerica); no artifact/translation/image changes. Selection evidence and image limitations included. The20-per-area target remains unfinished.
