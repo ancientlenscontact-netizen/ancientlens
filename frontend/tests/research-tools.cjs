@@ -17,7 +17,7 @@ for(const object of collection){
  const html=lessonHtml(object,object.image?image:'');
  for(const passage of object.passages)assert.ok(html.includes(escape(passage.text)));
  assert.ok(html.includes('scholarly review: unreviewed'));
- if(object.image){assert.ok(html.includes('CC0 photograph'));assert.ok(html.includes(image));}
+ if(object.image){assert.ok(html.includes(object.image_license+' image'));assert.ok(html.includes(image));}
  else {assert.ok(!html.includes('<img'));assert.ok(html.includes('CC BY 4.0'));assert.ok(html.includes(escape(object.institution)));}
  assert.ok(!html.includes('<script'));
 }

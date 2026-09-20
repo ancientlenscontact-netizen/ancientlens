@@ -24,3 +24,5 @@ main{max-width:1440px;padding:0 5%}.global-header{background:#fcfcfaf5;backdrop-
 #artifact-title,#contribution-title,.curated-passage h3{scroll-margin-top:110px}@media(max-width:650px){#artifact-title,#contribution-title,.curated-passage h3{scroll-margin-top:190px}}
 
 .text-artifact-preview{display:flex;flex-direction:column;justify-content:center;gap:20px;min-height:260px;height:100%;padding:30px;color:#213f36;background:#eee9dc;box-sizing:border-box}.text-artifact-preview small{font:11px/1.5 system-ui,sans-serif;letter-spacing:.08em}.text-artifact-preview blockquote{font:clamp(18px,2vw,25px)/1.4 Georgia,serif;margin:0;overflow-wrap:anywhere}.artifact-card .text-artifact-preview blockquote{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}.curated-artifact .text-artifact-preview{height:auto;min-height:340px}.artifact-photo>.text-artifact-preview{width:100%}
+
+.image-credit{display:block;font:11px/1.4 system-ui,sans-serif;padding:8px;background:#fff;color:#35443e}.artifact-photo:has(.image-credit){height:auto}.artifact-photo:has(.image-credit) img{height:260px;object-fit:contain}

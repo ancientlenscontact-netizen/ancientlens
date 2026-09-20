@@ -1,0 +1,32 @@
+{
+  "target_per_area": 20,
+  "kind": "Source-coverage selection; not scholarly validation",
+  "areas": [
+    "Egypt",
+    "Mediterranean",
+    "Mesoamerica",
+    "Mesopotamia",
+    "China",
+    "South Asia"
+  ],
+  "selected": [
+    {
+      "id": "maya-copan-stela-64",
+      "area": "Mesoamerica",
+      "coverage": "Complete published rendering of the surviving legible inscription; fragmentary with unresolved gaps",
+      "evidence_url": "https://classicmayan.org/portal/doc/241"
+    },
+    {
+      "id": "maya-ccit-vaso-8",
+      "area": "Mesoamerica",
+      "coverage": "Complete published rendering of the surviving legible inscription; fragmentary with unresolved gaps",
+      "evidence_url": "https://classicmayan.org/portal/doc/84"
+    },
+    {
+      "id": "maya-ccit-pntf-192",
+      "area": "Mesoamerica",
+      "coverage": "Complete published rendering of the surviving legible inscription; fragmentary with unresolved gaps",
+      "evidence_url": "https://classicmayan.org/portal/doc/84"
+    }
+  ]
+}

@@ -33,7 +33,12 @@ def build():
   d=json.loads(evidence.read_text())
   assert record['metadata_sha256']==sha(evidence) and record['text_license']=='CC BY 4.0'
   assert record['passages'][0]['text']==d['text'] and d['text'] in d['source_context']
-  assert record['review']=='unreviewed' and not record['image']
+  assert record['review']=='unreviewed'
+  if record['image']:
+   assert record['image_license']=='CC BY 4.0' and sha(ROOT/'frontend/public'/record['image'].lstrip('/'))==record['image_sha256']
+   assert d['image_evidence']['url']==record['image_url']
+  for passage in record['passages'][1:]:
+   assert any(passage['text']==e['text'] and passage['text'] in e['source_context'] for e in d['additional_passages'])
   (out/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,indent=2)+'\n')
   records.append(record)
  (out/'collection.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')

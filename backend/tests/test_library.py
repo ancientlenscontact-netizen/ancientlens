@@ -81,7 +81,7 @@ def test_maya_licensed_reference_and_private_note_survive_reseed(clients):
     assert a.get('/api/library/'+ident).json()['notes']=='Private Maya reading note'
     assert b.get('/api/library/'+ident).json()['notes']==''
     with connect(path) as db:
-        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'maya-%'").fetchone()[0]==29
+        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'maya-%'").fetchone()[0]==30
         source=db.execute('SELECT * FROM sources WHERE id=?',(ident+'-source',)).fetchone()
         assert 'Guido Krempel' in source[1] and 'CC BY 4.0' in source[4]
         monument=db.execute('SELECT * FROM monuments WHERE id=?',(ident,)).fetchone()

@@ -14,27 +14,27 @@
   "source_url": "https://classicmayan.org/portal/doc/84",
   "metadata_url": "https://classicmayan.org/portal/doc/84",
   "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
-  "metadata_sha256": "28685db05394553bd3d9714f0d28d1c6e7f127bdc37bb589f5345c78888c02fb",
+  "metadata_sha256": "813f56c9ff1d7f7d6682b48cf537c922565373a311549654b7283764ef16b21b",
   "text_license": "CC BY 4.0",
-  "image_license": "Not included",
+  "image_license": "CC BY 4.0",
   "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
-  "image_rights_url": "",
-  "image": "",
-  "image_url": "",
-  "image_sha256": "",
-  "image_changes": "No image included; illustration reuse rights not established for this record.",
-  "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+  "image_rights_url": "https://classicmayan.org/portal/doc/84",
+  "image": "/curated/maya-ccit-pntf-192.jpg",
+  "image_url": "https://classicmayan.org/portal/editor/uploads/1044_263_10371_rn_23_figure-10_panela-tikal-bodega-vessel_yanab-kalomte_draw_gk2020-scaled_scaled.jpg",
+  "image_sha256": "9818525efebae9e4442ae50bbcf2b663a193d86be2da511f8e5bbf7ad9f07e76",
+  "image_changes": "Scholarly drawing by Guido Krempel (2020), Figure 10, Research Note 23. CC BY 4.0; publisher web image reproduced without changes. This is a drawing, not a photograph.",
+  "text_changes": "HTML markup removed and whitespace collapsed; original translation wording and uncertainty preserved. Drawing separately credited.",
   "passages": [
     {
       "id": "maya-ccit-pntf-192-0",
       "field": "A fragmented Zacatel Cream-polychrome: Panela Variety vessel; dedicatory text",
       "text": "Here is presented the decoration of the drinking vessel for atole […], Aj? Tzil, the servant?/auxiliary? of the kaloomte’",
       "source_text": "",
-      "remark": "Fragmentary dedicatory passage. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+      "remark": "Published dedicatory rendering, with source uncertainties and missing passages retained. Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan"
     }
   ],
   "source_snapshot": "/curated/sources/maya-ccit-pntf-192.json",
   "record_url": "/curated/maya-ccit-pntf-192.json",
-  "note": "Fragmentary dedicatory passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; reported Uaxactun-area looting is not secure findspot evidence. Held at CCIT, Tikal according to source. Image-to-text alignment is unavailable; no image included.",
+  "note": "Published edition of the surviving dedicatory inscription; damaged text and proposed reconstructions remain marked. The source edition addresses the sixteen positions of the fragmentary dedicatory text; missing body fragments and lost name/title portions remain unresolved. AncientLens review remains unreviewed. The drawing is an interpretive representation; alignment is unverified. Source attributes the vessel to Xultun workshops; actual findspot unknown. Held at CCIT, Tikal according to the publication.",
   "description": ""
 }

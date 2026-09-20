@@ -1,6 +1,6 @@
-# AncientLens curated dataset — 2026-09-20.2
+# AncientLens curated dataset — 2026-09-20.3
 
-80 distinct objects/documents,87 English source entries:51 Cleveland objects/58entries and29 Maya research-excerpt records. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
+80 distinct objects/documents,88 English source entries:51 Cleveland objects/58entries and29 Maya research-source records. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
 
 ## Contents and identifiers
 
@@ -12,6 +12,8 @@ Cleveland records retain exact museum wording and CC0 photographs. New research 
 
 text_license and text_rights_url must be read per record. Cleveland materials are CC0; ClassicMayan excerpts are CC BY4.0 with required attribution to the authors/publication in institution and source_url. institution is source credit, not a universal holding-museum field. Preserve text_changes and coverage in note. See LICENSES.md. Do not label this mixed collection wholly CC0. No endorsement or independent scholarly review is implied.
 
+Three Maya research records now include credited scholarly drawings;26 remain text-only. Copan Stela64 now includes both published front/reverse renderings with lacunae retained. The other two illustrated editions are CCIT Vaso8 and PNTF192. All three are fragmentary, not complete recovered ancient documents. curated/pilot-selection.json records this first source-coverage selection toward20perarea; it is not scholarly validation.
+
 Empty image, image_url, image_sha256 and image_rights_url with image_license=Not included mean that no image is supplied or licensed by this release. The UI offers a textual preview, not a photograph. Do not treat it as archaeological imagery. For records with photographs, image_sha256 verifies the original bytes. metadata_sha256 verifies the local source_snapshot; research evidence additionally records the retrieved HTML hash and exact excerpt context. Source snapshots are evidence, not ancient documents.
 
 Paths beginning /curated resolve relative to the website; remove the leading slash inside the ZIP. Decode UTF-8. manifest.json lists byte lengths and SHA256 checksums. Separate release .sha256 verifies the archive. Build with scripts/build_dataset_release.py; check fidelity with scripts/check_collection.py.
@@ -19,3 +21,5 @@ Paths beginning /curated resolve relative to the website; remove the leading sla
 ## Release history
 
 2026-09-19.1:50 Cleveland objects/57entries. 2026-09-20.1:51/58, adding the Maya panel. 2026-09-20.2:80/87 with29 attributed research excerpts. Prior ZIPs remain immutable. Community CC BY-SA acceptance is a separate workflow and unchanged.
+
+2026-09-20.3: three drawings, one additional published front passage,88entries. Previous ZIPs immutable.

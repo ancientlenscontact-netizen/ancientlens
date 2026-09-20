@@ -2823,16 +2823,16 @@ export const collection = [
     "source_url": "https://classicmayan.org/portal/doc/241",
     "metadata_url": "https://classicmayan.org/portal/doc/241",
     "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
-    "metadata_sha256": "1f1415ff292e0b7b7c276d481879d862188c1d47da0284d6301546e35d140ce9",
+    "metadata_sha256": "2b2e003bad0c7691b3990b04cfa0d717628c9a545518fdb7f6c7d2951369e628",
     "text_license": "CC BY 4.0",
-    "image_license": "Not included",
+    "image_license": "CC BY 4.0",
     "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
-    "image_rights_url": "",
-    "image": "",
-    "image_url": "",
-    "image_sha256": "",
-    "image_changes": "No image included; illustration reuse rights not established for this record.",
-    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "image_rights_url": "https://classicmayan.org/portal/doc/241",
+    "image": "/curated/maya-copan-stela-64.jpg",
+    "image_url": "https://classicmayan.org/portal/editor/uploads/1231_copan_stela_64_back_drawing_cp.jpg",
+    "image_sha256": "291fd9bda2d9abaa7eae51f20fad17de3e549f60a1620b4c8df786eee69561ac",
+    "image_changes": "Scholarly drawing of the reverse by Christian M. Prager (2024), Figure 3, Research Note 31. CC BY 4.0; reproduced without changes. This is a drawing, not a photograph.",
+    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. Reverse excerpt retained; front rendering added from Table 1.",
     "passages": [
       {
         "id": "maya-copan-stela-64-0",
@@ -2840,11 +2840,18 @@ export const collection = [
         "text": "[...] *Uh Chan Ahk (Ruler 6), divine(?) king of Copan [...] the Maguey-Stone-Place [...] said it, K'altuunhix (Ruler 4), of the Río Azúl dynasty [...]",
         "source_text": "",
         "remark": "Fragmentary passage. Attribution: Christian M. Prager, Elisabeth Wagner and Seiichi Nakamura, Research Note 31."
+      },
+      {
+        "id": "maya-copan-stela-64-1",
+        "field": "Research Note 31, Table 1, front",
+        "text": "The patron of the month Zec is Chan, on the day 9.1.10.0.*0 [...]",
+        "source_text": "",
+        "remark": "Front: published English rendering, including reconstructed date and missing text. Authors: Christian M. Prager, Elisabeth Wagner and Seiichi Nakamura (2024). No reading is supplied for illegible portions."
       }
     ],
     "source_snapshot": "/curated/sources/maya-copan-stela-64.json",
     "record_url": "/curated/maya-copan-stela-64.json",
-    "note": "Fragmentary passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Source documents discovery at Copan, Honduras; no exact excavation pin supplied here. Image-to-text alignment is unavailable; no image included.",
+    "note": "Published front and reverse translations from Table 1, with missing, illegible and reconstructed passages explicitly retained. The monument is fragmentary: this is not a complete recoverable original text. AncientLens scholarly review remains unreviewed. The drawing depicts the reverse only; exact image-to-text alignment is unverified. Found reused in construction at Copan, Honduras; original installation unknown.",
     "description": ""
   },
   {
@@ -2903,28 +2910,28 @@ export const collection = [
     "source_url": "https://classicmayan.org/portal/doc/84",
     "metadata_url": "https://classicmayan.org/portal/doc/84",
     "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
-    "metadata_sha256": "8f8a34b976ec7ce013d9e0ea98ece8d2b67180253c9daafdd55c9219de57c8bc",
+    "metadata_sha256": "f2832de623a2160a4cb68c2a9c281a3adf9cf9c8e476df085a4ddbf659de1160",
     "text_license": "CC BY 4.0",
-    "image_license": "Not included",
+    "image_license": "CC BY 4.0",
     "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
-    "image_rights_url": "",
-    "image": "",
-    "image_url": "",
-    "image_sha256": "",
-    "image_changes": "No image included; illustration reuse rights not established for this record.",
-    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "image_rights_url": "https://classicmayan.org/portal/doc/84",
+    "image": "/curated/maya-ccit-vaso-8.jpg",
+    "image_url": "https://classicmayan.org/portal/editor/uploads/1037_254_10371_rn_23_figure-3_yax-ween-tikal-bodega-vessel_draw_gk2019_low_jpg-scaled_scaled.jpg",
+    "image_sha256": "b47e997de233806c92388a787980b6b092a3172129d67ff5f86aaa37185681fb",
+    "image_changes": "Scholarly drawing by Guido Krempel (2019), Figure 3, Research Note 23. CC BY 4.0; publisher web image reproduced without changes. This is a drawing, not a photograph.",
+    "text_changes": "HTML markup removed and whitespace collapsed; original translation wording and uncertainty preserved. Drawing separately credited.",
     "passages": [
       {
         "id": "maya-ccit-vaso-8-0",
         "field": "A cylindrical vessel mentioning Ix Yax We’n Chaak; dedicatory text",
         "text": "It got sanctified? (it got raised?) the painted drinking cup for fruity cocoa (of) yo?[…] […] Ix Yax We’n Chaak, sovereign of Baax Witz, chief of the land",
         "source_text": "",
-        "remark": "Damaged dedicatory passage with proposed reconstructions. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+        "remark": "Published dedicatory rendering, with source uncertainties and missing passages retained. Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan"
       }
     ],
     "source_snapshot": "/curated/sources/maya-ccit-vaso-8.json",
     "record_url": "/curated/maya-ccit-vaso-8.json",
-    "note": "Damaged dedicatory passage with proposed reconstructions; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; original findspot unknown. Source places the vessel in CCIT, Tikal. Image-to-text alignment is unavailable; no image included.",
+    "note": "Published edition of the surviving dedicatory inscription; damaged text and proposed reconstructions remain marked. All twelve positions of the published dedicatory inscription are covered by the source edition; badly abraded and missing positions remain unresolved. AncientLens review remains unreviewed. The drawing is an interpretive representation; alignment is unverified. Source attributes the vessel to Xultun workshops; actual findspot unknown. Held at CCIT, Tikal according to the publication.",
     "description": ""
   },
   {
@@ -2943,28 +2950,28 @@ export const collection = [
     "source_url": "https://classicmayan.org/portal/doc/84",
     "metadata_url": "https://classicmayan.org/portal/doc/84",
     "retrieved_at": "2026-09-20T04:30:27.297042+00:00",
-    "metadata_sha256": "28685db05394553bd3d9714f0d28d1c6e7f127bdc37bb589f5345c78888c02fb",
+    "metadata_sha256": "813f56c9ff1d7f7d6682b48cf537c922565373a311549654b7283764ef16b21b",
     "text_license": "CC BY 4.0",
-    "image_license": "Not included",
+    "image_license": "CC BY 4.0",
     "text_rights_url": "https://creativecommons.org/licenses/by/4.0/",
-    "image_rights_url": "",
-    "image": "",
-    "image_url": "",
-    "image_sha256": "",
-    "image_changes": "No image included; illustration reuse rights not established for this record.",
-    "text_changes": "HTML markup removed and whitespace collapsed; wording and uncertainty preserved. No illustrations copied.",
+    "image_rights_url": "https://classicmayan.org/portal/doc/84",
+    "image": "/curated/maya-ccit-pntf-192.jpg",
+    "image_url": "https://classicmayan.org/portal/editor/uploads/1044_263_10371_rn_23_figure-10_panela-tikal-bodega-vessel_yanab-kalomte_draw_gk2020-scaled_scaled.jpg",
+    "image_sha256": "9818525efebae9e4442ae50bbcf2b663a193d86be2da511f8e5bbf7ad9f07e76",
+    "image_changes": "Scholarly drawing by Guido Krempel (2020), Figure 10, Research Note 23. CC BY 4.0; publisher web image reproduced without changes. This is a drawing, not a photograph.",
+    "text_changes": "HTML markup removed and whitespace collapsed; original translation wording and uncertainty preserved. Drawing separately credited.",
     "passages": [
       {
         "id": "maya-ccit-pntf-192-0",
         "field": "A fragmented Zacatel Cream-polychrome: Panela Variety vessel; dedicatory text",
         "text": "Here is presented the decoration of the drinking vessel for atole […], Aj? Tzil, the servant?/auxiliary? of the kaloomte’",
         "source_text": "",
-        "remark": "Fragmentary dedicatory passage. Attribution: Guido Krempel, Sebastián Matteo and Dmitri Beliaev, Research Note 23."
+        "remark": "Published dedicatory rendering, with source uncertainties and missing passages retained. Guido Krempel, Sebastián Matteo and Dmitri Beliaev — Research Note 23, Text Database and Dictionary of Classic Mayan"
       }
     ],
     "source_snapshot": "/curated/sources/maya-ccit-pntf-192.json",
     "record_url": "/curated/maya-ccit-pntf-192.json",
-    "note": "Fragmentary dedicatory passage; not a full translation of the object/document. Published interpretation, unreviewed by AncientLens. Question marks, gaps and alternative readings are retained. Attributed to Xultun workshops; reported Uaxactun-area looting is not secure findspot evidence. Held at CCIT, Tikal according to source. Image-to-text alignment is unavailable; no image included.",
+    "note": "Published edition of the surviving dedicatory inscription; damaged text and proposed reconstructions remain marked. The source edition addresses the sixteen positions of the fragmentary dedicatory text; missing body fragments and lost name/title portions remain unresolved. AncientLens review remains unreviewed. The drawing is an interpretive representation; alignment is unverified. Source attributes the vessel to Xultun workshops; actual findspot unknown. Held at CCIT, Tikal according to the publication.",
     "description": ""
   },
   {
