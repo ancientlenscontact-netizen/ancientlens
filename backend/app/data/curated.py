@@ -8,7 +8,7 @@ def seed(db):
         for r in records:
             sid=r['id']+'-source'
             db.execute('INSERT OR IGNORE INTO sources VALUES (?,?,?,?,?)',(sid,r['institution']+' — '+r['title'],r['source_url'],r['retrieved_at'][:10],r['text_license']+' published source; AncientLens unreviewed'))
-            db.execute('INSERT OR IGNORE INTO monuments VALUES (?,?,?,?,?)',(r['id'],r['title'],'Cleveland Museum of Art (collection)' if r['id'].startswith('cma-') else 'See published source; findspot unverified','United States (collection)' if r['id'].startswith('cma-') else 'Mesoamerica (cultural region)',sid))
+            db.execute('INSERT OR IGNORE INTO monuments VALUES (?,?,?,?,?)',(r['id'],r['title'],'Cleveland Museum of Art (collection)' if r['id'].startswith('cma-') else 'Walters Art Museum (collection)' if r['id'].startswith('walters-') else 'See published source; findspot unverified','United States (collection)' if r['id'].startswith(('cma-','walters-')) else 'Mesoamerica (cultural region)',sid))
             db.execute('INSERT OR IGNORE INTO curated_artifacts VALUES (?,?)',(r['id'],r['title']))
             for n,p in enumerate(r['passages']):
                 db.execute('INSERT OR IGNORE INTO passage_records VALUES (?,?,?,?,?,NULL,NULL,?,?)',

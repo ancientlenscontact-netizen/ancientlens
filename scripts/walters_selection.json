@@ -1,0 +1,82 @@
+[
+  {
+    "id": "walters-41-28",
+    "title": "Jubilee Vessel of Pepi I",
+    "accession": "41.28",
+    "date": "ca. 2290 BCE (Old Kingdom, 6th Dynasty)",
+    "culture": [
+      "Egypt"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Egyptian",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/41.28/",
+    "metadata_url": "https://art.thewalters.org/object/41.28/",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "79047537a6e8d1d165e81a47d63637aa025aba670abb665e1a655aedf7267bd9",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image": "/curated/walters-41-28.jpg",
+    "image_url": "https://art.thewalters.org/images/art/PS1_41.28_Fnt_DD_T08.jpg",
+    "image_sha256": "ed449454ed3d53f42202c607ddcd848a8043181aca66451d341ec9e90113665a",
+    "image_changes": "None; museum JPEG reproduced unchanged. The Walters Art Museum, CC0.",
+    "text_changes": "Museum inscription field separated into translation, transcription and alternative rendering; wording preserved, HTML whitespace normalized. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-41-28-0",
+        "field": "Inscription: Translation",
+        "text": "The Horus, Mery-tawy (Beloved of the Two Lands); King of Upper and Lower Egypt, Mery-re (Beloved of Re); First occasion of the Sed-festival; Given life and dominion forever, given life and dominion forever",
+        "source_text": "",
+        "remark": "Alternative museum rendering of the same inscription: Right column: \"First of the Sed Festival\" Middle column: \"King of Upper and Lower Egypt\", Mery-Ra Left column: \"Horus name=Mery-tawy\"; Horizontally \" Given life and happiness forever\" (this twice)"
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-41-28.json",
+    "record_url": "/curated/walters-41-28.json",
+    "note": "The museum inscription field renders all three labelled columns and the repeated horizontal blessing. Its second rendering is preserved as an alternative, not counted as another inscription. AncientLens scholarly review: unreviewed. Egypt, Saqqara (Place of Origin); Egypt (Place of Discovery). Ownership history: Dikran Kelekian, Paris and New York, [date and mode of acquisition unknown]; Henry Walters, Baltimore, 1914, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-26-2",
+    "title": "Funerary Stele of Aurelia Artemis",
+    "accession": "26.2",
+    "date": "3rd–4th century CE (Late Antique)",
+    "culture": [
+      "Egypt"
+    ],
+    "collection": "Egyptian",
+    "source_language": "Greek",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/26.2/",
+    "metadata_url": "https://art.thewalters.org/object/26.2/",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "f8044680bd2fd9bf1fed2682197e0a95cd84bf0247fa8dd725dfaacd19f55df5",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image": "/curated/walters-26-2.jpg",
+    "image_url": "https://art.thewalters.org/images/art/PL9_26.2_Fnt_SL_C80.jpg",
+    "image_sha256": "fcfc14da51bee7aeaafeccb8255419a8e7f89a46229a5673a70539ca16a52471",
+    "image_changes": "None; museum JPEG reproduced unchanged. The Walters Art Museum, CC0.",
+    "text_changes": "Museum inscription field separated into translation, transcription and alternative rendering; wording preserved, HTML whitespace normalized. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-26-2-0",
+        "field": "Inscription: Translation",
+        "text": "Farewell Aurelia Artemis, Pasion’s daughter, incomparably sweetest among all.",
+        "source_text": "Αὐρηλίαν Ἄρτεμειν θυγατέρα Πασίωνος τὴν γλυκυτάτην ἀσύνκριτον ἐν πᾶσι· εὐψύχι",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-26-2.json",
+    "record_url": "/curated/walters-26-2.json",
+    "note": "The museum supplies the Greek epitaph and its corresponding English rendering; the photograph shows the four-line epitaph below the figure. Egyptian geography, Greek language; no separate Mediterranean count. AncientLens scholarly review: unreviewed. Egypt, Akhmim (Place of Discovery). Ownership history: Dikran Kelekian, New York and Paris, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  }
+]

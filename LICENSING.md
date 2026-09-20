@@ -21,3 +21,7 @@ Cleveland museum fields in frontend/src/collection.ts and frontend/public/curate
 ## ClassicMayan research excerpts (29 records)
 
 Records with maya- IDs contain published interpretations by the named authors of Text Database and Dictionary of Classic Mayan research notes. Text and evidence excerpts retain CC BY4.0, not CC0 or MIT. Credit each record's institution (publication authors/title), source_url and text_rights_url, and preserve text_changes. Evidence for reuse: https://classicmayan.org/portal/doc/6 . HTML whitespace is normalized; uncertainty markers and wording are retained. These are partial excerpts, including royal names, not full artifact translations. Three credited author drawings are included under CC BY4.0 (Christian M. Prager and Guido Krempel);26 records remain text-only. Preserve image_changes for creator/year/source and distinguish drawings from photographs. Empty image fields and image_license=Not included indicate a text-only record. Publisher credit does not imply a holding museum, endorsement or AncientLens scholarly review.
+
+## Walters Egyptian-region batch (2 objects)
+
+walters-41-28 and walters-26-2 contain CC0 images and inscription metadata from the Walters Art Museum. Policy: https://thewalters.org/about/policies/rights-reproductions/ . Longer descriptions have separate GFDL terms and are excluded. Published alternative renderings remain identified as alternatives; no extra artifact or inscription count. Museum credit and source links retained. No endorsement or scholarly validation.

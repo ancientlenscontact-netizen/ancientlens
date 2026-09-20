@@ -1,6 +1,6 @@
-# AncientLens curated dataset — 2026-09-20.4
+# AncientLens curated dataset — 2026-09-20.5
 
-80 distinct objects/documents,88 English source entries:51 Cleveland objects/58entries and29 Maya research-source records. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
+82 distinct objects/documents,90 English source entries:51 Cleveland objects/58entries,29 Maya research-source records/30entries, and2 Walters Egyptian-region objects/2entries. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
 
 ## Contents and identifiers
 
@@ -25,3 +25,5 @@ Paths beginning /curated resolve relative to the website; remove the leading sla
 2026-09-20.3: three drawings, one additional published front passage,88entries. Previous ZIPs immutable.
 
 2026-09-20.4: selection expands to9 existing records (5 China,1 SouthAsia,3 Mesoamerica); no artifact/translation/image changes. Selection evidence and image limitations included. The20-per-area target remains unfinished.
+
+2026-09-20.5 adds2 CC0 Walters records with photographs and complete short published inscription renderings. Aurelia Artemis is an Egyptian-region object with Greek text. Pepi vessel alternative rendering is preserved in the passage remark, not a second inscription. Selection now11 (Egypt2,China5,SouthAsia1,Mesoamerica3); target20each remains unfinished.

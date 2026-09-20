@@ -205,3 +205,5 @@ export const sourceDates:Record<string,[number,number]> = {
 
 // Bounded dates explicitly stated in the selected research notes; unknown dates remain unset.
 Object.assign(sourceDates,{"maya-yaxchilan-lintel-34":[501,600],"maya-ccit-vaso-8":[701,800],"maya-ccit-pntf-192":[701,800]});
+
+Object.assign(sourceDates,{"walters-41-28":[-2290,-2290],"walters-26-2":[201,400]});

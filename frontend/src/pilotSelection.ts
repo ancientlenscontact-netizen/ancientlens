@@ -1,4 +1,5 @@
-{
+// Generated from public selection evidence.
+export default {
   "target_per_area": 20,
   "kind": "Source-coverage selection; not scholarly validation",
   "areas": [
@@ -127,3 +128,4 @@
   ],
   "selection_note": "Editorial source-coverage checks, not independent linguistic validation. Includes fragmentary published editions; images may not show every text surface. Regional target remains in progress."
 }
+;

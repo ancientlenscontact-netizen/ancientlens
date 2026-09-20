@@ -3,11 +3,21 @@ import hashlib,json,subprocess,sys
 from pathlib import Path
 root=Path(__file__).resolve().parents[1];out=root/'frontend/public/curated'
 rows=json.loads((out/'collection.json').read_text())
-assert len(rows)==80 and len({r['accession'] for r in rows})==80
-assert len({r['id'] for r in rows})==80
+assert len(rows)==82 and len({r['accession'] for r in rows})==82
+assert len({r['id'] for r in rows})==82
 assert {r['collection'] for r in rows}=={'Egyptian','Greek','Roman','Chinese','Assyrian','Indian','Maya'}
-assert sum(len(r['passages']) for r in rows)==88
+assert sum(len(r['passages']) for r in rows)==90
 for r in rows:
+ if r['id'].startswith('walters-'):
+  source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
+  assert hashlib.sha256(source.read_bytes()).hexdigest()==r['metadata_sha256']
+  assert r['text_license']==r['image_license']==d['text_license']==d['image_license']=='CC0'
+  assert r['review']=='unreviewed' and d['accession']==r['accession'] and d['source_url']==r['source_url']
+  assert hashlib.sha256((out/f'{r["id"]}.jpg').read_bytes()).hexdigest()==r['image_sha256']
+  assert len(r['passages'])==1 and r['passages'][0]['text']==d['text'] and r['passages'][0]['source_text']==d['transcription']
+  assert (not d['alternative_translation']) or r['passages'][0]['remark'].endswith(d['alternative_translation'])
+  assert json.loads((out/f'{r["id"]}.json').read_text())==r
+  continue
  if r['id'].startswith('maya-'):
   source=out/'sources'/f'{r["id"]}.json';d=json.loads(source.read_text())
   assert hashlib.sha256(source.read_bytes()).hexdigest()==r['metadata_sha256']
@@ -39,4 +49,4 @@ assert json.loads((root/'backend/app/data/catalog/curated.json').read_text())==r
 before=(out/'collection.json').read_bytes()
 subprocess.run([sys.executable,str(root/'scripts/build_collection.py')],check=True)
 assert before==(out/'collection.json').read_bytes()
-print('PASS: 80 identities, 88 source entries, provenance/rights/image hashes, deterministic rebuild')
+print('PASS: 82 identities, 90 source entries, provenance/rights/image hashes, deterministic rebuild')

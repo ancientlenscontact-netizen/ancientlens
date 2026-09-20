@@ -5,7 +5,7 @@ from pathlib import Path
 import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '2026-09-20.4'
+VERSION = '2026-09-20.5'
 PUBLIC = ROOT / 'frontend/public'
 OUTPUT = PUBLIC / 'releases'
 
@@ -17,7 +17,7 @@ def encoded(data):
 
 def build():
     rows = json.loads((PUBLIC / 'curated/collection.json').read_text())
-    assert len(rows) == 80 and sum(len(r['passages']) for r in rows) == 88
+    assert len(rows) == 82 and sum(len(r['passages']) for r in rows) == 90
     assert len({r['id'] for r in rows}) == len(rows)
     fields = set(rows[0])
     assert all(set(r) == fields and r['text_license'] in ('CC0','CC BY 4.0') and (r['image_license'] in ('CC0','CC BY 4.0') if r['image'] else r['image_license']=='Not included') and r['review'] == 'unreviewed' for r in rows)
@@ -49,7 +49,7 @@ def build():
         name=row['record_url'].lstrip('/')
         assert name==f"curated/{row['id']}.json"
         files[name]=encoded(row)
-    manifest={'version':VERSION,'artifacts':len(rows),'translation_entries':sum(len(r['passages']) for r in rows),'scope':'Cleveland CC0 records and attributed ClassicMayan CC BY 4.0 excerpts; no user or community records','files':{name:{'sha256':digest(data),'bytes':len(data)} for name,data in sorted(files.items())}}
+    manifest={'version':VERSION,'artifacts':len(rows),'translation_entries':sum(len(r['passages']) for r in rows),'scope':'Cleveland and Walters CC0 records and attributed ClassicMayan CC BY 4.0 excerpts; no user or community records','files':{name:{'sha256':digest(data),'bytes':len(data)} for name,data in sorted(files.items())}}
     files['manifest.json']=encoded(manifest)
     OUTPUT.mkdir(exist_ok=True)
     target=OUTPUT/f'ancientlens-dataset-{VERSION}.zip'
