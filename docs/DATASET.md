@@ -1,6 +1,6 @@
-# AncientLens curated dataset — 2026-09-20.5
+# AncientLens curated dataset — 2026-09-20.6
 
-82 distinct objects/documents,90 English source entries:51 Cleveland objects/58entries,29 Maya research-source records/30entries, and2 Walters Egyptian-region objects/2entries. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
+92 distinct objects/documents,100 English source entries:60 Cleveland objects/67entries,29 Maya research-source records/30entries, and3 Walters objects/3entries. All AncientLens scholarly reviews remain unreviewed. The30-record Maya collection includes the earlier Cleveland panel. Most new entries are names or short phrases; some are damaged dedicatory passages. One Dresden Codex record contains only a page18b deity-name excerpt. These are not30 fully translated documents. No fabricated activity, accounts, private notes or community submissions are included.
 
 ## Contents and identifiers
 
@@ -27,3 +27,5 @@ Paths beginning /curated resolve relative to the website; remove the leading sla
 2026-09-20.4: selection expands to9 existing records (5 China,1 SouthAsia,3 Mesoamerica); no artifact/translation/image changes. Selection evidence and image limitations included. The20-per-area target remains unfinished.
 
 2026-09-20.5 adds2 CC0 Walters records with photographs and complete short published inscription renderings. Aurelia Artemis is an Egyptian-region object with Greek text. Pepi vessel alternative rendering is preserved in the passage remark, not a second inscription. Selection now11 (Egypt2,China5,SouthAsia1,Mesoamerica3); target20each remains unfinished.
+
+2026-09-20.6 adds nine Chinese mirrors and a Mesopotamian foundation tablet, each with a reusable photograph and complete museum-published rendering. Two existing Chinese records also enter the illustrated selection:23 selected (China16,Egypt2,Mesoamerica3,SouthAsia1,Mesopotamia1). Target20each remains unfinished. The tablet photograph shows both inscribed faces; its language is not specified by the museum. All scholarly reviews unreviewed.

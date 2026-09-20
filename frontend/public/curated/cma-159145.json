@@ -1,0 +1,40 @@
+{
+  "id": "cma-159145",
+  "title": "Mirror with Three Pairs of Bixie around a Loti-form Knob",
+  "accession": "1995.335",
+  "date": "mid-600s",
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.335",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159145",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "b78f5b54b64e3e8e5f196cdc7ff6e2b6d39bde1dc4e2162641fab79657331dd1",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159145.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.335/1995.335_web.jpg",
+  "image_sha256": "a94052260df31090d80803849ccc48282808fb4258c9d96868f27e8bf3aa68c2",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159145-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "The spirit merges with the forms that are \nbeing wrought.\nThe lustrous metal matches the \nexquisite craftsmanship.  \nLike a pearl, it emerges from the container box-\nA virtual moon suspended in the firmament.  \n[It enables] the lady to draw her eyebrows \nAnd apply rouge to her face.  \nEven those elegant windows and the \nembroidered curtains: \nCan all be reflected within.",
+      "source_text": "錬形神冶，瑩質良工。如珠出匣，似月停空。當眉寫翠，對臉傳紅。綺窗繡幌，俱含影中。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159145.json",
+  "record_url": "/curated/cma-159145.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum identifies the outer-circle poem and repeats the complete English rendering in its description; all eight source clauses are retained.",
+  "description": ""
+}

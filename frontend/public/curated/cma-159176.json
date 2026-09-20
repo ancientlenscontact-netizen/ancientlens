@@ -1,0 +1,40 @@
+{
+  "id": "cma-159176",
+  "title": "Lobed Mirror of Three Delights",
+  "accession": "1995.363",
+  "date": "700s",
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.363",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159176",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "ad15325c94dad7b35af5ddaf18393ecd82d140917161b6b04ab5f969dab09040",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159176.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_web.jpg",
+  "image_sha256": "610851442b534ccd7dddec3b6d28fd00f0e84e0085501feac6939047954f9872",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159176-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Rong Qiqi was questioned by, and replied \nto Confucius.",
+      "source_text": "榮啟期問曰答孔夫子",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159176.json",
+  "record_url": "/curated/cma-159176.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum supplies the complete short dialogue caption; the photograph shows its single three-column panel.",
+  "description": ""
+}

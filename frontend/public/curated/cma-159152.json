@@ -1,0 +1,40 @@
+{
+  "id": "cma-159152",
+  "title": "Mirror with Six Circular Flowers",
+  "accession": "1995.341",
+  "date": "600s",
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.341",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159152",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "7e59659885e63630103224c0319432166b4656cb134f53b94370c8edd6b76820",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159152.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.341/1995.341_web.jpg",
+  "image_sha256": "9eab0fcb40fdd018ac2e3932551ed177edee336b07244564dea9688e104ca694",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159152-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "[This mirror can unveil one's] gall.\nIt can fathom the hidden and the subtle.\nIts clarity and lustre put the pearl to shame,\nAnd the moon to pale.\n[Now] that the war has ended,\nLet's celebrate the rising fortune at the wake.",
+      "source_text": "【】【】【】膽，知幽察微。珠慚朗潤，\n月謝光輝。【】兵既弭，福慶斯歸。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159152.json",
+  "record_url": "/curated/cma-159152.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Six lines of transcription and six corresponding English lines cover the outer inscription band; square gaps and editorial supplements are retained.",
+  "description": ""
+}

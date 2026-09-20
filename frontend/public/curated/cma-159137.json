@@ -1,0 +1,40 @@
+{
+  "id": "cma-159137",
+  "title": "Mirror Featuring Deities and Kings in Three Sections Surrounded by Rings of Squares and Semicircles",
+  "accession": "1995.328",
+  "date": "175–225 CE",
+  "culture": [
+    "China, Eastern Han dynasty (25–220 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.328",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159137",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "82369e58ad668f0c9c704f2c75bb077dd5d4ea717d96392509ad1433a80c0db4",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159137.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.328/1995.328_web.jpg",
+  "image_sha256": "90fe17fa239a0b002472548393e4d4c5d529b5fa8d0e0a5f3cc698747a641b98",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159137-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "I made this bright mirror \nBy refining the three metals. \nWith my fine skill, I engraved [the design].",
+      "source_text": "吾作明鏡，幽涑三岡。巧工刻之。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159137.json",
+  "record_url": "/curated/cma-159137.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Museum transcription supplies three maker/engraving clauses and the description repeats all three English clauses.",
+  "description": ""
+}

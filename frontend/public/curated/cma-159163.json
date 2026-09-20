@@ -1,0 +1,40 @@
+{
+  "id": "cma-159163",
+  "title": "Lobed Mirror with Heaven and Earth between the Paired Phoenixes",
+  "accession": "1995.351",
+  "date": "mid to late 700s",
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.351",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159163",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "e9cedfc5b3c0346e94fb9b8d51b454fee5db83d9884ef1ecb37b9fc5267d746f",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159163.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_web.jpg",
+  "image_sha256": "34e240800d4cff71ff4f188711cd1fb1ed57ab2cb3b4d3f5e6f694ee25d2ca11",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159163-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "Circle above and square below:\nThese are symbols of heaven and earth.\nIn the middle are the Eight Trigrams,\nMaking clear [the forces of] yin and yang.\nStars and constellations are well aligned;\nThe sun and the moon are virtuous and bright.\nCirculating around [the earth] is water,\nGiving identity to the Four Great Rivers.\nWithin are the mountain ranges,\nTo signify the lordly heights.",
+      "source_text": "上圓下方，象于天地。\n中列八填，備著陰陽。\n辰星鎮定，日月貞明。\n周流為水，以名四瀆。\n內置連山，以旌王岳。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159163.json",
+  "record_url": "/curated/cma-159163.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum describes the outer inscription and repeats its full ten-line English rendering; the same transcription and translation are supplied here.",
+  "description": ""
+}

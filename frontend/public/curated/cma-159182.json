@@ -1,0 +1,40 @@
+{
+  "id": "cma-159182",
+  "title": "Lobed Mirror with a Tortoise Knob, Musician, and Phoenix",
+  "accession": "1995.369",
+  "date": "late 700s",
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.369",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159182",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "f5773f76ae94988093c0e464c44a3f695c8b911f0463fa3fa15e14bb6a1ccd87",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159182.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.369/1995.369_web.jpg",
+  "image_sha256": "69f1a909edaedd29a8067ba5d4e27f57c228b8dec76d3b0d98b1bca1fc6373db",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159182-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "A mirror with paired phoenixes is cast from metals from the South.\nThe yin and yang are made to match;\nThe sun and moon meet with constancy.\nA white jade box with peony decor\nIs mated with a lustrous tassel of \nkingfisher feathers.\nThose of the same heart beat are drawn close.\nWhatever the mirror will reveal: be they hearts \nor gall;\nIt will surely protect you for a thousand springs.",
+      "source_text": "鳳凰雙鏡南金裝。陰陽各為配，日月恒相會。白玉芙蓉匣，翠羽瓊瑤帶。同心人，心相親，照心照膽保千春。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159182.json",
+  "record_url": "/curated/cma-159182.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum transcribes the continuous inscription from the paired-phoenix dedication through the final thousand-springs blessing, with corresponding English rendering.",
+  "description": ""
+}

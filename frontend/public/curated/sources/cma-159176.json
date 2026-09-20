@@ -1,0 +1,176 @@
+{
+  "id": 159176,
+  "accession_number": "1995.363",
+  "share_license_status": "CC0",
+  "tombstone": "Lobed Mirror of Three Delights (三樂鏡), 700s. China, Tang dynasty (618-907). Bronze; diameter: 12.7 cm (5 in.); overall: 0.9 cm (3/8 in.); rim: 0.6 cm (1/4 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.363",
+  "current_location": null,
+  "title": "Lobed Mirror of Three Delights",
+  "title_in_original_language": "三樂鏡",
+  "creation_date": "700s",
+  "creation_date_earliest": 700,
+  "creation_date_latest": 799,
+  "artists_tags": [],
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Tang Dynasty",
+  "type": "Metalwork",
+  "measurements": "Diameter: 12.7 cm (5 in.); Overall: 0.9 cm (3/8 in.); Rim: 0.6 cm (1/4 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.127,
+      "width_inch": 5,
+      "width_inch_fraction": 0.0
+    },
+    "overall": {
+      "height": 0.009,
+      "height_inch": 0,
+      "height_inch_fraction": 0.375
+    },
+    "rim": {
+      "height": 0.006,
+      "height_inch": 0,
+      "height_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "榮啟期問曰答孔夫子",
+      "inscription_translation": "Rong Qiqi was questioned by, and replied \nto Confucius.",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 193152,
+        "title": "Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors",
+        "description": "<i>Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000); China Institute in America, New York, NY (February 6-June 2, 2002); Elvehjem Museum of Art, Madison, WI (December 20, 2003-February 29, 2004).",
+        "opening_date": "2000-09-17T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Thomas and Martha Carter, Madison, WI, ?-1995, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1995",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH, 1995-present",
+      "citations": [],
+      "footnotes": [],
+      "date": "1995-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79978387"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.363-lobed-mirror-of-thre"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chou, Ju-hsi. <em>Circles of reflection: the Carter collection of Chinese bronze mirrors</em>. Cleveland, Ohio: Cleveland Museum of Art, 2000.",
+      "page_number": "Reproduced: cat. no. 71, pp. 77, 108, 123",
+      "url": null
+    },
+    {
+      "citation": "Cahill, Suzanne E. \"The Moon Stopping in the Void: Daoism and the LIterati Ideal in Mirrors of the Tang Dynasty.\" .<em>Cleveland Studies in the History of Art</em> 9 (2005): 24-41.",
+      "page_number": "Mentioned and reproduced: P. 34, fig. 9",
+      "url": "https://www.jstor.org/stable/20079751"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.363",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_web.jpg",
+      "width": "893",
+      "height": "893",
+      "filesize": "544879",
+      "filename": "1995.363_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_print.jpg",
+      "width": "3400",
+      "height": "3400",
+      "filesize": "5910419",
+      "filename": "1995.363_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_full.tif",
+      "width": "3665",
+      "height": "3665",
+      "filesize": "40306440",
+      "filename": "1995.363_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_alt0_web.jpg",
+        "width": "893",
+        "height": "893",
+        "filesize": "548792"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_alt0_print.jpg",
+        "width": "3400",
+        "height": "3400",
+        "filesize": "5905051"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_alt0_full.tif",
+        "width": "3665",
+        "height": "3665",
+        "filesize": "40311520"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159176,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1996-06-03T00:00:00",
+  "sortable_date": 700,
+  "date_added_to_oa": null,
+  "date_text": "700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:23:04.881000"
+}

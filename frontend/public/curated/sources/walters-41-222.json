@@ -1,0 +1,23 @@
+{
+  "id": "walters-41-222",
+  "accession": "41.222",
+  "title": "Foundation Tablet",
+  "source_url": "https://art.thewalters.org/object/41.222/",
+  "retrieved_at": "2026-09-20",
+  "acquisition": "Inscription field from official Walters GitHub art.csv, checked against rendered museum page. Longer descriptions excluded.",
+  "metadata_index_url": "https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv",
+  "metadata_index_sha256": "bd3d85ba8c871948d269aea2a51947eda4dcde0a0f1da7e87c1a34e8fafa704b",
+  "text": "on obverse: (For) Utu, / lord of justice of heaven and earth, / learned in decision, / the one who choses in favor of innocence, / the king of Ebabbar, / his king, / Sin-iddinam, / the shepherd who decorates everything / for Nippur, / the provider of Ur, / king of Larsa, / king of Sumer and Akkad, / the Ebabbar, / his beloved house,; On reverse: for the sake of his life, / he built (it) / For abundant distant days / he enlarged that dwelling place. / With the thing that he (Sin-iddinam) has done, / (may) Utu, / rejoice. / A life of sweet things / (and) bright days / as a reward, / may he (Utu) give to him (Sin-iddinam).",
+  "original_inscription_field": "[Translation] on obverse: (For) Utu, / lord of justice of heaven and earth, / learned in decision, / the one who choses in favor of innocence, / the king of Ebabbar, / his king, / Sin-iddinam, / the shepherd who decorates everything / for Nippur, / the provider of Ur, / king of Larsa, / king of Sumer and Akkad, / the Ebabbar, / his beloved house,; [Translation] On reverse:  for the sake of his life, / he built (it) / For abundant distant days / he enlarged that dwelling place. / With the thing that he (Sin-iddinam) has done, / (may) Utu, / rejoice. / A life of sweet things / (and) bright days / as a reward, / may he (Utu) give to him (Sin-iddinam).",
+  "alternative_translation": "",
+  "transcription": "",
+  "geography": "Mesopotamia (Place of Origin); exact findspot not supplied.",
+  "provenance": "Henry Walters, Baltimore, [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Joseph Brummer, Paris and New York, 1941, by purchase [Brummer inv. no. N5019]; Walters Art Museum, 1941, by purchase.",
+  "coverage_evidence": "The museum explicitly describes an inscription on two faces and publishes labelled obverse and reverse translations, including the final blessing. Both are reproduced together without omission.",
+  "visual_observation": "872×1800 museum composite photograph shows both inscribed faces and four edges. Horizontal ruled lines and wedge-shaped signs visible; abrasion, chips and uneven contrast remain. No independent decipherment or sign alignment claimed.",
+  "rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "rights_scope": "Museum images and metadata CC0. Longer descriptions excluded.",
+  "image_url": "https://art.thewalters.org/images/art/CUR_41.222_VwA_UK.jpg"
+}

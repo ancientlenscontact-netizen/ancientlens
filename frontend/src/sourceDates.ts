@@ -1,5 +1,16 @@
 // Museum-supplied date bounds from pinned source metadata; approximate ranges, not new dating.
 export const sourceDates:Record<string,[number,number]> = {
+  "cma-159152": [600, 699],
+  "cma-159163": [700, 799],
+  "cma-159182": [775, 799],
+  "cma-159145": [618, 675],
+  "cma-159135": [175, 225],
+  "cma-159137": [175, 225],
+  "cma-159146": [581, 618],
+  "cma-159128": [25, 220],
+  "cma-159176": [700, 799],
+  "walters-41-222": [-1785, -1778],
+
   "cma-138393": [750,850],
   "cma-102365": [
     -1960,

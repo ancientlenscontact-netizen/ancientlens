@@ -61,7 +61,7 @@ def test_curated_passages_and_moderation_unchanged(clients):
     a,b,path=clients
     initialize(path)
     passages=a.get('/api/catalog/passages').json()
-    assert len([p for p in passages if p['id'].startswith('cma-')])==58
+    assert len([p for p in passages if p['id'].startswith('cma-')])==67
     data=draft();data['passage_id']='cma-102365-0'
     result=a.post('/api/contributions',json=data)
     assert result.status_code==201 and result.json()['review_status']=='unreviewed'
@@ -69,7 +69,7 @@ def test_curated_passages_and_moderation_unchanged(clients):
     assert a.get('/api/contributions?passage_id=cma-102365-0').json()[0]['moderation_status']=='pending'
     with connect(path) as db:
         assert db.execute('PRAGMA foreign_key_check').fetchall()==[]
-        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==82
+        assert db.execute('SELECT count(*) FROM curated_artifacts').fetchone()[0]==92
 
 
 def test_maya_licensed_reference_and_private_note_survive_reseed(clients):
@@ -95,6 +95,6 @@ def test_walters_reference_is_not_mesoamerica(clients):
     initialize(path)
     with connect(path) as db:
         rows=db.execute("SELECT * FROM monuments WHERE id LIKE 'walters-%'").fetchall()
-        assert len(rows)==2
+        assert len(rows)==3
         assert all('Walters Art Museum' in str(r) and 'Mesoamerica' not in str(r) for r in rows)
-        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'walters-%' AND review_status='unreviewed'").fetchone()[0]==2
+        assert db.execute("SELECT count(*) FROM passage_records WHERE id LIKE 'walters-%' AND review_status='unreviewed'").fetchone()[0]==3

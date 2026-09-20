@@ -355,5 +355,68 @@
     "source_language": "Maya",
     "retrieved_at": "2026-09-20T04:11:14.737974+00:00",
     "note": "Mesoamerica. Short name reading only: the museum field identifies two sculptors; it is not a full translation of the panel. Broad attribution to the Usumacinta River region (Guatemala or Mexico); exact findspot is unknown. Image-to-text alignment is unverified."
+  },
+  {
+    "id": 159152,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Six lines of transcription and six corresponding English lines cover the outer inscription band; square gaps and editorial supplements are retained."
+  },
+  {
+    "id": 159163,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum describes the outer inscription and repeats its full ten-line English rendering; the same transcription and translation are supplied here."
+  },
+  {
+    "id": 159182,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum transcribes the continuous inscription from the paired-phoenix dedication through the final thousand-springs blessing, with corresponding English rendering."
+  },
+  {
+    "id": 159145,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum identifies the outer-circle poem and repeats the complete English rendering in its description; all eight source clauses are retained."
+  },
+  {
+    "id": 159135,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Museum transcription supplies the short maker statement and engraving clause; its description repeats the same complete rendering."
+  },
+  {
+    "id": 159137,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Museum transcription supplies three maker/engraving clauses and the description repeats all three English clauses."
+  },
+  {
+    "id": 159146,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The description explicitly identifies the eight-word inner inscription; its two source clauses are paired with the English rendering."
+  },
+  {
+    "id": 159128,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Four-character source inscription is paired with its complete short wish for an official post."
+  },
+  {
+    "id": 159176,
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "retrieved_at": "2026-09-20",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum supplies the complete short dialogue caption; the photograph shows its single three-column panel."
   }
 ]

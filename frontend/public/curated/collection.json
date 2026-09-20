@@ -2087,6 +2087,366 @@
     "description": "In this panel, probably from a palace interior, the woman’s static posture contrasts with the liveliness of the creature she holds, a god of royalty with a serpent leg and a grotesque head with a smoking torch on its brow. (The same deity is shown in the nearby Eccentric Flint.) Other signs of high rank are her jade jewelry and costume, its beauty suggesting that textiles and featherwork were great Maya arts, now lost to a tropical climate. The hieroglyphics refer to an undefined ritual that the woman completed in 795."
   },
   {
+    "id": "cma-159152",
+    "title": "Mirror with Six Circular Flowers",
+    "accession": "1995.341",
+    "date": "600s",
+    "culture": [
+      "China, Tang dynasty (618-907)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.341",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159152",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "7e59659885e63630103224c0319432166b4656cb134f53b94370c8edd6b76820",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159152.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.341/1995.341_web.jpg",
+    "image_sha256": "9eab0fcb40fdd018ac2e3932551ed177edee336b07244564dea9688e104ca694",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159152-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "[This mirror can unveil one's] gall.\nIt can fathom the hidden and the subtle.\nIts clarity and lustre put the pearl to shame,\nAnd the moon to pale.\n[Now] that the war has ended,\nLet's celebrate the rising fortune at the wake.",
+        "source_text": "【】【】【】膽，知幽察微。珠慚朗潤，\n月謝光輝。【】兵既弭，福慶斯歸。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159152.json",
+    "record_url": "/curated/cma-159152.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Six lines of transcription and six corresponding English lines cover the outer inscription band; square gaps and editorial supplements are retained.",
+    "description": ""
+  },
+  {
+    "id": "cma-159163",
+    "title": "Lobed Mirror with Heaven and Earth between the Paired Phoenixes",
+    "accession": "1995.351",
+    "date": "mid to late 700s",
+    "culture": [
+      "China, Tang dynasty (618-907)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.351",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159163",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "e9cedfc5b3c0346e94fb9b8d51b454fee5db83d9884ef1ecb37b9fc5267d746f",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159163.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_web.jpg",
+    "image_sha256": "34e240800d4cff71ff4f188711cd1fb1ed57ab2cb3b4d3f5e6f694ee25d2ca11",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159163-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "Circle above and square below:\nThese are symbols of heaven and earth.\nIn the middle are the Eight Trigrams,\nMaking clear [the forces of] yin and yang.\nStars and constellations are well aligned;\nThe sun and the moon are virtuous and bright.\nCirculating around [the earth] is water,\nGiving identity to the Four Great Rivers.\nWithin are the mountain ranges,\nTo signify the lordly heights.",
+        "source_text": "上圓下方，象于天地。\n中列八填，備著陰陽。\n辰星鎮定，日月貞明。\n周流為水，以名四瀆。\n內置連山，以旌王岳。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159163.json",
+    "record_url": "/curated/cma-159163.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum describes the outer inscription and repeats its full ten-line English rendering; the same transcription and translation are supplied here.",
+    "description": ""
+  },
+  {
+    "id": "cma-159182",
+    "title": "Lobed Mirror with a Tortoise Knob, Musician, and Phoenix",
+    "accession": "1995.369",
+    "date": "late 700s",
+    "culture": [
+      "China, Tang dynasty (618-907)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.369",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159182",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "f5773f76ae94988093c0e464c44a3f695c8b911f0463fa3fa15e14bb6a1ccd87",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159182.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.369/1995.369_web.jpg",
+    "image_sha256": "69f1a909edaedd29a8067ba5d4e27f57c228b8dec76d3b0d98b1bca1fc6373db",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159182-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "A mirror with paired phoenixes is cast from metals from the South.\nThe yin and yang are made to match;\nThe sun and moon meet with constancy.\nA white jade box with peony decor\nIs mated with a lustrous tassel of \nkingfisher feathers.\nThose of the same heart beat are drawn close.\nWhatever the mirror will reveal: be they hearts \nor gall;\nIt will surely protect you for a thousand springs.",
+        "source_text": "鳳凰雙鏡南金裝。陰陽各為配，日月恒相會。白玉芙蓉匣，翠羽瓊瑤帶。同心人，心相親，照心照膽保千春。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159182.json",
+    "record_url": "/curated/cma-159182.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum transcribes the continuous inscription from the paired-phoenix dedication through the final thousand-springs blessing, with corresponding English rendering.",
+    "description": ""
+  },
+  {
+    "id": "cma-159145",
+    "title": "Mirror with Three Pairs of Bixie around a Loti-form Knob",
+    "accession": "1995.335",
+    "date": "mid-600s",
+    "culture": [
+      "China, Tang dynasty (618-907)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.335",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159145",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "b78f5b54b64e3e8e5f196cdc7ff6e2b6d39bde1dc4e2162641fab79657331dd1",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159145.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.335/1995.335_web.jpg",
+    "image_sha256": "a94052260df31090d80803849ccc48282808fb4258c9d96868f27e8bf3aa68c2",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159145-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "The spirit merges with the forms that are \nbeing wrought.\nThe lustrous metal matches the \nexquisite craftsmanship.  \nLike a pearl, it emerges from the container box-\nA virtual moon suspended in the firmament.  \n[It enables] the lady to draw her eyebrows \nAnd apply rouge to her face.  \nEven those elegant windows and the \nembroidered curtains: \nCan all be reflected within.",
+        "source_text": "錬形神冶，瑩質良工。如珠出匣，似月停空。當眉寫翠，對臉傳紅。綺窗繡幌，俱含影中。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159145.json",
+    "record_url": "/curated/cma-159145.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum identifies the outer-circle poem and repeats the complete English rendering in its description; all eight source clauses are retained.",
+    "description": ""
+  },
+  {
+    "id": "cma-159135",
+    "title": "Mirror with Deities and Animals Surrounded by Rings of Squares and Semicircles",
+    "accession": "1995.326",
+    "date": "175–225 CE",
+    "culture": [
+      "China, Eastern Han dynasty (25–220 CE)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.326",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159135",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "f4144870396d00f30519231194b6e2df03d6974c6238c933a215cb4bd15e090d",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159135.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.326/1995.326_web.jpg",
+    "image_sha256": "6d11f3805db76c17949f0e7b29f8d090c51a51275b66f6f311a07f5967a92ddf",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159135-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "I made this bright mirror by refining the three metals.\nThen I sculpted infinite forms.",
+        "source_text": "吾作明鏡，幽凍三商。\n雕刻極無（無極）。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159135.json",
+    "record_url": "/curated/cma-159135.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Museum transcription supplies the short maker statement and engraving clause; its description repeats the same complete rendering.",
+    "description": ""
+  },
+  {
+    "id": "cma-159137",
+    "title": "Mirror Featuring Deities and Kings in Three Sections Surrounded by Rings of Squares and Semicircles",
+    "accession": "1995.328",
+    "date": "175–225 CE",
+    "culture": [
+      "China, Eastern Han dynasty (25–220 CE)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.328",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159137",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "82369e58ad668f0c9c704f2c75bb077dd5d4ea717d96392509ad1433a80c0db4",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159137.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.328/1995.328_web.jpg",
+    "image_sha256": "90fe17fa239a0b002472548393e4d4c5d529b5fa8d0e0a5f3cc698747a641b98",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159137-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "I made this bright mirror \nBy refining the three metals. \nWith my fine skill, I engraved [the design].",
+        "source_text": "吾作明鏡，幽涑三岡。巧工刻之。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159137.json",
+    "record_url": "/curated/cma-159137.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Museum transcription supplies three maker/engraving clauses and the description repeats all three English clauses.",
+    "description": ""
+  },
+  {
+    "id": "cma-159146",
+    "title": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals",
+    "accession": "1995.336",
+    "date": "late 500s–early 600s",
+    "culture": [
+      "China, Sui dynasty (581-618)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.336",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159146",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "f98b07d4a743b4d9f24f83b08d3b7f1af98aff4753e9340f8e80d37f3a72e0fb",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159146.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_web.jpg",
+    "image_sha256": "d9aac317da17fc27e8089c2a5dd34c8d8316bde2794fc6a314d7eaa7e61147f5",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159146-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "The mirror's light shows the man inside.\nMay you live a long life and [constantly] \nrenew yourself.",
+        "source_text": "光正隨人，長命宜新。",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159146.json",
+    "record_url": "/curated/cma-159146.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The description explicitly identifies the eight-word inner inscription; its two source clauses are paired with the English rendering.",
+    "description": ""
+  },
+  {
+    "id": "cma-159128",
+    "title": "Mirror with Quatrefoil and Linked Arcs",
+    "accession": "1995.319",
+    "date": "25–220 CE",
+    "culture": [
+      "China, Eastern Han dynasty (25–220 CE)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.319",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159128",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "cb0392cdf72d856bef1efad87305123099e56f34ad48fb941d860ea24c905282",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159128.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.319/1995.319_web.jpg",
+    "image_sha256": "ecfca93d1298c0b8cb76d58ce9eae7e476ce3d381a040ce5fc2a4bb2cec952a8",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159128-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "You deserve an official post.",
+        "source_text": "君宜官位",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159128.json",
+    "record_url": "/curated/cma-159128.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Four-character source inscription is paired with its complete short wish for an official post.",
+    "description": ""
+  },
+  {
+    "id": "cma-159176",
+    "title": "Lobed Mirror of Three Delights",
+    "accession": "1995.363",
+    "date": "700s",
+    "culture": [
+      "China, Tang dynasty (618-907)"
+    ],
+    "collection": "Chinese",
+    "source_language": "Chinese",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/1995.363",
+    "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159176",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "ad15325c94dad7b35af5ddaf18393ecd82d140917161b6b04ab5f969dab09040",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://openaccess-api.clevelandart.org/",
+    "image_rights_url": "https://www.clevelandart.org/open-access",
+    "image": "/curated/cma-159176.jpg",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1995.363/1995.363_web.jpg",
+    "image_sha256": "610851442b534ccd7dddec3b6d28fd00f0e84e0085501feac6939047954f9872",
+    "image_changes": "None; museum web-sized JPEG",
+    "text_changes": "None; translated fields and remarks reproduced verbatim",
+    "passages": [
+      {
+        "id": "cma-159176-0",
+        "field": "inscriptions[0].inscription_translation",
+        "text": "Rong Qiqi was questioned by, and replied \nto Confucius.",
+        "source_text": "榮啟期問曰答孔夫子",
+        "remark": ""
+      }
+    ],
+    "source_snapshot": "/curated/sources/cma-159176.json",
+    "record_url": "/curated/cma-159176.json",
+    "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The museum supplies the complete short dialogue caption; the photograph shows its single three-column panel.",
+    "description": ""
+  },
+  {
     "id": "maya-tikal-stela-16",
     "title": "Tikal Stela 16",
     "accession": "Tikal Stela 16",
@@ -3331,6 +3691,46 @@
     "source_snapshot": "/curated/sources/walters-26-2.json",
     "record_url": "/curated/walters-26-2.json",
     "note": "The museum supplies the Greek epitaph and its corresponding English rendering; the photograph shows the four-line epitaph below the figure. Egyptian geography, Greek language; no separate Mediterranean count. AncientLens scholarly review: unreviewed. Egypt, Akhmim (Place of Discovery). Ownership history: Dikran Kelekian, New York and Paris, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
+    "description": ""
+  },
+  {
+    "id": "walters-41-222",
+    "title": "Foundation Tablet",
+    "accession": "41.222",
+    "date": "1785-1778 BCE (Old Babylonian)",
+    "culture": [
+      "Mesopotamia, Old Babylonian"
+    ],
+    "collection": "Mesopotamian",
+    "source_language": "Not specified by museum (cuneiform)",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/41.222/",
+    "metadata_url": "https://art.thewalters.org/object/41.222/",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "908c3d72bae93e8909b22d50f9bb6b4ab9a540e87bdd3c5b1da5aa9a2fb10401",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image": "/curated/walters-41-222.jpg",
+    "image_url": "https://art.thewalters.org/images/art/CUR_41.222_VwA_UK.jpg",
+    "image_sha256": "40fdc22e38c4f8819fd66de1de5642eceb19c25cc7a39757f83cc93f45d73f79",
+    "image_changes": "None; museum composite JPEG reproduced unchanged. The Walters Art Museum, CC0.",
+    "text_changes": "Translation labels removed; face labels, wording and slash-separated lines preserved. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-41-222-0",
+        "field": "Inscription: obverse and reverse translations",
+        "text": "on obverse: (For) Utu, / lord of justice of heaven and earth, / learned in decision, / the one who choses in favor of innocence, / the king of Ebabbar, / his king, / Sin-iddinam, / the shepherd who decorates everything / for Nippur, / the provider of Ur, / king of Larsa, / king of Sumer and Akkad, / the Ebabbar, / his beloved house,; On reverse: for the sake of his life, / he built (it) / For abundant distant days / he enlarged that dwelling place. / With the thing that he (Sin-iddinam) has done, / (may) Utu, / rejoice. / A life of sweet things / (and) bright days / as a reward, / may he (Utu) give to him (Sin-iddinam).",
+        "source_text": "",
+        "remark": "The museum does not specify the ancient language. Its current date is retained; older mirrored metadata may use a different chronology."
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-41-222.json",
+    "record_url": "/curated/walters-41-222.json",
+    "note": "The museum explicitly describes an inscription on two faces and publishes labelled obverse and reverse translations, including the final blessing. Both are reproduced together without omission. AncientLens scholarly review: unreviewed. Mesopotamia (Place of Origin); exact findspot not supplied. Ownership history: Henry Walters, Baltimore, [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Joseph Brummer, Paris and New York, 1941, by purchase [Brummer inv. no. N5019]; Walters Art Museum, 1941, by purchase.",
     "description": ""
   }
 ]

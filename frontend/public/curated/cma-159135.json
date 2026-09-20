@@ -1,0 +1,40 @@
+{
+  "id": "cma-159135",
+  "title": "Mirror with Deities and Animals Surrounded by Rings of Squares and Semicircles",
+  "accession": "1995.326",
+  "date": "175–225 CE",
+  "culture": [
+    "China, Eastern Han dynasty (25–220 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.326",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159135",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "f4144870396d00f30519231194b6e2df03d6974c6238c933a215cb4bd15e090d",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159135.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.326/1995.326_web.jpg",
+  "image_sha256": "6d11f3805db76c17949f0e7b29f8d090c51a51275b66f6f311a07f5967a92ddf",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159135-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "I made this bright mirror by refining the three metals.\nThen I sculpted infinite forms.",
+      "source_text": "吾作明鏡，幽凍三商。\n雕刻極無（無極）。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159135.json",
+  "record_url": "/curated/cma-159135.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Museum transcription supplies the short maker statement and engraving clause; its description repeats the same complete rendering.",
+  "description": ""
+}

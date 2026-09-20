@@ -1,0 +1,231 @@
+{
+  "id": 159163,
+  "accession_number": "1995.351",
+  "share_license_status": "CC0",
+  "tombstone": "Lobed Mirror with Heaven and Earth between the Paired Phoenixes (雙鳳上圓下方葵花鏡), mid to late 700s. China, Tang dynasty (618-907). Bronze; diameter: 22.5 cm (8 7/8 in.); overall: 1.1 cm (7/16 in.); rim: 0.7 cm (1/4 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.351",
+  "current_location": "239 Chinese Ceramics and Metalwork",
+  "title": "Lobed Mirror with Heaven and Earth between the Paired Phoenixes",
+  "title_in_original_language": "雙鳳上圓下方葵花鏡",
+  "creation_date": "mid to late 700s",
+  "creation_date_earliest": 700,
+  "creation_date_latest": 799,
+  "artists_tags": [],
+  "culture": [
+    "China, Tang dynasty (618-907)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Tang Dynasty",
+  "type": "Metalwork",
+  "measurements": "Diameter: 22.5 cm (8 7/8 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.7 cm (1/4 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.225,
+      "width_inch": 8,
+      "width_inch_fraction": 0.875
+    },
+    "overall": {
+      "height": 0.011,
+      "height_inch": 0,
+      "height_inch_fraction": 0.4375
+    },
+    "rim": {
+      "height": 0.007,
+      "height_inch": 0,
+      "height_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "上圓下方，象于天地。\n中列八填，備著陰陽。\n辰星鎮定，日月貞明。\n周流為水，以名四瀆。\n內置連山，以旌王岳。",
+      "inscription_translation": "Circle above and square below:\nThese are symbols of heaven and earth.\nIn the middle are the Eight Trigrams,\nMaking clear [the forces of] yin and yang.\nStars and constellations are well aligned;\nThe sun and the moon are virtuous and bright.\nCirculating around [the earth] is water,\nGiving identity to the Four Great Rivers.\nWithin are the mountain ranges,\nTo signify the lordly heights.",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 193152,
+        "title": "Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors",
+        "description": "<i>Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000); China Institute in America, New York, NY (February 6-June 2, 2002); Elvehjem Museum of Art, Madison, WI (December 20, 2003-February 29, 2004).",
+        "opening_date": "2000-09-17T00:00:00"
+      },
+      {
+        "id": 219741,
+        "title": "La voie du Tao, un autre chemin de l'Etre",
+        "description": "<i>La voie du Tao, un autre chemin de l'Etre</i>. Galeries Nationales du Grand Palais, 75008 Paris, France (March 29-July 5, 2010).",
+        "opening_date": "2010-03-29T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1995",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1995–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This mirror contains cosmological symbolism with heaven represented by a large circle at top and earth by a square at bottom.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This mirror bears an important inscription as well as symbolic imagery of the Eight Trigrams and Heaven and Earth to express the ancient Chinese cosmological ideas. The inscription reads: <br>Circle above and square below: <br>These are symbolic of heaven and earth. <br>In the middle are the Eight Trigrams. <br>Making clear [the forces of] yin and yang. <br>Stars and constellations are well aligned; <br>The sun and the moon are virtuous and bright. <br>Circulating around [the earth] is water, <br>Giving identity to the Four Great Rivers. <br>Within are the mountain ranges, <br>To signify the lordly heights.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60740302"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.351-lobed-mirror-with-he"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chou, Ju-hsi. <em>Circles of Reflection: The Carter Collection of Chinese Bronze Mirrors</em>. Cleveland, Ohio: Cleveland Museum of Art, 2000.",
+      "page_number": "Reproduced: cat. no. 69, pp. 75-76 and 121",
+      "url": null
+    },
+    {
+      "citation": "Cahill, Suzanne E. \"The Moon Stopping in the Void: Daoism and the LIterati Ideal in Mirrors of the Tang Dynasty.\" .<em>Cleveland Studies in the History of Art</em> 9 (2005): 24-41.",
+      "page_number": "Mentioned and reproduced: P. 38, fig.15",
+      "url": "https://www.jstor.org/stable/20079751"
+    },
+    {
+      "citation": "Delacour, Catherine.<em> La Voie du Tao: un Autre Chemin de L'être : Galeries Nationales, Grand Palais, 29 Mars-5 Juillet 2010</em>. Paris: Reunion des Musees Nationaux, 2010.",
+      "page_number": "Reproduced: pp. 136-137, cat. 11.2",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.351",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_web.jpg",
+      "width": "915",
+      "height": "893",
+      "filesize": "653048",
+      "filename": "1995.351_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_print.jpg",
+      "width": "3400",
+      "height": "3320",
+      "filesize": "9205488",
+      "filename": "1995.351_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_full.tif",
+      "width": "5112",
+      "height": "4992",
+      "filesize": "76594108",
+      "filename": "1995.351_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt0_web.jpg",
+        "width": "944",
+        "height": "893",
+        "filesize": "721609"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt0_print.jpg",
+        "width": "3400",
+        "height": "3218",
+        "filesize": "9730481"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt0_full.tif",
+        "width": "5274",
+        "height": "4992",
+        "filesize": "79019148"
+      },
+      "date_created": "2009-11-25T14:52:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt1_web.jpg",
+        "width": "893",
+        "height": "893",
+        "filesize": "634842"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt1_print.jpg",
+        "width": "3400",
+        "height": "3400",
+        "filesize": "7185232"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt1_full.tif",
+        "width": "3723",
+        "height": "3723",
+        "filesize": "41590668"
+      },
+      "date_created": "2004-03-19T16:17:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt2_web.jpg",
+        "width": "893",
+        "height": "893",
+        "filesize": "643676"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt2_print.jpg",
+        "width": "3400",
+        "height": "3400",
+        "filesize": "6844950"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.351/1995.351_alt2_full.tif",
+        "width": "3723",
+        "height": "3723",
+        "filesize": "41597264"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159163,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1996-06-03T00:00:00",
+  "sortable_date": 700,
+  "date_added_to_oa": null,
+  "date_text": "mid to late 700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:44.967000"
+}

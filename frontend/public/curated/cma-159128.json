@@ -1,0 +1,40 @@
+{
+  "id": "cma-159128",
+  "title": "Mirror with Quatrefoil and Linked Arcs",
+  "accession": "1995.319",
+  "date": "25–220 CE",
+  "culture": [
+    "China, Eastern Han dynasty (25–220 CE)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.319",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159128",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "cb0392cdf72d856bef1efad87305123099e56f34ad48fb941d860ea24c905282",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159128.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.319/1995.319_web.jpg",
+  "image_sha256": "ecfca93d1298c0b8cb76d58ce9eae7e476ce3d381a040ce5fc2a4bb2cec952a8",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159128-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "You deserve an official post.",
+      "source_text": "君宜官位",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159128.json",
+  "record_url": "/curated/cma-159128.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. Four-character source inscription is paired with its complete short wish for an official post.",
+  "description": ""
+}

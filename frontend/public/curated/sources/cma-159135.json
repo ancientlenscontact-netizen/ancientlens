@@ -1,0 +1,142 @@
+{
+  "id": 159135,
+  "accession_number": "1995.326",
+  "share_license_status": "CC0",
+  "tombstone": "Mirror with Deities and Animals Surrounded by Rings of Squares and Semicircles (半圓方枚環繞式神獸鏡), 175–225 CE. China, Eastern Han dynasty (25–220 CE). Bronze; diameter: 11.8 cm (4 5/8 in.); overall: 1.2 cm (1/2 in.); rim: 0.4 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.326",
+  "current_location": null,
+  "title": "Mirror with Deities and Animals Surrounded by Rings of Squares and Semicircles",
+  "title_in_original_language": "半圓方枚環繞式神獸鏡",
+  "creation_date": "175–225 CE",
+  "creation_date_earliest": 175,
+  "creation_date_latest": 225,
+  "artists_tags": [],
+  "culture": [
+    "China, Eastern Han dynasty (25–220 CE)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Han Dynasty",
+  "type": "Metalwork",
+  "measurements": "Diameter: 11.8 cm (4 5/8 in.); Overall: 1.2 cm (1/2 in.); Rim: 0.4 cm (3/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.118,
+      "width_inch": 4,
+      "width_inch_fraction": 0.625
+    },
+    "overall": {
+      "height": 0.012,
+      "height_inch": 0,
+      "height_inch_fraction": 0.5
+    },
+    "rim": {
+      "height": 0.004,
+      "height_inch": 0,
+      "height_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "吾作明鏡，幽凍三商。\n雕刻極無（無極）。",
+      "inscription_translation": "I made this bright mirror by refining the three metals.\nThen I sculpted infinite forms.",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 193152,
+        "title": "Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors",
+        "description": "<i>Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000); China Institute in America, New York, NY (February 6-June 2, 2002); Elvehjem Museum of Art, Madison, WI (December 20, 2003-February 29, 2004).",
+        "opening_date": "2000-09-17T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Thomas and Martha Carter, Madison, WI",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Inscription: I made this bright mirror by refining the three metals. Then I sculpted infinite forms.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79978271"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.326-mirror-with-deities"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chou, Ju-hsi. <em>Circles of reflection: the Carter collection of Chinese bronze mirrors</em>. Cleveland, Ohio: Cleveland Museum of Art, 2000.",
+      "page_number": "Reproduced: cat. no. 39, pp. 53-54, 107, 118",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.326",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.326/1995.326_web.jpg",
+      "width": "945",
+      "height": "893",
+      "filesize": "660828",
+      "filename": "1995.326_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.326/1995.326_print.jpg",
+      "width": "1626",
+      "height": "1536",
+      "filesize": "2018247",
+      "filename": "1995.326_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.326/1995.326_full.tif",
+      "width": "1626",
+      "height": "1536",
+      "filesize": "7495252",
+      "filename": "1995.326_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159135,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1996-06-03T00:00:00",
+  "sortable_date": 175,
+  "date_added_to_oa": null,
+  "date_text": "175–225 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:14:29.018000"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cma-159146",
+  "title": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals",
+  "accession": "1995.336",
+  "date": "late 500s–early 600s",
+  "culture": [
+    "China, Sui dynasty (581-618)"
+  ],
+  "collection": "Chinese",
+  "source_language": "Chinese",
+  "language": "English",
+  "review": "unreviewed",
+  "institution": "The Cleveland Museum of Art",
+  "source_url": "https://www.clevelandart.org/art/1995.336",
+  "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/159146",
+  "retrieved_at": "2026-09-20",
+  "metadata_sha256": "f98b07d4a743b4d9f24f83b08d3b7f1af98aff4753e9340f8e80d37f3a72e0fb",
+  "text_license": "CC0",
+  "image_license": "CC0",
+  "text_rights_url": "https://openaccess-api.clevelandart.org/",
+  "image_rights_url": "https://www.clevelandart.org/open-access",
+  "image": "/curated/cma-159146.jpg",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_web.jpg",
+  "image_sha256": "d9aac317da17fc27e8089c2a5dd34c8d8316bde2794fc6a314d7eaa7e61147f5",
+  "image_changes": "None; museum web-sized JPEG",
+  "text_changes": "None; translated fields and remarks reproduced verbatim",
+  "passages": [
+    {
+      "id": "cma-159146-0",
+      "field": "inscriptions[0].inscription_translation",
+      "text": "The mirror's light shows the man inside.\nMay you live a long life and [constantly] \nrenew yourself.",
+      "source_text": "光正隨人，長命宜新。",
+      "remark": ""
+    }
+  ],
+  "source_snapshot": "/curated/sources/cma-159146.json",
+  "record_url": "/curated/cma-159146.json",
+  "note": "Complete museum-published inscription rendering; AncientLens scholarly review remains unreviewed. The description explicitly identifies the eight-word inner inscription; its two source clauses are paired with the English rendering.",
+  "description": ""
+}

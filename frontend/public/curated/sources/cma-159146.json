@@ -1,0 +1,181 @@
+{
+  "id": 159146,
+  "accession_number": "1995.336",
+  "share_license_status": "CC0",
+  "tombstone": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals (纏枝花十二生肖鏡), late 500s–early 600s. China, Sui dynasty (581-618). Bronze; diameter: 15.4 cm (6 1/16 in.); overall: 1.4 cm (9/16 in.); rim: 0.5 cm (3/16 in.). The Cleveland Museum of Art, Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee, 1995.336",
+  "current_location": null,
+  "title": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals",
+  "title_in_original_language": "纏枝花十二生肖鏡",
+  "creation_date": "late 500s–early 600s",
+  "creation_date_earliest": 581,
+  "creation_date_latest": 618,
+  "artists_tags": [],
+  "culture": [
+    "China, Sui dynasty (581-618)"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Sui Dynasty",
+  "type": "Metalwork",
+  "measurements": "Diameter: 15.4 cm (6 1/16 in.); Overall: 1.4 cm (9/16 in.); Rim: 0.5 cm (3/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.154,
+      "width_inch": 6,
+      "width_inch_fraction": 0.0625
+    },
+    "overall": {
+      "height": 0.014,
+      "height_inch": 0,
+      "height_inch_fraction": 0.5625
+    },
+    "rim": {
+      "height": 0.005,
+      "height_inch": 0,
+      "height_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "光正隨人，長命宜新。",
+      "inscription_translation": "The mirror's light shows the man inside.\nMay you live a long life and [constantly] \nrenew yourself.",
+      "inscription_remark": null,
+      "sortorder": 1
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 193152,
+        "title": "Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors",
+        "description": "<i>Circles of Reflection:  The Carter Collection of Chinese Bronze Mirrors</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000); China Institute in America, New York, NY (February 6-June 2, 2002); Elvehjem Museum of Art, Madison, WI (December 20, 2003-February 29, 2004).",
+        "opening_date": "2000-09-17T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Thomas and Martha Carter, Madison, WI, the Cleveland Museum of Art,",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1995",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1995–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The design of this mirror consists of a central knob and a series of concentric circular bands. The innermost band contains an eight-word inscription, with phrasing typical of earlier mirrors found in the Sui and early Tang periods:<br><br><em>The mirror's light shows the man inside. May you live a long life and [constantly] renew yourself.<br><br></em>Floral branches interlace in the second band. The controlled undulation produces five segments. The third band is divided into twelve parts, which house the zodiac animals in the clockwise sequence: rat, ox, tiger, hare, dragon, snake, horse, sheep, monkey, cock, dog, and boar. A sunken ring of the well-known sawtooth design continues to be effective, before the undecorated rim sets the final enclosure.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79978297"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.336-mirror-with-interlac"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chou, Ju-hsi. <em>Circles of reflection: the Carter collection of Chinese bronze mirrors</em>. Cleveland, OH: Cleveland Museum of Art, 2000.",
+      "page_number": "Mentioned: cat. no. 46, pp. 60, 107, 119. Reproduced: p. 60, and pl. 5, p. 19",
+      "url": null
+    },
+    {
+      "citation": "Delacour, Catherine.<em> La Voie du Tao: un Autre Chemin de L'être : Galeries Nationales, Grand Palais, 29 Mars-5 Juillet 2010</em>. Paris: Reunion des Musees Nationaux, 2010.",
+      "page_number": "Reproduced: p. 124, cat. 7.1",
+      "url": null
+    },
+    {
+      "citation": "Chung, Anita. <em>Ai Weiwei: Circle of Animals/Zodiac Heads: July 27, 2013-January 26, 2014, the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2013.",
+      "page_number": "Reproduced: p. 22, fig. 5",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.336",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_web.jpg",
+      "width": "893",
+      "height": "893",
+      "filesize": "657178",
+      "filename": "1995.336_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_print.jpg",
+      "width": "3400",
+      "height": "3400",
+      "filesize": "7328309",
+      "filename": "1995.336_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_full.tif",
+      "width": "3646",
+      "height": "3646",
+      "filesize": "39888620",
+      "filename": "1995.336_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_alt0_web.jpg",
+        "width": "893",
+        "height": "893",
+        "filesize": "668683"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_alt0_print.jpg",
+        "width": "3400",
+        "height": "3400",
+        "filesize": "7254024"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_alt0_full.tif",
+        "width": "3646",
+        "height": "3646",
+        "filesize": "39894712"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Drs. Thomas and Martha Carter in Honor of Sherman E. Lee",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159146,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1996-06-03T00:00:00",
+  "sortable_date": 581,
+  "date_added_to_oa": null,
+  "date_text": "late 500s–early 600s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-24 11:19:26.853000"
+}

@@ -78,5 +78,45 @@
     "record_url": "/curated/walters-26-2.json",
     "note": "The museum supplies the Greek epitaph and its corresponding English rendering; the photograph shows the four-line epitaph below the figure. Egyptian geography, Greek language; no separate Mediterranean count. AncientLens scholarly review: unreviewed. Egypt, Akhmim (Place of Discovery). Ownership history: Dikran Kelekian, New York and Paris, by purchase; Henry Walters, Baltimore, 1923, by purchase; Walters Art Museum, 1931, by bequest.",
     "description": ""
+  },
+  {
+    "id": "walters-41-222",
+    "title": "Foundation Tablet",
+    "accession": "41.222",
+    "date": "1785-1778 BCE (Old Babylonian)",
+    "culture": [
+      "Mesopotamia, Old Babylonian"
+    ],
+    "collection": "Mesopotamian",
+    "source_language": "Not specified by museum (cuneiform)",
+    "language": "English",
+    "review": "unreviewed",
+    "institution": "The Walters Art Museum",
+    "source_url": "https://art.thewalters.org/object/41.222/",
+    "metadata_url": "https://art.thewalters.org/object/41.222/",
+    "retrieved_at": "2026-09-20",
+    "metadata_sha256": "908c3d72bae93e8909b22d50f9bb6b4ab9a540e87bdd3c5b1da5aa9a2fb10401",
+    "text_license": "CC0",
+    "image_license": "CC0",
+    "text_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image_rights_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "image": "/curated/walters-41-222.jpg",
+    "image_url": "https://art.thewalters.org/images/art/CUR_41.222_VwA_UK.jpg",
+    "image_sha256": "40fdc22e38c4f8819fd66de1de5642eceb19c25cc7a39757f83cc93f45d73f79",
+    "image_changes": "None; museum composite JPEG reproduced unchanged. The Walters Art Museum, CC0.",
+    "text_changes": "Translation labels removed; face labels, wording and slash-separated lines preserved. Longer description excluded.",
+    "passages": [
+      {
+        "id": "walters-41-222-0",
+        "field": "Inscription: obverse and reverse translations",
+        "text": "on obverse: (For) Utu, / lord of justice of heaven and earth, / learned in decision, / the one who choses in favor of innocence, / the king of Ebabbar, / his king, / Sin-iddinam, / the shepherd who decorates everything / for Nippur, / the provider of Ur, / king of Larsa, / king of Sumer and Akkad, / the Ebabbar, / his beloved house,; On reverse: for the sake of his life, / he built (it) / For abundant distant days / he enlarged that dwelling place. / With the thing that he (Sin-iddinam) has done, / (may) Utu, / rejoice. / A life of sweet things / (and) bright days / as a reward, / may he (Utu) give to him (Sin-iddinam).",
+        "source_text": "",
+        "remark": "The museum does not specify the ancient language. Its current date is retained; older mirrored metadata may use a different chronology."
+      }
+    ],
+    "source_snapshot": "/curated/sources/walters-41-222.json",
+    "record_url": "/curated/walters-41-222.json",
+    "note": "The museum explicitly describes an inscription on two faces and publishes labelled obverse and reverse translations, including the final blessing. Both are reproduced together without omission. AncientLens scholarly review: unreviewed. Mesopotamia (Place of Origin); exact findspot not supplied. Ownership history: Henry Walters, Baltimore, [date and mode of acquisition unknown]; Sadie Jones (Mrs. Henry Walters), New York, 1931, by inheritance; Joseph Brummer, Paris and New York, 1941, by purchase [Brummer inv. no. N5019]; Walters Art Museum, 1941, by purchase.",
+    "description": ""
   }
 ]
