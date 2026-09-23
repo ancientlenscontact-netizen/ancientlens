@@ -1,10 +1,10 @@
 # AncientLens
 
-An open-source explorer for ancient inscriptions: browse real artifacts, read museum-sourced English translations, save private notes, and contribute original translations.
+An open-source explorer for ancient inscriptions: browse real artifacts, read published English translations, save private notes, and contribute original translations.
 
 **Public pilot:** https://ancientlens.org/ · **Dataset and source releases:** https://ancientlens.org/data.html
 
-The pilot contains 50 distinct Cleveland Museum of Art objects and 57 published translation entries across six editorial culture collections. Some entries are short names or coin legends. Every AncientLens scholarly review status is **unreviewed**. This is sourced retrieval, not automatic translation of arbitrary photographs. Museum content is not evidence of community activity.
+The current collection contains 115 distinct objects/documents and 123 published source entries across eight editorial culture collections: 60 Cleveland objects, 29 ClassicMayan records and 26 Walters objects. There are 89 illustrated records and 26 text-only records. Older versioned archives retain their original contents and counts. Some entries are short names or coin legends. Every AncientLens scholarly review status is **unreviewed**. This is sourced retrieval, not automatic translation of arbitrary photographs. Museum content is not evidence of community activity.
 
 ## Run a local demo
 
@@ -25,7 +25,7 @@ npm ci
 npm run dev
 ```
 
-Open http://127.0.0.1:5173. The50 curated artifacts and57 passage references load without a corpus download or credentials. The hosted pilot additionally has7 Unas passage references; they are not part of the curated dataset release. Local accounts/data are created separately. Never copy the production SQLite file into a public release.
+Open http://127.0.0.1:5173. The current 115 curated records and 123 passage references load without a corpus download or credentials. The hosted pilot additionally has7 Unas passage references; they are not part of the curated dataset release. Local accounts/data are created separately. Never copy the production SQLite file into a public release.
 
 Try searching “Shemai”, opening its translation, registering a local account, saving a private note, and opening Contribute on an inscription. Save your recovery code: email password resets are not provided. Local mode also exposes experimental research tools; their proposed regions are not identified glyphs. Keep development servers on loopback.
 
@@ -44,7 +44,7 @@ The optional real-Restic test skips if Restic is not installed. Tests use isolat
 
 [Versioned dataset](https://ancientlens.org/data.html): JSON records, JSON Schema, original museum metadata, images, checksums and provenance. Stable artifact IDs identify objects; passage IDs retain museum inscription indices. See [dataset documentation](docs/DATASET.md).
 
-Project-owned software/documentation: [MIT](LICENSE). Cleveland source records/images: CC0. Original community translations: CC BY-SA4.0 with explicit acceptance; community submissions are not in this dataset release. These are separate grants; see [LICENSING.md](LICENSING.md). No museum endorsement or independent scholarly verification is implied.
+Project-owned software/documentation: [MIT](LICENSE). Cleveland source records/images and Walters inscription metadata: CC0. ClassicMayan text/drawings: CC BY 4.0. Four direct Walters photographs are CC0; twenty-two photographs via Wikimedia Commons retain CC BY-SA 3.0. Preserve each record’s separate text/image attribution and reuse terms. Original community translations: CC BY-SA4.0 with explicit acceptance; community submissions are not in this dataset release. These are separate grants; see [LICENSING.md](LICENSING.md). No museum endorsement or independent scholarly verification is implied.
 
 ## Participate
 
@@ -57,10 +57,10 @@ The public community service excludes research image-upload routes. Self-hosting
 ## Structure
 
 - `frontend/src`: React interface and generated curated records
-- `frontend/public/curated`: CC0 images and pinned source evidence
+- `frontend/public/curated`: individually licensed images and pinned source evidence
 - `backend/app/api`: accounts, libraries, contributions and moderation
 - `backend/app/data`: persistence, removal and backup tooling
 - `backend/tests`: isolated regression tests
 - `scripts`: deterministic dataset/source release tooling
 
-Camera translation, scholarly accuracy evaluation and additional datasets remain future work. No accuracy score is claimed.
+Camera translation and scholarly accuracy evaluation remain future work. No accuracy score is claimed.

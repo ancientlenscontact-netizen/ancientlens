@@ -11,10 +11,17 @@ import {RemovalQueue} from './Removals';
 type Draft = {author:string; translation_language:string; translation:string; source:string; reuse_terms:string; rights_basis:'original_work'|'permission_supported'; rights_evidence:string; notes:string; ai_assisted:boolean;terms_version:string;terms_accepted:boolean};
 type Saved = Draft & {id:string; revision:number; created_on:string; review_status:string; moderation_status:string;history_may_be_truncated:boolean;can_edit:boolean;withdrawn:boolean;can_moderate:boolean;accepted_on:string|null;moderation_events:{id:number;action:string;reason:string;created_on:string;moderator:string}[]};
 const blank:Draft = {author:'',translation_language:'',translation:'',source:'',reuse_terms:'CC BY-SA 4.0',rights_basis:'original_work',rights_evidence:'',notes:'',ai_assisted:false,terms_version:'2026-09-16.1',terms_accepted:false};
-async function request<T>(url:string, options?:RequestInit):Promise<T>{
+export async function request<T>(url:string, options?:RequestInit):Promise<T>{
  const response=await fetch(url,options);
- if(!response.ok){const data=await response.json();throw new Error(typeof data.detail==='string'?data.detail:'Check the required fields and length limits.');}
- return response.json() as Promise<T>;
+ // Proxies can return plain text or HTML during an outage.
+ const data:unknown=await response.json().catch(()=>undefined);
+ if(response.status>=500)throw new Error('The service is temporarily unavailable. Please try again shortly.');
+ if(!response.ok){
+  const detail=data&&typeof data==='object'&&'detail' in data?data.detail:undefined;
+  throw new Error(typeof detail==='string'?detail:'Check the required fields and length limits.');
+ }
+ if(data===undefined)throw new Error('The service returned an unreadable response. Please try again shortly.');
+ return data as T;
 }
 function sourceLink(url:string){try{const u=new URL(url);return ['http:','https:'].includes(u.protocol)?u.href:undefined;}catch{return undefined;}}
 
